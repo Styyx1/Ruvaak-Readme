@@ -41,9 +41,11 @@ One of the biggest changes Ruvaak makes is completely decoupling the levelling s
 
 [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487) makes small but meaningful changes to encounter zones but with the addition of [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872), there's still a chance that you will encounter enemies out of your level range. 
 
+[Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) allows you to allocate points into skills instead of training them. That lets you focus more on the build you want to play instead of limiting yourself only to use certain tools to not accidentally level up other things.
+
 > "Sometimes, running is your best and only option! Don't be afraid to use it."
 
-Another large change that Tinvaak makes is changing crafting so that you need forging manuals to craft new items. [Heim -Smithing Tweaks and Lightweight overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) also makes some more tweaks to make smithing more rewarding. For those not wanting to invest in crafting, you will find forgemasters across Skyrim ready to [Hone Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) for the right price. 
+Another large change that Ruvaak makes is changing crafting so that you need forging manuals to craft new items. [Heim -Smithing Tweaks and Lightweight overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) also makes some more tweaks to make smithing more rewarding. For those not wanting to invest in crafting, you will find forgemasters across Skyrim ready to [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) for the right price. 
 
 Alchemy can do more than providing fancy potions and  [Badass Alchemist's Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) shows you how powerful alchemy can be.
 
