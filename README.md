@@ -194,7 +194,7 @@ All of the MCM options are automatically configured for you already. Wait until 
 Ruvaak also makes use of a few GUI menus:
 
 - [CatHub](https://www.nexusmods.com/skyrimspecialedition/mods/65958) allows you to customize kill moves and chances for kill moves. Key ``ctrl + NumPad . (, for German keyboards)``
-- [Immersive Equipment Distplay](https://www.nexusmods.com/skyrimspecialedition/mods/62001) allows you to show equipment on your character. Key ``Backspace``
+- [Immersive Equipment Distplay](https://www.nexusmods.com/skyrimspecialedition/mods/62001) allows you to show equipment on your character. Key ``left ctrl + Backspace``
 - [QUI](https://www.nexusmods.com/skyrimspecialedition/mods/65343?tab=files) is basically AddItem Menu. I don't suggest using it unless you know which items are definitely safe to take. Key ``F11``
 - ENB to adjust visuals and many effects. Only use it when you know what you're doing. Key ``shift + enter``
 - [PlayerStats](https://www.nexusmods.com/skyrimspecialedition/mods/67622) allows you to see Actor Values, such as Negative Resistances gained from eating alchemical ingredients, Attributes (current and max), etc using the ``NumPad Enter`` key. 
@@ -203,6 +203,13 @@ Ruvaak also makes use of a few GUI menus:
 
 - I added a bunch of character presets for you to create your character off of. The folder system does not work with a controller but you can switch to your mouse on without disabling the controller anyway.
 - You will start in a strange place called 'the Realm of Lorkhan' feel free to explore this area for any goods and standing stones. There are boons and class shrines there as well but note that there is no way of removing the boons and curses as of now so make a save before picking one!
+
+### Immersive Equipment Display Presets
+
+Once you've done all that, click ``left CTRL + Backspace`` and IED's UI shall appear. Follow the instructions in the following pic to load the presets.
+![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakIEDinstructions.png)
+
+- After you have loaded **all 3 presets** you're good to go. Note that there will most likely still be clipping but adjust positions as you like it.
 
 
 ## Updating the modlist
@@ -249,6 +256,7 @@ Make sure you meet the requirements for the equipment you want to use. By defaul
 ### Help, my gear broke
 
 If your equipment got damaged or destroyed, visit a blacksmith to temper it, or temper it yourself at the right crafting station for your equipment type.
+Feel free to set the rate of your equipment degradation as high/low as you like it in the ``Breakable Equipment MCM``
 
 ### Tweaking the Game Settings
 
@@ -321,6 +329,7 @@ For see what changes happened in each version please refer to the [Changelog](ht
 - Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
 - Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it.
 - Astro for more help than I can list. Be it testing or suggestions, seriously, thanks a lot.
+- Anna for adjusting the ENBs for Ruvaak even though they aren't used anymore.
 - (A)SanguineAnarchy for beta testing the update and providing a ton of useful feedback.
 - The Animonculory Dev Team.
 - Guitarninja for walking me through uploading the list.
