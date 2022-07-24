@@ -87,6 +87,7 @@ Ruvaak comes with a wide variety of new quest and encounters. A few are listed b
 6. [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. 
 
 7. [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178) assures you, that you are not alone in the world and somebody is after your character
+
 8. [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) a story about Vigilants of Stendarr. The story gets darker as you progress through it and there's a lot to uncover. 
 # Note: If someone offers you a needle to kill someone, you shouldn't use it!!!
 
@@ -94,7 +95,7 @@ Ruvaak comes with a wide variety of new quest and encounters. A few are listed b
 
 Ruvaak is relatively easy in terms of city overhauls but it adds a few new settlements as well.
 
-1. [Enhanced Town and Cities - ETaC](https://www.nexusmods.com/skyrimspecialedition/mods/13552) is used as the city overhaul of choice, further enhanced by mods like [Illustrious Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/28950) and [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099)
+1. [Capital of...](https://www.nexusmods.com/skyrimspecialedition/mods/34222) series of mod is used for a few towns in combination with other town mods are used to provide a fresh look for the cities, further enhanced by mods like [Illustrious Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/28950) and [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099)
 
 2. [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) expands various locations throughout Skyrim by adding NPCs and buidings to them.
 
@@ -134,7 +135,7 @@ A modlist wouldn't be complete without a few new soundtracks and a weather upgra
 
 1. [Aequinoctium - Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/15884) is the weather mod of choice for Ruvaak. Pairing with the ENB perfectly, it provides the perfect backdrop for the list.
 
-2. [Personalized Music](https://www.nexusmods.com/skyrimspecialedition/mods/2572) + [Dark Era](https://www.nexusmods.com/skyrimspecialedition/mods/39746) provide the music to give the feeling i was going for with the list
+2. [Personalized Music](https://www.nexusmods.com/skyrimspecialedition/mods/2572) + [Dark Era](https://www.nexusmods.com/skyrimspecialedition/mods/39746) provide the music to give the feeling i was going for with the list.
 
 3. [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) does what it pretty much says on the tin. Expect sounds to feel more relistic and, well, overhauled.
 
@@ -144,17 +145,20 @@ A modlist wouldn't be complete without a few new soundtracks and a weather upgra
 
 Ruvaak is by no means a heavily roleplaying focused list but there are some mods that make it possible on a pretty basic level.
 
-1. [CC Survival mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) is further enhanced by mods like [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152), [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891), [Sleep under the Stars](https://www.nexusmods.com/skyrimspecialedition/mods/20548) and [Frost Resist provides Warmth](https://www.nexusmods.com/skyrimspecialedition/mods/61272)
+1. [CC Survival mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) is further enhanced by mods like [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152), [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891), [Sleep under the Stars](https://www.nexusmods.com/skyrimspecialedition/mods/20548) and [Frost Resist provides Warmth](https://www.nexusmods.com/skyrimspecialedition/mods/61272).
 
 2. [CC Camping](https://en.uesp.net/wiki/Skyrim:Camping) lets you build basic campsides. It works with Survival mode turned off as well in case you don't like survival elements but still want to build campsites.
 
 3. [Pick your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710) gives you books that list the alchemical ingredients and their effects.
 
-4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrimspecialedition/mods/26292) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow according to your playstyle independent of level or skills. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on)
+4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrimspecialedition/mods/26292) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow according to your playstyle independent of level or skills. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on).
+# Note: This mod disables the vanilla attribute gain so you can't level Health, Stamina or Magicka as usual!
 
 5. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including armor and weapons added by mods. The quality and price of their work will depend on their skill as craftsmen as well as your barter abilities. Fully customizable through an MCM menu.
 
 6. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
 
- ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs
+ ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs.
+ 
+ 7. [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) and [Static Skill leveling Alternative Level up Menu](https://www.nexusmods.com/skyrimspecialedition/mods/62027) change how you level up your character. By default, you need to allocate skill points after you got enough experience for a level up. You don't level up the skills by using them anymore.
 
