@@ -160,7 +160,7 @@ Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### ENB
 
-Ruvaak comes already set up with [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **Four** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
+Ruvaak comes already set up with [Aequinoctium ENB](https://www.nexusmods.com/skyrimspecialedition/mods/16008) for Aequinoctium Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **a few** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for, except the new default one. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
 Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
 ### Optional Mods
@@ -186,7 +186,7 @@ All of the MCM options are automatically configured for you already. Wait until 
 - Draw 2 (Goes hand in hand with the equipment styles you can set up in XPMSE MCM)
 - Legacy (Race mod which lets you choose which racial power you want to use)
 - Lucien (If you set a supported nickname, he will call you by that)
-- Sovngarde Beckons (tinker with the settings as you like)
+- Sovngarde Beckons (tinker with the settings as you like but note that its stagger is completely removed and stagger settings do nothing now)
 - SkyUI
 - The Ultimate Dodge Mod (A config will get loaded upon start. You don't have to change anything there really)
 - I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
