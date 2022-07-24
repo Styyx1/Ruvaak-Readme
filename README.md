@@ -125,7 +125,7 @@ Downloading and installing Ruvaak can take a while depending on your internet co
 
 2. Press the download button on Ruvaak and wait for it to download.
 3. Set the installation folder to be somewhere like C:\Games\Ruvaak. **Do not install it to your desktop, downloads folder or Skyrim's game folder.**
-4. The download location does not need to be on a SSD but it makes installing a bit faster
+4. The download location does not need to be on a SSD but it makes installing a bit faster. You can also have a shared download folder across all Wabbajack lists on a different drive than the install drive.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
