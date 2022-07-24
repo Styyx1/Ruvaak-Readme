@@ -9,10 +9,10 @@ Almost every aspect of vanilla gameplay in Ruvaak has been changed in some way. 
 
 ## Perma Death (Rouge Like mechanic)
 
-- the mod is located near the bottom of the left side in MO2 and is completely optional **before you start a new game**. I left it on by default as I like it, but I know many won't like it. If you are one of those who don't like it, simply disable it in MO2
+- Perma Death is now a fully integrated part of the list thanks to [Zdo Immersive Death](https://www.nexusmods.com/skyrimspecialedition/mods/35517). You can disable it by going into the MCM and set the chance to 0
 
 
-Ruvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which allows for skill caps of over 100 and uses Vokrii's skill scaling.
+Ruvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which uses Vokrii's skill scaling.
 
 Various other gameplay mods used include:
 
@@ -22,7 +22,7 @@ Various other gameplay mods used include:
 
 4. [Nightmare Night - Renaissance of Werebeasts](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
 
-5. [Enhanced Vampirism](https://www.nexusmods.com/skyrimspecialedition/mods/61029) to overhaul the Vampire gameplay in a minimalistic but lore-friendly way. This will be subject to change but undecided yet
+5. [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086) and [Vampyrium-Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/39749) to completely change the vampire gameplay. Feeding is now only a chance to heal yourself and you get special perk by joining different vampire clans. I highly recommend checking out both mods' description if you plan on playing a vampire character.
 
 6. [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) provides an overhaul to smithing with minimal edits to ensure compatibility. You will need to find forging manuals in order to unlock each respective category in the forge menu.
 
@@ -33,8 +33,6 @@ Various other gameplay mods used include:
 9. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) changes dragons so that they feel like a true boss fight, with a range of new attacks and abilities. Expect dragons to offer a true battle to remember.
 
 10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
-
-11. [Gold to skill potions](https://www.nexusmods.com/skyrimspecialedition/mods/65578) Usually after 20h+ gameplay, it's very difficult to spend your 200k+ gold gained from all around the world. This mod now provides you another option.
 
 
 ## Magic Mods
@@ -64,7 +62,7 @@ Ruvaak completely reworks combat to be more action based and heavily 3rd person 
 
 3. [Attack Behavior Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/45378) introduces attack commitment, so you can't freely turn around during attacks. The same is true for NPCs. It also gives you the ability to chains dual weapon attacks and left handed attacks.
 
-4.  [CGO Stripped](https://www.nexusmods.com/skyrimspecialedition/mods/60258) is a leight weight alternative to the popular CGO mod. This mod allows jumping attacks and it also introduces leaning while moving (adjustable in the MCM).
+4.  [Jumping Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/68043) in combination with [Skyrim Paragilder](https://www.nexusmods.com/skyrimspecialedition/mods/53256) can provide some interesting opportunities for ambushes and the likes.
 
 5. [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611) tweaks the speed of projectiles in games so you can actually dodge the enemy range attacks like any modern action combat game.
 
@@ -90,11 +88,14 @@ Ruvaak comes with a wide variety of new quest and encounters. A few are listed b
 
 7. [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178) assures you, that you are not alone in the world and somebody is after your character
 
+8. [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) a story about Vigilants of Stendarr. The story gets darker as you progress through it and there's a lot to uncover. 
+# Note: If someone offers you a needle to kill someone, you shouldn't use it!!!
+
 ## Expanded Cities Towns and Villages
 
 Ruvaak is relatively easy in terms of city overhauls but it adds a few new settlements as well.
 
-1. [Enhanced Town and Cities - ETaC](https://www.nexusmods.com/skyrimspecialedition/mods/13552) is used as the city overhaul of choice, further enhanced by mods like [Illustrious Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/28950) and [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099)
+1. [Capital of...](https://www.nexusmods.com/skyrimspecialedition/mods/34222) series of mod is used for a few towns in combination with other town mods are used to provide a fresh look for the cities, further enhanced by mods like [Illustrious Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/28950) and [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099)
 
 2. [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) expands various locations throughout Skyrim by adding NPCs and buidings to them.
 
@@ -134,7 +135,7 @@ A modlist wouldn't be complete without a few new soundtracks and a weather upgra
 
 1. [Aequinoctium - Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/15884) is the weather mod of choice for Ruvaak. Pairing with the ENB perfectly, it provides the perfect backdrop for the list.
 
-2. [Personalized Music](https://www.nexusmods.com/skyrimspecialedition/mods/2572) + [Dark Era](https://www.nexusmods.com/skyrimspecialedition/mods/39746) provide the music to give the feeling i was going for with the list
+2. [Personalized Music](https://www.nexusmods.com/skyrimspecialedition/mods/2572) + [Dark Era](https://www.nexusmods.com/skyrimspecialedition/mods/39746) provide the music to give the feeling i was going for with the list.
 
 3. [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) does what it pretty much says on the tin. Expect sounds to feel more relistic and, well, overhauled.
 
@@ -144,19 +145,20 @@ A modlist wouldn't be complete without a few new soundtracks and a weather upgra
 
 Ruvaak is by no means a heavily roleplaying focused list but there are some mods that make it possible on a pretty basic level.
 
-1. [CC Survival mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) is further enhanced by mods like [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152), [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891), [Sleep under the Stars](https://www.nexusmods.com/skyrimspecialedition/mods/20548) and [Frost Resist provides Warmth](https://www.nexusmods.com/skyrimspecialedition/mods/61272)
+1. [CC Survival mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) is further enhanced by mods like [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152), [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891), [Sleep under the Stars](https://www.nexusmods.com/skyrimspecialedition/mods/20548) and [Frost Resist provides Warmth](https://www.nexusmods.com/skyrimspecialedition/mods/61272).
 
 2. [CC Camping](https://en.uesp.net/wiki/Skyrim:Camping) lets you build basic campsides. It works with Survival mode turned off as well in case you don't like survival elements but still want to build campsites.
 
 3. [Pick your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710) gives you books that list the alchemical ingredients and their effects.
 
-4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrimspecialedition/mods/26292) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow according to your playstyle independent of level or skills. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on)
+4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrimspecialedition/mods/26292) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow according to your playstyle independent of level or skills. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on).
+# Note: This mod disables the vanilla attribute gain so you can't level Health, Stamina or Magicka as usual!
 
 5. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including armor and weapons added by mods. The quality and price of their work will depend on their skill as craftsmen as well as your barter abilities. Fully customizable through an MCM menu.
 
-6. [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963) together with an add-on for it allows you to toggle your helmet and the addon even allows to have automatic lowered hoods in any safe interior. **Currently in some sort of testing phase as there are some hidden incompatibilities with it**
+6. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
 
-7. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
-
- ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs
+ ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs.
+ 
+ 7. [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) and [Static Skill leveling Alternative Level up Menu](https://www.nexusmods.com/skyrimspecialedition/mods/62027) change how you level up your character. By default, you need to allocate skill points after you got enough experience for a level up. You don't level up the skills by using them anymore.
 
