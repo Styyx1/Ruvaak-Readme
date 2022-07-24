@@ -15,13 +15,16 @@
 
 # Updates
 
+- [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=300944)
 - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=298591)
+- [BURP Spell Tomes Patches](https://www.nexusmods.com/skyrimspecialedition/mods/65696/?tab=files&file_id=283867)
 - [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=288995)
 - [Beards of Power - Sons of Skyrim - Male npc replacer](https://www.nexusmods.com/skyrimspecialedition/mods/43293/?tab=files&file_id=291623)
 - [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=289005)
 - [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=285113)
 - [Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=296247)
 - [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435/?tab=files&file_id=286697)
+- [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=300679)
 - [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=288345)
 - [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148/?tab=files&file_id=288703)
 - [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310/?tab=files&file_id=288529)
@@ -37,6 +40,7 @@
 - [Forsworn Fashions- More Variety for forsworn (Armor Pack- CBBE 3BA and HIMBO)](https://www.nexusmods.com/skyrimspecialedition/mods/66673/?tab=files&file_id=287190)
 - [Ghosts of the Tribunal - Voiced Narrative](https://www.nexusmods.com/skyrimspecialedition/mods/67374/?tab=files&file_id=285628)
 - [Glass Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/60257/?tab=files&file_id=286979)
+- [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188/?tab=files&file_id=300733)
 - [Lore Friendly Rifles of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/60183/?tab=files&file_id=285319)
 - [Lucifer - Argonian Custom Voiced Follower](https://www.nexusmods.com/skyrimspecialedition/mods/44967/?tab=files&file_id=284796)
 - [MQ105ShoutTargetScript - Frequent Call Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67968/?tab=files&file_id=290215)
@@ -60,6 +64,7 @@
 - [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374/?tab=files&file_id=288691)
 - [Take a Peek - New Stealth Mechanic](https://www.nexusmods.com/skyrimspecialedition/mods/66908/?tab=files&file_id=286713)
 - [The Ruins of Mharzurk SE](https://www.nexusmods.com/skyrimspecialedition/mods/49825/?tab=files&file_id=255787)
+- [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167/?tab=files&file_id=297043)
 - [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975/?tab=files&file_id=292474)
 - [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=292160)
 - [Venjhammet dungeons - Unique rewards - SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/64089/?tab=files&file_id=275703)
@@ -70,7 +75,9 @@
 
 
 - [A Mysterious Place (AMP) ENB](https://www.nexusmods.com/skyrimspecialedition/mods/60977/?tab=files&file_id=253456)
+- [A Subtle Preset for Stop On Slash](https://www.nexusmods.com/skyrimspecialedition/mods/61471/?tab=files&file_id=276350)
 - [Almost Permadeath Reloaded SP](https://www.nexusmods.com/skyrimspecialedition/mods/66710/?tab=files&file_id=279870)
+- [Ancient Nord Pickaxe Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8978/?tab=files&file_id=22588)
 - [Break the Wind](https://www.nexusmods.com/skyrimspecialedition/mods/60640/?tab=files&file_id=251395)
 - [CGO Stripped](https://www.nexusmods.com/skyrimspecialedition/mods/60258/?tab=files&file_id=250165)
 - [Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60974/?tab=files&file_id=254116)
@@ -101,6 +108,7 @@
 - [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 - [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489/?tab=files&file_id=282284)
 - [Otherside ENB](https://www.nexusmods.com/skyrimspecialedition/mods/61921/?tab=files&file_id=256703)
+- [Outlander UI](https://www.nexusmods.com/skyrimspecialedition/mods/53752/?tab=files&file_id=259505)
 - [Paper Blackreach Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=260068)
 - [Paper Darkend Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/60691/?tab=files&file_id=251479)
 - [Paper Forgotten Vale Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/54628/?tab=files&file_id=278942)
@@ -112,11 +120,18 @@
 - [Security Overhaul SKSE - Lock Variations](https://www.nexusmods.com/skyrimspecialedition/mods/58224/?tab=files&file_id=260686)
 - [Skyrim Platform Configuration Menu (SPCM)](https://www.nexusmods.com/skyrimspecialedition/mods/61556/?tab=files&file_id=256082)
 - [Skyrim Platform](https://www.nexusmods.com/skyrimspecialedition/mods/54909/?tab=files&file_id=276198)
+- [Skyrim Search SE](https://www.nexusmods.com/skyrimspecialedition/mods/45689/?tab=files&file_id=254739)
 - [The Elder Scrolls VI Level Up Sound](https://www.nexusmods.com/skyrimspecialedition/mods/28848/?tab=files&file_id=106060)
 - [Vampires Regen in Shade](https://www.nexusmods.com/skyrimspecialedition/mods/3335/?tab=files&file_id=5428)
 - [Veydosebrom Regions](https://www.nexusmods.com/skyrimspecialedition/mods/26293/?tab=files&file_id=282352)
 - [Vigilants of Stendarr Templar Armor](https://www.nexusmods.com/skyrimspecialedition/mods/63536/?tab=files&file_id=263796)
+- [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176/?tab=files&file_id=247313)
 - [Wind Ruler Armor SE - hdt-SMP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63036/?tab=files&file_id=261535)
+- [XP32 Maximum Skeleton Special Extended - Fixed Scripts](https://www.nexusmods.com/skyrimspecialedition/mods/44252/?tab=files&file_id=179016)
+- [XP32 Maximum Skeleton Special Extended - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56146/?tab=files&file_id=235321)
+- [XPMSSE - Nemesis - Papyrus Stack Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60363/?tab=files&file_id=264512)
+- [XPMSSE MCM Menu Image Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/45262/?tab=files&file_id=184486)
+- [XPMSSE Weapon Styles Uncloaked](https://www.nexusmods.com/skyrimspecialedition/mods/54720/?tab=files&file_id=224496)
 - [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160/?tab=files&file_id=244151)
 
 # Additions
@@ -125,6 +140,7 @@
 - [(SJG) Dual Wield Parrying Reimplementation for SSE (Works for Spell Blades as well)](https://www.nexusmods.com/skyrimspecialedition/mods/18264/?tab=files&file_id=58573)
 - [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=288759)
 - [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=288760)
+- [Aequinoctium ENB](https://www.nexusmods.com/skyrimspecialedition/mods/16008/?tab=files&file_id=119795)
 - [An Unlikely Spell -SE](https://www.nexusmods.com/skyrimspecialedition/mods/67834/?tab=files&file_id=287622)
 - [Ange the Wanderer](https://www.nexusmods.com/skyrimspecialedition/mods/36458/?tab=files&file_id=142052)
 - [Animated Armoury Vigilant Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22964/?tab=files&file_id=100735)
@@ -152,8 +168,6 @@
 - [Detailing the Eldrich - Higher-Res Riekling Architecture](https://www.nexusmods.com/skyrimspecialedition/mods/46975/?tab=files&file_id=191370)
 - [Dwarven Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/65884/?tab=files&file_id=286968)
 - [Dynamic Gearshout Armors](https://www.nexusmods.com/skyrimspecialedition/mods/71053/?tab=files&file_id=297608)
-- [Elden Rim - Hound Step](https://www.nexusmods.com/skyrimspecialedition/mods/65957/?tab=files&file_id=287375)
-- [Elden Rim - Weapon Arts](https://www.nexusmods.com/skyrimspecialedition/mods/65625/?tab=files&file_id=288458)
 - [Enchantable Special Item Fix](https://www.nexusmods.com/skyrimspecialedition/mods/65154/?tab=files&file_id=271112)
 - [Ennead Shields](https://www.nexusmods.com/skyrimspecialedition/mods/10787/?tab=files&file_id=88421)
 - [Find dangerous ESLs - xEdit script](https://www.nexusmods.com/skyrimspecialedition/mods/68889/?tab=files&file_id=288158)
@@ -194,6 +208,9 @@
 - [SABRECAT](https://www.nexusmods.com/skyrimspecialedition/mods/5303/?tab=files&file_id=11597)
 - [Separate Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/45193/?tab=files&file_id=183762)
 - [Serenity 3DNPC BSA Proper.7z](https://build.wabbajack.org/authored_files/direct_link/Serenity%203DNPC%20BSA%20Proper.7z_5f4f4e64-4c67-42ee-b249-de8277cc67a5)
+- [Shadow Duelist Armor](https://www.nexusmods.com/skyrimspecialedition/mods/64092/?tab=files&file_id=266304)
+- [Shush about my Dangerous Spells](https://www.nexusmods.com/skyrimspecialedition/mods/36773/?tab=files&file_id=143475)
+- [Simplest Horses (and other mounts)](https://www.nexusmods.com/skyrimspecialedition/mods/54225/?tab=files&file_id=290326)
 - [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=288639)
 - [Skyrim's Paraglider - Stamina Drain](https://www.nexusmods.com/skyrimspecialedition/mods/57931/?tab=files&file_id=240054)
 - [Skyrim's Paraglider - Tarhiel's Gale Cooldown](https://www.nexusmods.com/skyrimspecialedition/mods/64618/?tab=files&file_id=268516)
@@ -206,6 +223,7 @@
 - [Stagger Direction Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/43339/?tab=files&file_id=192672)
 - [Static Skill Leveling (Experience Mod Add-on)](https://www.nexusmods.com/skyrimspecialedition/mods/30410/?tab=files&file_id=284817)
 - [Steel Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59445/?tab=files&file_id=287537)
+- [Static Skill Leveling alternative levelup menu](https://www.nexusmods.com/skyrimspecialedition/mods/62027/?tab=files&file_id=294356)
 - [TROLL](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9402)
 - [Terynne Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/41054/?tab=files&file_id=163655)
 - [The Great Town of Ivarstead SSE](https://www.nexusmods.com/skyrimspecialedition/mods/34505/?tab=files&file_id=164101)
@@ -245,9 +263,6 @@
 - [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_1898e8aa-827b-4242-9a29-3094a8bbb98e/)
 - [iBeasts - Argonian and Khajiit hairs and replacer for Interesting Npcs (3dNPCs)](https://www.nexusmods.com/skyrimspecialedition/mods/50355/?tab=files&file_id=289795)
 - [lilebonymace's patches xEdit scripts and stuff](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=281820)
-
-
-
 
 
 
