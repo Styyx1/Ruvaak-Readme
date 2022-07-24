@@ -9,7 +9,7 @@ Almost every aspect of vanilla gameplay in Ruvaak has been changed in some way. 
 
 ## Perma Death (Rouge Like mechanic)
 
-- Perma Death is now a fully integrated part of the list thanks to [Zdo Immersive Death](https://www.nexusmods.com/skyrimspecialedition/mods/35517). You can disable it by going into the MCM and set the chance to 0
+- Perma Death is now a fully integrated part of the list thanks to [Zdo Immersive Death](https://www.nexusmods.com/skyrimspecialedition/mods/35517). You can disable it by going into the MCM and set the chance to lose a life to 0. You can change pretty much every option in there but do not change the health after dying to below 30 as it might result in an immediate second death due to the starting health being less than vanilla.
 
 
 Ruvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which uses Vokrii's skill scaling.
