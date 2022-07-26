@@ -42,8 +42,16 @@ Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversa
     - [Starting the Game](#starting-the-game)
   - [Updating Ruvaak](#updating-the-modlist)
   - [FAQ](#faq)
+    - [BA Alchemist Arsenal](#ba-alchemist-arsenal)
+    - [Controller Setup](#controller-setup)
     - [Ultrawide Options](#ultrawide-options)
-    - [Controller setup](#controller-setup)
+    - [Overpowered Enemies](#overpowered-enemies)
+    - [OP Loot](#op-loot)
+    - [Survival Mode](#survival-mode)
+    - [Can't hit friendly NPCs?](#cant-hit-friendly-npcs)
+    - [Equipment is too weak](#equipment-is-too-weak)
+    - [Help, my gear broke](#help-my-gear-broke)
+    - [TUDM Keybinds](#tudm-keybinds)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
     - [Modifications](#modifications)
@@ -264,7 +272,7 @@ Make sure you meet the requirements for the equipment you want to use. By defaul
 If your equipment got damaged or destroyed, visit a blacksmith to temper it, or temper it yourself at the right crafting station for your equipment type.
 Feel free to set the rate of your equipment degradation as high/low as you like it in the ``Breakable Equipment MCM``
 
-### How to Adjust the Ultimate Dodge Mod to based on my settings
+### TUDM Keybinds
 
 So, you need to go to "The Ultimate Dodge Mod"  MCM, and configure your dodge/sneak keys
 First you need to disable the gamepad compatibilty option in the MCM.
