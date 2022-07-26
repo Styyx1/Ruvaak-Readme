@@ -184,7 +184,6 @@ All of the MCM options are automatically configured for you already. Wait until 
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
 - Draw 2 (Goes hand in hand with the equipment styles you can set up in XPMSE MCM)
 - Dual wield Parrying (set up the hotkey for it cause i can't automate for Gamepad and KB&M)
-- Legacy (Race mod which lets you choose which racial power you want to use)
 - Lucien (If you set a supported nickname, he will call you by that)
 - Sovngarde Beckons (tinker with the settings as you like but note that its stagger is completely removed and stagger settings do nothing now)
 - SkyUI
@@ -209,7 +208,7 @@ Ruvaak also makes use of a few GUI menus:
 Once you've done all that, click ``left CTRL + Backspace`` and IED's UI shall appear. Follow the instructions in the following pic to load the presets.
 ![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakIEDinstructionsNew.png)
 
-- After you have loaded **all 3 presets** you're good to go. Note that there will most likely still be clipping but adjust positions as you like it.
+- After you have loaded **both** you're good to go. Note that there will most likely still be clipping but adjust positions as you like it.
 
 
 ## Updating the modlist
