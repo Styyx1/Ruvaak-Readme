@@ -248,6 +248,11 @@ There are some extremely powerful items in most of the dungeon boss chests. Whil
 While the list is made with Survival mode in mind, you will probably sometimes need to disable it to fully utilize the mods in the list (Underwater combat for example as most of the new underwater creatures are in the north and you'll freeze to death there when you swim)
 It can be freely enabled and disabled in the settings menu whenever you want (just give it a few seconds to take effect) and don't rapid fire switch between Survival and non-Survival.
 
+### Can't hit friendly NPCs?
+
+The mod [No Follower Attack Collision](https://www.nexusmods.com/skyrimspecialedition/mods/65037) prevents you from hitting friendly NPCs and your followers. 
+Usually a great mod, but in some situations you need to hit NPCs (Vilkas at the companions quest, for example) to turn it off temporarily, hit the ``ins`` key.
+
 ### Equipment is too weak
 
 Make sure you meet the requirements for the equipment you want to use. By default Ruvaak restricts certain equipments to specific skill levels.
@@ -256,6 +261,19 @@ Make sure you meet the requirements for the equipment you want to use. By defaul
 
 If your equipment got damaged or destroyed, visit a blacksmith to temper it, or temper it yourself at the right crafting station for your equipment type.
 Feel free to set the rate of your equipment degradation as high/low as you like it in the ``Breakable Equipment MCM``
+
+### How to Adjust the Ultimate Dodge Mod to based on my settings
+
+So, you need to go to "The Ultimate Dodge Mod"  MCM, and configure your dodge/sneak keys
+First you need to disable the gamepad compatibilty option in the MCM.
+Then it is a two part process, which involves your keybind for sneak in your ingame control settings
+Astro took screenshots to show exactly what he did (in Tinvaak but the MCM is the same) as to ensure you have "Sprint" on shift, "Sneak" on CTRL, and "Dodge" on Left Alt.
+![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/TUDMInstr1.png)
+
+![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/TUDMInstr2.png)
+
+Basically TUDM uses your ``Sneak`` key for dodging and you need to set a new ``Sneak`` key in the MCM for TUDM.
+
 
 ### Tweaking the Game Settings
 
