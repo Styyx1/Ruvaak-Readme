@@ -252,6 +252,8 @@ It can be freely enabled and disabled in the settings menu whenever you want (ju
 
 The mod [No Follower Attack Collision](https://www.nexusmods.com/skyrimspecialedition/mods/65037) prevents you from hitting friendly NPCs and your followers. 
 Usually a great mod, but in some situations you need to hit NPCs (Vilkas at the companions quest, for example) to turn it off temporarily, hit the ``ins`` key.
+To change the hotkey for that change the key in the ``loki_NFAC.ini`` file. You get to this file by double-clicking the mod ``No Follower Attack Collisions``.
+You can find the keycodes for Skyrim [here](https://www.creationkit.com/index.php?title=Input_Script).
 
 ### Equipment is too weak
 
