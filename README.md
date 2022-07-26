@@ -207,7 +207,7 @@ Ruvaak also makes use of a few GUI menus:
 ### Immersive Equipment Display Presets
 
 Once you've done all that, click ``left CTRL + Backspace`` and IED's UI shall appear. Follow the instructions in the following pic to load the presets.
-![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakIEDinstructions.png)
+![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakIEDinstructionsNew.png)
 
 - After you have loaded **all 3 presets** you're good to go. Note that there will most likely still be clipping but adjust positions as you like it.
 
