@@ -39,9 +39,9 @@ One of the biggest changes Ruvaak makes is completely decoupling the levelling s
 
 ![experience levels](https://github.com/Althro/Tinvaak2/blob/main/.github/Experience%20Levelling.png?raw=true)
 
-[Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487) makes small but meaningful changes to encounter zones but with the addition of [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872), there's still a chance that you will encounter enemies out of your level range. 
-
 [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) allows you to allocate points into skills instead of training them. That lets you focus more on the build you want to play instead of limiting yourself only to use certain tools to not accidentally level up other things.
+
+[Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487) makes small but meaningful changes to encounter zones but with the addition of [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872), there's still a chance that you will encounter enemies out of your level range. 
 
 > "Sometimes, running is your best and only option! Don't be afraid to use it."
 
