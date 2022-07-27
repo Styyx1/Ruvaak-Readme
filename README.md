@@ -327,6 +327,8 @@ This is caused by Windows display scaling feature. To fix this you can do either
 - Edit SSE Display Tweaks ini file under Render
 	- Fullscreen: `True`
 	- Borderless: `False`
+	
+For further changes of the ENB please refer to [Anna's ENB Guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) but note, you are on your own with that cause neither I, nor Anna can provide any support for everyone who changes values in their ENBs
     
 ### Modifications
 **Can I add? Is X compatible?**
