@@ -12,15 +12,20 @@
 
 
 ## Version 3.0.0.0
-
-**Build at:** `23/08/2022 06:16:41`
+**This update is everything but save safe** <br/>
+**don't even try it, it will corrupt your save**
 
 **Info**:
-
 - Download Size change: 2.8GB (Total: 78.6GB)
 - Install Size change: 19.2GB (Total: 109.3GB)
 
-**Download Changes**:
+### Short Description
+- Complete overhaul of the list
+- new perk mods
+- new combat setup
+- removed some quest mods due to them not being well integrated
+- adjusted RLE enemies (again)
+- general balancing
 
 ### Updates
 
@@ -100,7 +105,6 @@
 - [Cast Spells Through Voice](https://www.nexusmods.com/skyrimspecialedition/mods/65398/?tab=files&file_id=273237)
 - [Cheese Wheel Maker - Logical Cheese Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/66661/?tab=files&file_id=277731)
 - [Creation Club Integration - Armours](https://www.nexusmods.com/skyrimspecialedition/mods/29020/?tab=files&file_id=270275)
-- [DAR Rifles](https://www.nexusmods.com/skyrimspecialedition/mods/64542/?tab=files&file_id=268075)
 - [Dynamic Casting Animations](https://www.nexusmods.com/skyrimspecialedition/mods/54219/?tab=files&file_id=222546)
 - [Edgemaster Animations for Attack Behavior Revamp (ABR)](https://www.nexusmods.com/skyrimspecialedition/mods/56562/?tab=files&file_id=234554)
 - [Elder Souls - Sweep Attacks Standalone SE](https://www.nexusmods.com/skyrimspecialedition/mods/47395/?tab=files&file_id=192986)
