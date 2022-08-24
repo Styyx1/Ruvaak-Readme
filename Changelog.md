@@ -1,51 +1,17 @@
 # Changelog
 - [Changelog](#changelog)
-  - [3.0.0](#300)
-    - [Updates](#updates)
-    - [Removals](#removals)
-    - [Additions](#additions)
+  - [Version 3.0.0.0](#version-3000)
   - [Version 2.5.0.0](#version-2500)
-    - [Short Description](#short-description)
-    - [Updates](#updates-1)
-    - [Removals](#removals-1)
-    - [Additions](#additions-1)
   - [Version 2.3.0.0](#version-2300)
-    - [Short Description](#short-description-1)
-    - [Added](#added)
-    - [Removed](#removed)
-    - [Updated](#updated)
   - [Version 2.1.2.0](#version-2120)
-    - [Short Description:](#short-description-2)
-    - [Added](#added-1)
-    - [Removed](#removed-1)
-    - [Updated](#updated-1)
   - [Version 2.1.1.0](#version-2110)
-    - [Short Description:](#short-description-3)
-    - [Added](#added-2)
-    - [Removed](#removed-2)
-    - [Updated](#updated-2)
   - [Version 2.1.0.0](#version-2100)
-    - [Short Description:](#short-description-4)
-    - [Added](#added-3)
-    - [Removed](#removed-3)
-    - [Updated](#updated-3)
-  - [Version 2.0.0](#version-200)
-    - [Fixes:](#fixes)
-    - [Added](#added-4)
-    - [Removed](#removed-4)
-    - [Updated](#updated-4)
-  - [Version 1.0.2](#version-102)
-    - [Fixes](#fixes-1)
-    - [Updated](#updated-5)
-    - [Added](#added-5)
-    - [Removed](#removed-5)
-  - [Version 1.0.1](#version-101)
-    - [Fixes](#fixes-2)
-    - [Added](#added-6)
-    - [Updated](#updated-6)
-    - [Removed](#removed-6)
+  - [Version 2.0.0.0](#version-2000)
+  - [Version 1.0.2.0](#version-1020)
+  - [Version 1.0.1.0](#version-1010)
 
-## 3.0.0
+
+## Version 3.0.0.0
 
 **Build at:** `23/08/2022 06:16:41`
 
@@ -858,7 +824,7 @@
 - [Wait Your Turn - Enemy Circling Behaviour](https://www.nexusmods.com/skyrimspecialedition/mods/65091/?tab=files&file_id=271030)
 - [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=276783)
 
-## Version 2.0.0
+## Version 2.0.0.0
 **Update is NOT save safe** 
 
 **Changelog was created automatically and might not be complete**
@@ -1066,7 +1032,7 @@
 - Updated [sztkUtil](https://www.nexusmods.com/skyrimspecialedition/mods/57863/?tab=files&file_id=269613)
 
 
-## Version 1.0.2
+## Version 1.0.2.0
 **Update is save safe**
 
 ### Fixes
@@ -1087,7 +1053,7 @@
 ### Removed
 
 
-## Version 1.0.1
+## Version 1.0.1.0
 **Update is save safe**
 
 ### Fixes
