@@ -17,6 +17,13 @@ Change any settings to your liking, they come pre-configured to my likings.
 
 ## Gameplay
 
+### Perks and Skills
+
+> "From Zero to Hero!
+You will start out as a weak nobody unable to do anything without perking into the skills. That's thanks to [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352), which makes the first perk of a skill probably the most most important one. Without the first perk you can't use crafting furniture like ``Forges or Armor Tables`` and your magic requires an absurd amount of magicka, to name a few examples.
+It also disables EXP gain on the perks you don't have put any perk points into. 
+You start with 3 perk points free to choose. I recommend using the perk points right away on 3 skills you plan to use as after level 1, you also need to meet certain conditions to put a perk point into the skill trees. Most skills require you to have a skill book of said perk in your inventory, to make that bit simpler, boss chests have a small chance to contain one of the skill books.
+
 ### Combat
 > "Being prepared means having your offense and your defense balanced. Do not be afraid to run away to fight another day! Skyrim has many tombs and you don't want the next one to be your burial site. Be aware of vampires, these foul undead fear only silver and a stake through their hearts."
 
