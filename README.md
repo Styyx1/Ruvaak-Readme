@@ -72,10 +72,10 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 # <ins>**Ruvaak requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**</ins>
 
 Mods to familiarize yourself while with the downloads are running:
-- [ORDII Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55200) This is the perk overhaul used in Ruvaak. It takes the excellent Ordinator and combines it with the scaling of Vokrii.
-- [Character Behavior Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/40417?tab=description) Yes, underwater combat is possible and necessary to explore everything
+- [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352), which makes the first perk of a skill probably the most most important one. Without the first perk you can't use crafting furniture like ``Forges or Armor Tables`` and your magic requires an absurd amount of magicka, to name a few examples.
+It also disables EXP gain on the perks you don't have put any perk points into. 
+- [ADXP/MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) combat animations will require you to commit to your attacks and have many more combinations for chained attacks.
 - [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) This mod spawns some creepy and some pretty powerful enemies alongside --or instead of-- vanilla enemies to spice up the gameplay a bit. Don't shy away from fleeing if some enemies are a bit too much. The mod does more than just spawning enemies, as well. You'll see a few powers in your character's magic menu after starting the game. One of them is trap crafting. Explore it as you might need it later on.
-- [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) This mod is responsible for the automatic change to 3rd person whenever you are in combat. **Ruvaak is designed for 3rd person combat as I never play in 1st person and I didn't test anything in 1st person**. If that is off-putting to you, I need to say, sadly this list probably isn't for you. *The mod can be deactivated but note that 1st person combat is as vanilla as it gets*. To help you aiming in 3rd person, I have included 2 mods. [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) for the arrow prediction and [TDM](https://www.nexusmods.com/skyrimspecialedition/mods/51614) for locking onto enemies.
 - For player homes please refer to [the list of player homes](https://github.com/chri3i/Ruvaak-Readme/blob/main/Ruvaak%20Player%20Homes.md)
 - Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167) and [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435)
 - The full list of mods in Ruvaak can be viewed [here](https://loadorderlibrary.com/lists/ruvaak-1)
@@ -173,7 +173,6 @@ Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for 
 ### Optional Mods
 
 In your MO2 window you will find a seperator called 'Optional Mods' plugins within this seperator are save to activate mid game unless stated otherwise. Removal of them is not adviced mid game.
-- Seamless combat camera is the mod that forces you into 3rd person in combat, not everyone's cup of tea but i highly recommend trying the list in 3rd person
 - A few music mods. They can be enabled/disabled at any time, feel free to try them.
 
 
@@ -195,7 +194,6 @@ All of the MCM options are automatically configured for you already. Wait until 
 - Lucien (If you set a supported nickname, he will call you by that)
 - Sovngarde Beckons (tinker with the settings as you like but note that its stagger is completely removed and stagger settings do nothing now)
 - SkyUI
-- The Ultimate Dodge Mod (A config will get loaded upon start. You don't have to change anything there really)
 - I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
 
 Ruvaak also makes use of a few GUI menus:
