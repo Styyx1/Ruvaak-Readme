@@ -12,7 +12,7 @@ Almost every aspect of vanilla gameplay in Ruvaak has been changed in some way. 
 - Perma Death is now a fully integrated part of the list thanks to [Zdo Immersive Death](https://www.nexusmods.com/skyrimspecialedition/mods/35517). You can disable it by going into the MCM and set the chance to lose a life to 0. You can change pretty much every option in there but do not change the health after dying to below 30 as it might result in an immediate second death due to the starting health being less than vanilla.
 
 
-Ruvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which uses Vokrii's skill scaling.
+Ruvaak uses [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352) as its perk overhaul. This perk mod restricts the way you play and lets you focus more on class like builds. Choose your perks wisely as they are very important.
 
 Various other gameplay mods used include:
 
@@ -56,11 +56,11 @@ Ruvaak doesn't come with huge magic overhauls, but those in the list, have a hug
 
 Ruvaak completely reworks combat to be more action based and heavily 3rd person focused. For the combat setup I used this [video](https://www.youtube.com/watch?v=645W6WRrZ_4). While it shares similarities with Souls games (so do action based games since Zelda Ocarina of Time), it is by no means meant to replicate it!
 
-1. [Sovngarde Beckons](https://www.nexusmods.com/skyrimspecialedition/mods/64128) provides to many changes to combat to list here. I highly recommend checking out the mod page. Feel free to adjust anything in its MCM.
+1. [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) provides to many changes to combat to list here. I highly recommend checking out the mod page. Feel free to adjust anything in its MCM.
 
-2. [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) changes how the combat camera works. Ruvaak is designed for 3rd person combat and this mod forces the camera into 3rd person view. You can disable it in MO2 to play in 1st person, but you will miss out on everything i overhauled about combat.
+2. [SCAR - Skyrim Combat AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014) lets Enemies use attack combos and better strategies in combat. NPCs check the range of distance and angle as well as other conditions before every strike, pick up the attack action that meet the criteria, then perform it.
 
-3. [Attack Behavior Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/45378) introduces attack commitment, so you can't freely turn around during attacks. The same is true for NPCs. It also gives you the ability to chains dual weapon attacks and left handed attacks.
+3. [ADXP/MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) combat animations will require you to commit to your attacks and have many more combinations for chained attacks.
 
 4.  [Jumping Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/68043) in combination with [Skyrim Paragilder](https://www.nexusmods.com/skyrimspecialedition/mods/53256) can provide some interesting opportunities for ambushes and the likes.
 
@@ -86,10 +86,8 @@ Ruvaak comes with a wide variety of new quest and encounters. A few are listed b
 
 6. [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. 
 
-7. [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178) assures you, that you are not alone in the world and somebody is after your character
+7. [The Sinister Seven - Vampire Edition](https://www.nexusmods.com/skyrimspecialedition/mods/62234) assures you, that you are not alone in the world and somebody is after your character. The Encounters are better balanced but hard to manage early on, be prepared to run and get hunted down!
 
-8. [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) a story about Vigilants of Stendarr. The story gets darker as you progress through it and there's a lot to uncover. 
-# Note: If someone offers you a needle to kill someone, you shouldn't use it!!!
 
 ## Expanded Cities Towns and Villages
 
@@ -160,5 +158,4 @@ Ruvaak is by no means a heavily roleplaying focused list but there are some mods
 
  ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs.
  
- 7. [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) and [Static Skill leveling Alternative Level up Menu](https://www.nexusmods.com/skyrimspecialedition/mods/62027) change how you level up your character. By default, you need to allocate skill points after you got enough experience for a level up. You don't level up the skills by using them anymore.
 
