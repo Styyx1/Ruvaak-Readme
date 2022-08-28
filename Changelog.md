@@ -16,8 +16,8 @@
 **don't even try it, it will corrupt your save**
 
 **Info**:
-- Download Size change: 2.8GB (Total: 78.6GB)
-- Install Size change: 19.2GB (Total: 109.3GB)
+- Download Size change: 2.8GB (Total: 80.2GB)
+- Install Size change: 19.2GB (Total: 110.8GB)
 
 ### Short Description
 - Complete overhaul of the list
