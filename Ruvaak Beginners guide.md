@@ -40,7 +40,7 @@ Reactive combat has the issue that spells are nearly impossible to dodge. Well, 
 
 > "Learing spells is no easy task, it requires some wits and knowledge."
 
-Magic has been overhauled by the use of [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275). Learning spell now has a chance to fail entirely, based on your training in the magic skills. However, via the use of [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000) which improves the magic system alongside staves and scrolls, [ScrollScribe](https://www.nexusmods.com/skyrimspecialedition/mods/32439) also allows you to create new scrolls without needing to have the levels of aptitude to join the College in Winterhold.
+Magic has been overhauled by the use of [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275). Learning spell requires now multiple attempts and steps, based on your training in the magic skills. However, via the use of [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000) which improves the magic system alongside staves and scrolls, [ScrollScribe](https://www.nexusmods.com/skyrimspecialedition/mods/32439) also allows you to create new scrolls without needing to have the levels of aptitude to join the College in Winterhold.
 But those who really want to become a powerful mage, need to look into [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711), it provides the possibility to level up your spells to new heights!
 [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/65221) provides a great variety of spells as well for those who want to further specialise.
 
@@ -78,6 +78,13 @@ Some Alchemists might think that eating ingredients is a good way to learn the e
 6. [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is a fairly new mod but already my favourite follower. She has a unique combat style, a unique mount and doesn't feel the need to tell me every 30 seconds how much she likes me. Check her out and do her quest.
 
 > "Always look at the shadows and don't get greedy if you plan to survive."
+
+## Exploration
+
+> "Skyrim's a beautiful land, waiting to be discovered fully. Many tried before me, and many will try after me."
+
+Ruvaak's main premise is exploration. We don't have many quest mods and the likes cause there is enough to discover in Skyrim.
+[Ice Claws](https://www.nexusmods.com/skyrimspecialedition/mods/53219) adds some magical shrooms for you to find, [Hammet's Dungeons](https://www.nexusmods.com/skyrimspecialedition/users/3591326) adds a variety of dungeons to Skyrim's main land with unique rewards from [Xtudo](https://www.nexusmods.com/skyrimspecialedition/users/452087). Bandits are everywhere so keep an eye out for them to either avoid them or try to get their stole treasures, they even inhabit new areas like [Skybound Underhang](https://www.nexusmods.com/skyrimspecialedition/mods/54993) or [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994). Those who have a special eye for detail, will find some forgotten weapons with instructions to craft them and some potions that contain great knowledge. Treasures can be everywhere, might be worth it to explore underwater areas as well.
 
 If you need more informations or just want learn more about the mods in use, visit the mod pages linked here or in the [Changes to gameplay document](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md)
 
