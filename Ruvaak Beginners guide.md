@@ -85,6 +85,13 @@ Some Alchemists might think that eating ingredients is a good way to learn the e
 
 Ruvaak's main premise is exploration. We don't have many quest mods and the likes cause there is enough to discover in Skyrim.
 [Ice Claws](https://www.nexusmods.com/skyrimspecialedition/mods/53219) adds some magical shrooms for you to find, [Hammet's Dungeons](https://www.nexusmods.com/skyrimspecialedition/users/3591326) adds a variety of dungeons to Skyrim's main land with unique rewards from [Xtudo](https://www.nexusmods.com/skyrimspecialedition/users/452087). Bandits are everywhere so keep an eye out for them to either avoid them or try to get their stole treasures, they even inhabit new areas like [Skybound Underhang](https://www.nexusmods.com/skyrimspecialedition/mods/54993) or [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994). Those who have a special eye for detail, will find some forgotten weapons with instructions to craft them and some potions that contain great knowledge. Treasures can be everywhere, might be worth it to explore underwater areas as well.
+The Dwemer have also left some interesting things behind in [Blackreach](https://www.nexusmods.com/skyrimspecialedition/mods/435)
+
+## New Locations
+
+> "Visit strange lands undiscovered before and explore them like a true adventurer would!"
+
+Explore [The Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/70963) and discover the many mysterious locations it has to offer. Defeat powerful enemies and collect unique armor sets and weapons as you journey into this unforgiving land. Recent discoveries also lead to a new, desolated land, [the island of Pharos](https://www.nexusmods.com/skyrimspecialedition/mods/10423) is ready to be explored by visiting an old shipwreck in the north of Skyrim. 
 
 If you need more informations or just want learn more about the mods in use, visit the mod pages linked here or in the [Changes to gameplay document](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md)
 
