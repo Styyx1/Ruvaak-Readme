@@ -12,6 +12,8 @@
 Feel free to explore the starting area however you see fit, and when you're ready, choose a crystal to go to your desired starting location.
 A word of advice: Ruvaak's combat is harder than anything in the base game! Only choose enemy filled starting areas if you know what you are doing.
 
+In your inventory you find a scroll named ``Choose your Destiny``, with it, you can basically choose your starting class.
+
 ### MCM Settings
 Change any settings to your liking, they come pre-configured to my likings.
 
