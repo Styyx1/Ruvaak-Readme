@@ -73,6 +73,8 @@ Alchemy can do more than providing fancy potions and  [Badass Alchemist's Arsena
 
 5. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433). Still not enough corgi in your Skyrim? Well, then you'll want to take this loveable and magical pup on the road with you! A unique combat-oriented corgi follower that will be sure to set your enemies ablaze with glee!
 
+6. [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is a fairly new mod but already my favourite follower. She has a unique combat style, a unique mount and doesn't feel the need to tell me every 30 seconds how much she likes me. Check her out and do her quest.
+
 > "Always look at the shadows and don't get greedy if you plan to survive."
 
 If you need more informations or just want learn more about the mods in use, visit the mod pages linked here or in the [Changes to gameplay document](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md)
