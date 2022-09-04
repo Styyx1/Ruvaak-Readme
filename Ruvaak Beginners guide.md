@@ -42,6 +42,7 @@ Reactive combat has the issue that spells are nearly impossible to dodge. Well, 
 
 Magic has been overhauled by the use of [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275). Learning spell now has a chance to fail entirely, based on your training in the magic skills. However, via the use of [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000) which improves the magic system alongside staves and scrolls, [ScrollScribe](https://www.nexusmods.com/skyrimspecialedition/mods/32439) also allows you to create new scrolls without needing to have the levels of aptitude to join the College in Winterhold.
 But those who really want to become a powerful mage, need to look into [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711), it provides the possibility to level up your spells to new heights!
+[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/65221) provides a great variety of spells as well for those who want to further specialise.
 
 ### Leveling, Crafting & Alchemy
 
@@ -55,7 +56,8 @@ One of the biggest changes Ruvaak makes is completely decoupling the levelling s
 
 Another large change that Ruvaak makes is changing crafting so that you need forging manuals to craft new items. [Heim -Smithing Tweaks and Lightweight overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) also makes some more tweaks to make smithing more rewarding. For those not wanting to invest in crafting, you will find forgemasters across Skyrim ready to [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) for the right price. 
 
-Alchemy can do more than providing fancy potions and  [Badass Alchemist's Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) shows you how powerful alchemy can be.
+Alchemy can do more than providing fancy potions and  [Badass Alchemist's Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) shows you how powerful alchemy can be. Besides new alchemical items, [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) makes poisons a force to be reckoned but note that also your enemies can use poisons against you thanks to [NPCs Use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489). It's wise to always keep one or two ``Cure Poison`` potions with you.
+Some Alchemists might think that eating ingredients is a good way to learn the effects of them, I would advice against that as some effects might permanently affect you till you cure it. [Player Stats](https://www.nexusmods.com/skyrimspecialedition/mods/67622) will show you the effects if you ignore that advice. You can open the menu with ``NumPad Enter``
 
 > BOOOOM "That sounds like a very effective method to come by a pig demon in the wild"
 
