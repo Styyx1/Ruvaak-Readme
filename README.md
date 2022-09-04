@@ -167,12 +167,12 @@ Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### ENB
 
-Ruvaak comes already set up with [Aequinoctium ENB](https://www.nexusmods.com/skyrimspecialedition/mods/16008) for Aequinoctium Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **a few** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for, except the new default one. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
+Ruvaak comes already set up with [E.V.C. ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743) for Aequinoctium Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **a few** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for, except the new default one. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
 Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
 ### Optional Mods
 
-In your MO2 window you will find a seperator called 'Optional Mods' plugins within this seperator are save to activate mid game unless stated otherwise. Removal of them is not adviced mid game.
+In your MO2 window you will find a seperator called 'Optional Mods' mods within this seperator are save to activate mid game unless stated otherwise. Removal of them is not adviced mid game.
 - A few music mods. They can be enabled/disabled at any time, feel free to try them.
 
 
@@ -188,12 +188,16 @@ Make sure the dropdown box on the right is set to `Play Ruvaak` and press the ru
 
 All of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak the MCMs to your liking:
 
+- Animated Potions (NPC support is disabled by default and untested by me)
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
-- Draw 2 (Goes hand in hand with the equipment styles you can set up in XPMSE MCM)
-- Dual wield Parrying (set up the hotkey for it cause i can't automate for Gamepad and KB&M)
+- Conner's Survival Mode
+- Dynamic Weather Detection
+- Dynamically Darker Dungeons
+- Extended Encounters
 - Lucien (If you set a supported nickname, he will call you by that)
-- Sovngarde Beckons (tinker with the settings as you like but note that its stagger is completely removed and stagger settings do nothing now)
 - SkyUI
+- Precision
+- Swiftly Order Squad (hotkey is set for gamepad so you need to change that for kb&m; D-Pad right is the default key on Gamepad)
 - I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
 
 Ruvaak also makes use of a few GUI menus:
@@ -270,18 +274,13 @@ Make sure you meet the requirements for the equipment you want to use. By defaul
 If your equipment got damaged or destroyed, visit a blacksmith to temper it, or temper it yourself at the right crafting station for your equipment type.
 Feel free to set the rate of your equipment degradation as high/low as you like it in the ``Breakable Equipment MCM``
 
-### TUDM Keybinds
+### TK Dodge Keybinds
 
-So, you need to go to "The Ultimate Dodge Mod"  MCM, and configure your dodge/sneak keys
-First you need to disable the gamepad compatibilty option in the MCM.
-Then it is a two part process, which involves your keybind for sneak in your ingame control settings
-Astro took screenshots to show exactly what he did (in Tinvaak but the MCM is the same) as to ensure you have "Sprint" on shift, "Sneak" on CTRL, and "Dodge" on Left Alt.
-![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/TUDMInstr1.png)
+TK Dodge use an ini file to determine the dodge key. The ini file can be found within the mod ``TK Dodge - Gamepad`` and the available keys can be found [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes). It also uses the Sprint Key to dodge, in order to sprint, you need to press the key for longer than **0.3 seconds**
 
-![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/TUDMInstr2.png)
+### Power Attacks
 
-Basically TUDM uses your ``Sneak`` key for dodging and you need to set a new ``Sneak`` key in the MCM for TUDM.
-
+Power Attacks are performed with the help of [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711) and the keybinds for it are set in the Elden.ini in said mod. By default it uses the ``G`` key for kb&m and the ``LB`` key for gamepad
 
 ### Tweaking the Game Settings
 
