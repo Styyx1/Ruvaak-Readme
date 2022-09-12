@@ -159,6 +159,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
+- **Problematic Files**:
+	- [NFAC - AE](https://drive.google.com/u/0/uc?id=1C-Hdm1eoA_Tsj1Tik7VZxXFN3fbwXVEi&export=download)
+
 ## Post-Installation
 
 ### Game Folder
