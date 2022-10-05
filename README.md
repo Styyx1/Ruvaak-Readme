@@ -190,7 +190,7 @@ Make sure the dropdown box on the right is set to `Play Ruvaak` and press the ru
 
 ### In-Game MCM options
 
-All of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak the MCMs to your liking:
+Almost all of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak the MCMs to your liking:
 
 - Animated Potions (NPC support is disabled by default and untested by me)
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
@@ -203,6 +203,8 @@ All of the MCM options are automatically configured for you already. Wait until 
 - Precision
 - Swiftly Order Squad (hotkey is set for gamepad so you need to change that for kb&m; D-Pad right is the default key on Gamepad)
 - I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
+
+Afterwards, activate ``Shadow of Skyrim`` in its MCM (sometimes need to do it twice) and adjust to your liking. I highly recommend turning off ``Nemesis uses Gear`` in order to not get your stuff taken away by a despawning enemy.
 
 Ruvaak also makes use of a few GUI menus:
 
