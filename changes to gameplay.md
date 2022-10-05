@@ -60,11 +60,13 @@ Ruvaak completely reworks combat to be more action based and heavily 3rd person 
 
 4.  [Jumping Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/68043) in combination with [Skyrim Paragilder](https://www.nexusmods.com/skyrimspecialedition/mods/53256) can provide some interesting opportunities for ambushes and the likes.
 
-5. [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611) tweaks the speed of projectiles in games so you can actually dodge the enemy range attacks like any modern action combat game. With [Dodgeable Concentrated Spells](https://www.nexusmods.com/skyrimspecialedition/mods/76554) basically as expansion. 
+5.  [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347). Please check out the mod page. It changes too much to summarise here
 
-6. [Wait your Turn](https://www.nexusmods.com/skyrimspecialedition/mods/66243) is a lightweight combat add-on mod that adds circling behaviour to enemies. Now, group combat is more fair and fun for the player, as enemies will no longer attack all at once without a pattern. 
+6. [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611) tweaks the speed of projectiles in games so you can actually dodge the enemy range attacks like any modern action combat game. With [Dodgeable Concentrated Spells](https://www.nexusmods.com/skyrimspecialedition/mods/76554) basically as expansion. 
 
-7. [Paulicus Poison Block (PPB) Updated](https://www.nexusmods.com/skyrimspecialedition/mods/51046) is a small, immersive mod that allows the player and NPCs to block incoming poison damage and disease effects when successfully blocking with a shield/weapon or ward spell.
+7. [Wait your Turn](https://www.nexusmods.com/skyrimspecialedition/mods/66243) is a lightweight combat add-on mod that adds circling behaviour to enemies. Now, group combat is more fair and fun for the player, as enemies will no longer attack all at once without a pattern. 
+
+8. [Paulicus Poison Block (PPB) Updated](https://www.nexusmods.com/skyrimspecialedition/mods/51046) is a small, immersive mod that allows the player and NPCs to block incoming poison damage and disease effects when successfully blocking with a shield/weapon or ward spell.
 
 ## Quest and Encounter Mods
 
