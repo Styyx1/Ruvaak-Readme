@@ -6,12 +6,6 @@ Almost every aspect of vanilla gameplay in Ruvaak has been changed in some way. 
 
 ## Gameplay
 
-
-## Perma Death (Rouge Like mechanic)
-
-- Perma Death is now a fully integrated part of the list thanks to [Zdo Immersive Death](https://www.nexusmods.com/skyrimspecialedition/mods/35517). You can disable it by going into the MCM and set the chance to lose a life to 0. You can change pretty much every option in there but do not change the health after dying to below 30 as it might result in an immediate second death due to the starting health being less than vanilla.
-
-
 Ruvaak uses [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352) as its perk overhaul. This perk mod restricts the way you play and lets you focus more on class like builds. Choose your perks wisely as they are very important.
 
 Various other gameplay mods used include:
@@ -45,11 +39,13 @@ Ruvaak doesn't come with huge magic overhauls, but those in the list, have a hug
 
 3. [Odin - Skyrim Magic Overhaul ](https://www.nexusmods.com/skyrimspecialedition/mods/46000) is what magic in Skyrim should have been. It improves and fixes vanilla Skyrim spells, makes scrolls and staves viable, and adds new spells, scrolls and staves inspired by previous Elder Scrolls magic. The new content is balanced and seamlessly integrated into the game.
 
-4. [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) is a complete overhaul of Skyrim’s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game. 
+4. [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/65221) is a massive spell mod that aims to combine unique gameplay with visual effects inspired by everything from Dragon's Dogma to Planescape with about 200 extra spells.
 
-5. [The Path of Transcendence - Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/25654)  is a light-weight lichdom mod designed to compliment many other Necromancy themed Mods such as Ordinator's necromancy
+5. [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) is a complete overhaul of Skyrim’s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game. 
 
-6. [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) is a highly adjustable mod for spell learning. Select conditions and method for learning. Keep or destroy the book. Unlearn already known spell and more. Check out the mod page and the MCM of it to learn more
+6. [The Path of Transcendence - Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/25654)  is a light-weight lichdom mod designed to compliment many other Necromancy themed Mods such as Ordinator's necromancy
+
+7. [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) is a highly adjustable mod for spell learning. Select conditions and method for learning. Keep or destroy the book. Unlearn already known spell and more. Check out the mod page and the MCM of it to learn more
 
 
 ## Combat Mods
@@ -64,7 +60,7 @@ Ruvaak completely reworks combat to be more action based and heavily 3rd person 
 
 4.  [Jumping Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/68043) in combination with [Skyrim Paragilder](https://www.nexusmods.com/skyrimspecialedition/mods/53256) can provide some interesting opportunities for ambushes and the likes.
 
-5. [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611) tweaks the speed of projectiles in games so you can actually dodge the enemy range attacks like any modern action combat game.
+5. [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611) tweaks the speed of projectiles in games so you can actually dodge the enemy range attacks like any modern action combat game. With [Dodgeable Concentrated Spells](https://www.nexusmods.com/skyrimspecialedition/mods/76554) basically as expansion. 
 
 6. [Wait your Turn](https://www.nexusmods.com/skyrimspecialedition/mods/66243) is a lightweight combat add-on mod that adds circling behaviour to enemies. Now, group combat is more fair and fun for the player, as enemies will no longer attack all at once without a pattern. 
 
@@ -86,7 +82,9 @@ Ruvaak comes with a wide variety of new quest and encounters. A few are listed b
 
 6. [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. 
 
-7. [The Sinister Seven - Vampire Edition](https://www.nexusmods.com/skyrimspecialedition/mods/62234) assures you, that you are not alone in the world and somebody is after your character. The Encounters are better balanced but hard to manage early on, be prepared to run and get hunted down!
+7. [The Sinister Seven - Vampire Edition](https://www.nexusmods.com/skyrimspecialedition/mods/62234) assures you, that you are not alone in the world and somebody is after your character. The Encounters are better balanced but hard to manage early on, be prepared to run and get hunted down! 
+
+**Sinister Seven is heavily modified by me to make it manageable from the start but still hard till you're at a high level.**
 
 
 ## Expanded Cities Towns and Villages
@@ -103,7 +101,7 @@ Ruvaak is relatively easy in terms of city overhauls but it adds a few new settl
 
 While Ruvaak is focused on enhancing what is in the base game, we also have a few additions.
 
-1. [Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472) *"A thousand years ago there was a powerful necromancer named Vuldur who lived in Vominheim. Together with his cultist group they ruled over the island with force and intimidation until one day a young nord prince Valdgar stood up and wage war against them. Eventually Vuldur and his group were defeated and they retreated to another realm."*
+1. [New Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/70963) *"A thousand years ago there was a powerful necromancer named Vuldur who lived in Vominheim. Together with his cultist group they ruled over the island with force and intimidation until one day a young nord prince Valdgar stood up and wage war against them. Eventually Vuldur and his group were defeated and they retreated to another realm."*
 
 2. [A lot of dungeon mods from this author](https://www.nexusmods.com/skyrimspecialedition/users/3591326) there are too many to list them, but I'm quite a fan of this mod author and the amount of dungeons from them reflects that.
 
@@ -111,7 +109,7 @@ While Ruvaak is focused on enhancing what is in the base game, we also have a fe
 
 4. [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
 
-5. [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784) removes or otherwise alters many backexits from Vanilla dungeons.
+5. [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784) removes or otherwise alters many backexits from Vanilla dungeons. And its addon secures some fun on your way back as well.
 
 ## Followers
 
@@ -149,12 +147,17 @@ Ruvaak is by no means a heavily roleplaying focused list but there are some mods
 
 3. [Pick your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710) gives you books that list the alchemical ingredients and their effects.
 
-4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrimspecialedition/mods/26292) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow according to your playstyle independent of level or skills. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on).
+4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrim/mods/76455) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow and Decay according to your playstyle independent of level or skills. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on).
+
+The link will lead you to the description of the LE version of the mod. **It's not a mistake,** I used the original version and ported it for Ruvaak.
+
 # Note: This mod disables the vanilla attribute gain so you can't level Health, Stamina or Magicka as usual!
 
 5. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including armor and weapons added by mods. The quality and price of their work will depend on their skill as craftsmen as well as your barter abilities. Fully customizable through an MCM menu.
 
 6. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
+
+7. [Progressive Encumbrance](https://www.nexusmods.com/skyrimspecialedition/mods/73300). Gain movement speed penalties depending on how much you are carrying and how much you can carry.
 
  ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs.
  
