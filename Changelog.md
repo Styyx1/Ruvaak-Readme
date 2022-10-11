@@ -52,8 +52,8 @@
 **don't even try it, it will corrupt your save**
 
 **Info**:
-- Download Size change: 2.8GB (Total: 80.2GB)
-- Install Size change: 19.2GB (Total: 110.8GB)
+- Download Size: Total: 78.2GB
+- Install Size: Total: 111.8GB
 
 ### Short Description
 - Complete overhaul of the list
@@ -62,6 +62,10 @@
 - removed some quest mods due to them not being well integrated
 - adjusted RLE enemies (again)
 - general balancing
+- new spells
+- removed Perma Death in Favour of a death alternative mod
+- New items and weapon types
+- overhauled loot
 
 ### Updates
 
