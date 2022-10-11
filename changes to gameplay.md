@@ -28,6 +28,7 @@ Various other gameplay mods used include:
 
 10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
 
+11. [Feral - Dragon - Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/71453) Introduces a new shout into the game that let's you transform into a weredragon. You can choose the type of dragon you want to become, Silver, Black, Blue, Red, etc, each type comes with advantages and disadvantages. It also includes a custom Perk Tree.
 
 ## Magic Mods
 
@@ -45,7 +46,11 @@ Ruvaak doesn't come with huge magic overhauls, but those in the list, have a hug
 
 6. [The Path of Transcendence - Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/25654)  is a light-weight lichdom mod designed to compliment many other Necromancy themed Mods such as Ordinator's necromancy
 
-7. [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) is a highly adjustable mod for spell learning. Select conditions and method for learning. Keep or destroy the book. Unlearn already known spell and more. Check out the mod page and the MCM of it to learn more
+7. [Styyx: Magic of Shadows](https://github.com/chri3i/Styyx-Shadow-Spells) is a spell mod i made for Ruvaak. It is not fully finished yet and might need some adjustments but it gives you some great spells for Alteration and Illusion.
+
+8. [Hemomancy](https://www.nexusmods.com/skyrimspecialedition/mods/74968) has bloodmagic-themed spells for Vampires and those who like a darker theme of their spells. It comes with its own perk tree option and does not level destruction.
+
+9. [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) is a highly adjustable mod for spell learning. Select conditions and method for learning. Keep or destroy the book. Unlearn already known spell and more. Check out the mod page and the MCM of it to learn more
 
 
 ## Combat Mods
@@ -127,6 +132,8 @@ Skyrim can be a lonely place, and the battles can be tough. Thankfully, there ar
 
 5. [Kaldus](https://www.nexusmods.com/skyrimspecialedition/mods/58358) is a unique follower with a rather unique appearance. 
 
+6. [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is a fairly new mod but already my favourite follower. She has a unique combat style, a unique mount and doesn't feel the need to tell me every 30 seconds how much she likes me. Check her out and do her quest.
+
 ## Music and Weather
 
 A modlist wouldn't be complete without a few new soundtracks and a weather upgrade. Ruvaak utilises a few mods to help achieve that whilst still keeping the iconic soundtrack that we all know and love.
@@ -149,18 +156,20 @@ Ruvaak is by no means a heavily roleplaying focused list but there are some mods
 
 3. [Pick your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710) gives you books that list the alchemical ingredients and their effects.
 
-4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrim/mods/76455) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow and Decay according to your playstyle independent of level or skills. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on).
-
-The link will lead you to the description of the LE version of the mod. **It's not a mistake,** I used the original version and ported it for Ruvaak.
+4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrimspecialedition/mods/76676) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow and Decay according to your playstyle independent of level or skills. You need to sleep to get rid of the accumulated stress for the attributes. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on).
 
 # Note: This mod disables the vanilla attribute gain so you can't level Health, Stamina or Magicka as usual!
 
-5. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including armor and weapons added by mods. The quality and price of their work will depend on their skill as craftsmen as well as your barter abilities. Fully customizable through an MCM menu.
+5. [Potions of Obtainable Progress](https://www.nexusmods.com/skyrimspecialedition/mods/74888) is a mod that adds perk point potions hidden in the world if you ever feel like you need that one extra point for your build.
 
-6. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
+**For Ruvaak the mod is adjusted so that you have the chance of one perk potion as a drop from certain enemies as well**
 
-7. [Progressive Encumbrance](https://www.nexusmods.com/skyrimspecialedition/mods/73300). Gain movement speed penalties depending on how much you are carrying and how much you can carry.
+6. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including armor and weapons added by mods. The quality and price of their work will depend on their skill as craftsmen as well as your barter abilities. Fully customizable through an MCM menu.
 
- ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs.
+7. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
+
+8. [Progressive Encumbrance](https://www.nexusmods.com/skyrimspecialedition/mods/73300). Gain movement speed penalties depending on how much you are carrying and how much you can carry. Makes you very slow if you run around like a walking storage room, so, keep that in mind. 
+
+ ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs. You can check your stats like resistances with ``Numpad Enter``
  
 

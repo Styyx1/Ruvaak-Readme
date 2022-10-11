@@ -44,6 +44,10 @@ Magic has been overhauled by the use of [Spell Tutor](https://www.nexusmods.com/
 But those who really want to become a powerful mage, need to look into [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711), it provides the possibility to level up your spells to new heights!
 [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/65221) provides a great variety of spells as well for those who want to further specialise.
 
+Being an aspiring mage is hard. You have to overcome the difficulties of learning new spells while also keeping your natural resources in mind
+
+*I recommend any mage to dive at least into 3 schools of magic and only tackle advanced questlines if you got at least 2 or 3 different types of damaging spells*
+
 ### Leveling, Crafting & Alchemy
 
 One of the biggest changes Ruvaak makes is completely decoupling the levelling system from your character. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes the game so that you gain experience from exploring the world, killing enemies and completing quests. Skills are **LEVEL CAPPED** to the following:
