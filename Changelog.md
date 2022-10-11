@@ -71,7 +71,6 @@
 
 - [5LCat's Utils (CatHub)](https://www.nexusmods.com/skyrimspecialedition/mods/65958/?tab=files&file_id=277292)
 - [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=310719)
-- [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=322413)
 - [Aequinoctium - Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/15884/?tab=files&file_id=82110)
 - [Arcane Accessories - Rebalance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61559/?tab=files&file_id=275115)
 - [Arcanum - A New Age of Magic (Fixed)](https://www.nexusmods.com/skyrimspecialedition/mods/65221/?tab=files&file_id=307821)
@@ -196,7 +195,6 @@
 - [Sharpen Other Swords](https://www.nexusmods.com/skyrimspecialedition/mods/52723/?tab=files&file_id=216135)
 - [Shield Of Stamina - Blocking Redux](https://www.nexusmods.com/skyrimspecialedition/mods/62137/?tab=files&file_id=265716)
 - [Skyrim 3D Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/18247/?tab=files&file_id=143008)
-- [Skyrim 3D Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/18247/?tab=files&file_id=143141)
 - [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138/?tab=files&file_id=238976)
 - [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=291389)
 - [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748/?tab=files&file_id=251721)
