@@ -53,6 +53,7 @@ Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversa
     - [Help, my gear broke](#help-my-gear-broke)
     - [TK Dodge Keybinds](#tk-dodge-keybinds)
     - [Power Attacks](#power-attacks)
+    - [Can't open Locks](#help-i-cant-open-locks)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
     - [Modifications](#modifications)
@@ -96,11 +97,13 @@ Ruvaak is aimed at mid tier machines so a system like the following is advised:
 
 It will prob run good on lower specs as well but I recommend at least 6GB VRAM (GPU)
 
+**I can only answer performance questions about my specs as I don't have different systems flying around to check!**
+
 Space required: 
-- Approx 188GB (Downloads included)
+- Approx 190GB (Downloads included) + 20-30GB space for temp files
  
-Size without downloads: 
-- Approx 121GB
+Size without downloads and space for temp files: 
+- Approx 112GB
 
 ## Installation
 
@@ -224,7 +227,9 @@ Ruvaak also makes use of a few GUI menus:
 Once you've done all that, click ``left CTRL + Backspace`` and IED's UI shall appear. Follow the instructions in the following pic to load the presets.
 ![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakIEDinstructionsNew.png)
 
-- After you have loaded **both** you're good to go. Note that there will most likely still be clipping but adjust positions as you like it.
+- After you have loaded **both** you're good to go. 
+
+**Note that there will most likely still be clipping but adjust positions as you like it.**
 
 
 ## Updating the modlist
@@ -237,7 +242,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ### BA Alchemist Arsenal
 
-You need to be level 5 and open the crafting kit to use this. (more info once I'm done)
+You need to be level 5 and open the crafting kit to use this. Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/42030) for more infos
 
 ### Controller Setup
 
@@ -253,7 +258,6 @@ I personally do not own an Ultrawide, so I cannot offer support. If you can set 
 ### Overpowered Enemies
 
 Enemies are spawned from leveled lists which are semi-random. Ruvaak is not de-leveled but there are occasionally high level enemies in lower level areas. You can't defeat them at low levels. Try your luck later or use some strategies to overcome these hurdles. There are also some extremly powerful bosses scattered around the world. Those are meant for mid to high level characters. Avoid them as a low level character.
-
 
 ### OP Loot
 
@@ -287,6 +291,10 @@ TK Dodge use an ini file to determine the dodge key. The ini file can be found w
 ### Power Attacks
 
 Power Attacks are performed with the help of [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711) and the keybinds for it are set in the Elden.ini in said mod. By default it uses the ``G`` key for kb&m and the ``LB`` key for gamepad
+
+### Help I can't open locks 
+
+Check out your Lockpicking perk tree. The perk mod is designed that way so you better spec into Lockpicking to get all the loot.
 
 ### Tweaking the Game Settings
 
@@ -350,7 +358,7 @@ Go to the GitHub [Issues](https://github.com/chri3i/Ruvaak-Readme/issues) page a
 
 ## Changelog
 
-For see what changes happened in each version please refer to the [Changelog](https://github.com/chri3i/Ruvaak-Readme/blob/main/Changelog.md)
+For see what changes happened in each version please refer to the [Changelog](https://github.com/chri3i/Ruvaak-Readme/blob/main/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
 
 
 ## Credits and Thanks
@@ -364,7 +372,6 @@ For see what changes happened in each version please refer to the [Changelog](ht
 - Anna for adjusting the ENBs for Ruvaak even though they aren't used anymore.
 - (A)SanguineAnarchy for beta testing the update and providing a ton of useful feedback.
 - The Animonculory Dev Team.
-- Guitarninja for walking me through uploading the list.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 
