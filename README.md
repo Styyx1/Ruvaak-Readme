@@ -55,6 +55,7 @@ Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversa
     - [Power Attacks](#power-attacks)
     - [Can't open Locks](#help-i-cant-open-locks)
     - [Can't use Crafting Stations](#cant-use-crafting-stations)
+    - [failed to create download folder](#failed-to-create-download-folder)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
     - [Modifications](#modifications)
@@ -312,6 +313,10 @@ Check out your Lockpicking perk tree. The perk mod is designed that way so you b
 ### Can't use Crafting Stations
 
 Check out the perk mod as it restricts usuage for every crafting station and way more. Open the Skill menu and browse through the perks to see for yourself.
+
+### failed to create download folder
+
+Upon opening MO2 you may get a error warning like this: ``“failed to create E:/ Ruvaak Downloads / downloads your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=E:/Ruvaak Downloads/downloads`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``
 
 ### Tweaking the Game Settings
 
