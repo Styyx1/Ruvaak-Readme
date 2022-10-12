@@ -51,7 +51,9 @@ Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversa
     - [Can't hit friendly NPCs?](#cant-hit-friendly-npcs)
     - [Equipment is too weak](#equipment-is-too-weak)
     - [Help, my gear broke](#help-my-gear-broke)
-    - [TUDM Keybinds](#tudm-keybinds)
+    - [TK Dodge Keybinds](#tk-dodge-keybinds)
+    - [Power Attacks](#power-attacks)
+    - [Can't open Locks](#help-i-cant-open-locks)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
     - [Modifications](#modifications)
@@ -72,10 +74,10 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 # <ins>**Ruvaak requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**</ins>
 
 Mods to familiarize yourself while with the downloads are running:
-- [ORDII Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55200) This is the perk overhaul used in Ruvaak. It takes the excellent Ordinator and combines it with the scaling of Vokrii.
-- [Character Behavior Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/40417?tab=description) Yes, underwater combat is possible and necessary to explore everything
+- [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352), which makes the first perk of a skill probably the most most important one. Without the first perk you can't use crafting furniture like ``Forges or Armor Tables`` and your magic requires an absurd amount of magicka, to name a few examples.
+It also disables EXP gain on the perks you don't have put any perk points into. 
+- [ADXP/MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) combat animations will require you to commit to your attacks and have many more combinations for chained attacks.
 - [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) This mod spawns some creepy and some pretty powerful enemies alongside --or instead of-- vanilla enemies to spice up the gameplay a bit. Don't shy away from fleeing if some enemies are a bit too much. The mod does more than just spawning enemies, as well. You'll see a few powers in your character's magic menu after starting the game. One of them is trap crafting. Explore it as you might need it later on.
-- [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) This mod is responsible for the automatic change to 3rd person whenever you are in combat. **Ruvaak is designed for 3rd person combat as I never play in 1st person and I didn't test anything in 1st person**. If that is off-putting to you, I need to say, sadly this list probably isn't for you. *The mod can be deactivated but note that 1st person combat is as vanilla as it gets*. To help you aiming in 3rd person, I have included 2 mods. [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) for the arrow prediction and [TDM](https://www.nexusmods.com/skyrimspecialedition/mods/51614) for locking onto enemies.
 - For player homes please refer to [the list of player homes](https://github.com/chri3i/Ruvaak-Readme/blob/main/Ruvaak%20Player%20Homes.md)
 - Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167) and [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435)
 - The full list of mods in Ruvaak can be viewed [here](https://loadorderlibrary.com/lists/ruvaak-1)
@@ -95,11 +97,13 @@ Ruvaak is aimed at mid tier machines so a system like the following is advised:
 
 It will prob run good on lower specs as well but I recommend at least 6GB VRAM (GPU)
 
+**I can only answer performance questions about my specs as I don't have different systems flying around to check!**
+
 Space required: 
-- Approx 188GB (Downloads included)
+- Approx 190GB (Downloads included) + 20-30GB space for temp files
  
-Size without downloads: 
-- Approx 121GB
+Size without downloads and space for temp files: 
+- Approx 112GB
 
 ## Installation
 
@@ -158,6 +162,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
+- **Problematic Files**:
+	- [NFAC - AE](https://drive.google.com/u/0/uc?id=1C-Hdm1eoA_Tsj1Tik7VZxXFN3fbwXVEi&export=download)
+
 ## Post-Installation
 
 ### Game Folder
@@ -167,13 +174,12 @@ Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### ENB
 
-Ruvaak comes already set up with [Aequinoctium ENB](https://www.nexusmods.com/skyrimspecialedition/mods/16008) for Aequinoctium Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **a few** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for, except the new default one. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
+Ruvaak comes already set up with [E.V.C. ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743) for Aequinoctium Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **a few** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for, except the new default one. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
 Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
 ### Optional Mods
 
-In your MO2 window you will find a seperator called 'Optional Mods' plugins within this seperator are save to activate mid game unless stated otherwise. Removal of them is not adviced mid game.
-- Seamless combat camera is the mod that forces you into 3rd person in combat, not everyone's cup of tea but i highly recommend trying the list in 3rd person
+In your MO2 window you will find a seperator called 'Optional Mods' mods within this seperator are save to activate mid game unless stated otherwise. Removal of them is not adviced mid game.
 - A few music mods. They can be enabled/disabled at any time, feel free to try them.
 
 
@@ -187,16 +193,21 @@ Make sure the dropdown box on the right is set to `Play Ruvaak` and press the ru
 
 ### In-Game MCM options
 
-All of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak the MCMs to your liking:
+Almost all of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak the MCMs to your liking:
 
+- Animated Potions (NPC support is disabled by default and untested by me)
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
-- Draw 2 (Goes hand in hand with the equipment styles you can set up in XPMSE MCM)
-- Dual wield Parrying (set up the hotkey for it cause i can't automate for Gamepad and KB&M)
+- Conner's Survival Mode
+- Dynamic Weather Detection
+- Dynamically Darker Dungeons
+- Extended Encounters
 - Lucien (If you set a supported nickname, he will call you by that)
-- Sovngarde Beckons (tinker with the settings as you like but note that its stagger is completely removed and stagger settings do nothing now)
 - SkyUI
-- The Ultimate Dodge Mod (A config will get loaded upon start. You don't have to change anything there really)
+- Precision
+- Swiftly Order Squad (hotkey is set for gamepad so you need to change that for kb&m; D-Pad right is the default key on Gamepad)
 - I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
+
+Afterwards, activate ``Shadow of Skyrim`` in its MCM (sometimes need to do it twice) and adjust to your liking. I highly recommend turning off ``Nemesis uses Gear`` in order to not get your stuff taken away by a despawning enemy.
 
 Ruvaak also makes use of a few GUI menus:
 
@@ -216,7 +227,9 @@ Ruvaak also makes use of a few GUI menus:
 Once you've done all that, click ``left CTRL + Backspace`` and IED's UI shall appear. Follow the instructions in the following pic to load the presets.
 ![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakIEDinstructionsNew.png)
 
-- After you have loaded **both** you're good to go. Note that there will most likely still be clipping but adjust positions as you like it.
+- After you have loaded **both** you're good to go. 
+
+**Note that there will most likely still be clipping but adjust positions as you like it.**
 
 
 ## Updating the modlist
@@ -229,7 +242,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ### BA Alchemist Arsenal
 
-You need to be level 5 and open the crafting kit to use this. (more info once I'm done)
+You need to be level 5 and open the crafting kit to use this. Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/42030) for more infos
 
 ### Controller Setup
 
@@ -245,7 +258,6 @@ I personally do not own an Ultrawide, so I cannot offer support. If you can set 
 ### Overpowered Enemies
 
 Enemies are spawned from leveled lists which are semi-random. Ruvaak is not de-leveled but there are occasionally high level enemies in lower level areas. You can't defeat them at low levels. Try your luck later or use some strategies to overcome these hurdles. There are also some extremly powerful bosses scattered around the world. Those are meant for mid to high level characters. Avoid them as a low level character.
-
 
 ### OP Loot
 
@@ -272,18 +284,17 @@ Make sure you meet the requirements for the equipment you want to use. By defaul
 If your equipment got damaged or destroyed, visit a blacksmith to temper it, or temper it yourself at the right crafting station for your equipment type.
 Feel free to set the rate of your equipment degradation as high/low as you like it in the ``Breakable Equipment MCM``
 
-### TUDM Keybinds
+### TK Dodge Keybinds
 
-So, you need to go to "The Ultimate Dodge Mod"  MCM, and configure your dodge/sneak keys
-First you need to disable the gamepad compatibilty option in the MCM.
-Then it is a two part process, which involves your keybind for sneak in your ingame control settings
-Astro took screenshots to show exactly what he did (in Tinvaak but the MCM is the same) as to ensure you have "Sprint" on shift, "Sneak" on CTRL, and "Dodge" on Left Alt.
-![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/TUDMInstr1.png)
+TK Dodge use an ini file to determine the dodge key. The ini file can be found within the mod ``TK Dodge - Gamepad`` and the available keys can be found [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes). It also uses the Sprint Key to dodge, in order to sprint, you need to press the key for longer than **0.3 seconds**
 
-![IED instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/TUDMInstr2.png)
+### Power Attacks
 
-Basically TUDM uses your ``Sneak`` key for dodging and you need to set a new ``Sneak`` key in the MCM for TUDM.
+Power Attacks are performed with the help of [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711) and the keybinds for it are set in the Elden.ini in said mod. By default it uses the ``G`` key for kb&m and the ``LB`` key for gamepad
 
+### Help I can't open locks 
+
+Check out your Lockpicking perk tree. The perk mod is designed that way so you better spec into Lockpicking to get all the loot.
 
 ### Tweaking the Game Settings
 
@@ -347,7 +358,7 @@ Go to the GitHub [Issues](https://github.com/chri3i/Ruvaak-Readme/issues) page a
 
 ## Changelog
 
-For see what changes happened in each version please refer to the [Changelog](https://github.com/chri3i/Ruvaak-Readme/blob/main/Changelog.md)
+For see what changes happened in each version please refer to the [Changelog](https://github.com/chri3i/Ruvaak-Readme/blob/main/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
 
 
 ## Credits and Thanks
@@ -361,7 +372,6 @@ For see what changes happened in each version please refer to the [Changelog](ht
 - Anna for adjusting the ENBs for Ruvaak even though they aren't used anymore.
 - (A)SanguineAnarchy for beta testing the update and providing a ton of useful feedback.
 - The Animonculory Dev Team.
-- Guitarninja for walking me through uploading the list.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 

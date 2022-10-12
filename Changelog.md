@@ -1,3 +1,385 @@
+# Changelog
+- [Changelog](#changelog)
+  - [Version 3.0.0.0](#version-3000)
+    - [Short Description](#short-description)
+    - [Updates](#updates)
+    - [Removals](#removals)
+    - [Additions](#additions)
+  - [Version 2.5.0.0](#version-2500)
+    - [Short Description](#short-description-1)
+    - [Updates](#updates-1)
+    - [Removals](#removals-1)
+    - [Additions](#additions-1)
+  - [Version 2.3.0.0](#version-2300)
+    - [Short Description](#short-description-2)
+    - [Added](#added)
+    - [Removed](#removed)
+    - [Updated](#updated)
+  - [Version 2.1.2.0](#version-2120)
+    - [Short Description:](#short-description-3)
+    - [Added](#added-1)
+    - [Removed](#removed-1)
+    - [Updated](#updated-1)
+  - [Version 2.1.1.0](#version-2110)
+    - [Short Description:](#short-description-4)
+    - [Added](#added-2)
+    - [Removed](#removed-2)
+    - [Updated](#updated-2)
+  - [Version 2.1.0.0](#version-2100)
+    - [Short Description:](#short-description-5)
+    - [Added](#added-3)
+    - [Removed](#removed-3)
+    - [Updated](#updated-3)
+  - [Version 2.0.0.0](#version-2000)
+    - [Fixes:](#fixes)
+    - [Added](#added-4)
+    - [Removed](#removed-4)
+    - [Updated](#updated-4)
+  - [Version 1.0.2.0](#version-1020)
+    - [Fixes](#fixes-1)
+    - [Updated](#updated-5)
+    - [Added](#added-5)
+    - [Removed](#removed-5)
+  - [Version 1.0.1.0](#version-1010)
+    - [Fixes](#fixes-2)
+    - [Added](#added-6)
+    - [Updated](#updated-6)
+    - [Removed](#removed-6)
+
+
+## Version 3.0.0.0
+**This update is everything but save safe**
+**don't even try it, it will corrupt your save**
+
+**Info**:
+- Download Size: Total: 78.2GB
+- Install Size: Total: 111.8GB
+
+### Short Description
+- Complete overhaul of the list
+- new perk mods
+- new combat setup
+- removed some quest mods due to them not being well integrated
+- adjusted RLE enemies (again)
+- general balancing
+- new spells
+- removed Perma Death in Favour of a death alternative mod
+- New items and weapon types
+- overhauled loot
+
+### Updates
+
+- [5LCat's Utils (CatHub)](https://www.nexusmods.com/skyrimspecialedition/mods/65958/?tab=files&file_id=277292)
+- [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=310719)
+- [Aequinoctium - Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/15884/?tab=files&file_id=82110)
+- [Arcane Accessories - Rebalance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61559/?tab=files&file_id=275115)
+- [Arcanum - A New Age of Magic (Fixed)](https://www.nexusmods.com/skyrimspecialedition/mods/65221/?tab=files&file_id=307821)
+- [Assorted Mods and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/50250/?tab=files&file_id=204906)
+- [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=308567)
+- [Better Balanced Creation Club Backpacks](https://www.nexusmods.com/skyrimspecialedition/mods/66167/?tab=files&file_id=278736)
+- [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=302310)
+- [Better Windhelm Ground Meshes - With Parallax Support](https://www.nexusmods.com/skyrimspecialedition/mods/42746/?tab=files&file_id=275446)
+- [Bloodchill Manor Cattle](https://www.nexusmods.com/skyrimspecialedition/mods/59710/?tab=files&file_id=269123)
+- [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312/?tab=files&file_id=284821)
+- [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756/?tab=files&file_id=252497)
+- [Chocolate Poise - An Unfinished Poise System](https://www.nexusmods.com/skyrimspecialedition/mods/70478/?tab=files&file_id=309461)
+- [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=297823)
+- [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152/?tab=files&file_id=306617)
+- [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980/?tab=files&file_id=304408)
+- [DAR Rifles](https://www.nexusmods.com/skyrimspecialedition/mods/64542/?tab=files&file_id=290535)
+- [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310/?tab=files&file_id=290622)
+- [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331/?tab=files&file_id=284203)
+- [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=322422)
+- [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=304718)
+- [Dynamic Things Alternative - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60741/?tab=files&file_id=283058)
+- [ENB Complex Grass - Patch Compendium for various grass mods](https://www.nexusmods.com/skyrimspecialedition/mods/67304/?tab=files&file_id=283013)
+- [Edgemaster Animations for ADXP - MCO](https://www.nexusmods.com/skyrimspecialedition/mods/72256/?tab=files&file_id=310720)
+- [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=288082)
+- [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915/?tab=files&file_id=274463)
+- [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=296543)
+- [Forgotten Retex Project](https://www.nexusmods.com/skyrimspecialedition/mods/7849/?tab=files&file_id=310747)
+- [IRR - Ice Regions Redone](https://www.nexusmods.com/skyrimspecialedition/mods/65293/?tab=files&file_id=294943)
+- [Imbued Supportive Ammunition](https://www.nexusmods.com/skyrimspecialedition/mods/48557/?tab=files&file_id=287907)
+- [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784/?tab=files&file_id=321803)
+- [Kaldus The Skeleton Companion](https://www.nexusmods.com/skyrimspecialedition/mods/58358/?tab=files&file_id=305524)
+- [Katana - Journey in the Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/69622/?tab=files&file_id=312659)
+- [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=284514)
+- [Lucifer - Argonian Custom Voiced Follower](https://www.nexusmods.com/skyrimspecialedition/mods/44967/?tab=files&file_id=278807)
+- [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=322444)
+- [Merchants Carry More Garlic - For Undead Overhauls](https://www.nexusmods.com/skyrimspecialedition/mods/61641/?tab=files&file_id=255455)
+- [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=301852)
+- [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489/?tab=files&file_id=306281)
+- [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641/?tab=files&file_id=285597)
+- [Odin - Summons Redone](https://www.nexusmods.com/skyrimspecialedition/mods/46516/?tab=files&file_id=299595)
+- [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681/?tab=files&file_id=297691)
+- [Paulicus Poison Block (PPB) Updated](https://www.nexusmods.com/skyrimspecialedition/mods/51046/?tab=files&file_id=291919)
+- [Photorealistic Farmhouses 4k 2k](https://www.nexusmods.com/skyrimspecialedition/mods/61388/?tab=files&file_id=264905)
+- [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=292326)
+- [Plague Thief - Armor](https://www.nexusmods.com/skyrimspecialedition/mods/58221/?tab=files&file_id=240516)
+- [Player Stats (always at your fingertips)](https://www.nexusmods.com/skyrimspecialedition/mods/67622/?tab=files&file_id=310763)
+- [Post-Hit Killmove and Execution (BETA)](https://www.nexusmods.com/skyrimspecialedition/mods/65117/?tab=files&file_id=277302)
+- [Rally's All The Things](https://www.nexusmods.com/skyrimspecialedition/mods/33669/?tab=files&file_id=273463)
+- [Random Main Menu Music](https://www.nexusmods.com/skyrimspecialedition/mods/73437/?tab=files&file_id=307817)
+- [Rebalancing Anniversary Edition - Quest Requirements.](https://www.nexusmods.com/skyrimspecialedition/mods/61004/?tab=files&file_id=305517)
+- [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612/?tab=files&file_id=307315)
+- [Rest By Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/41271/?tab=files&file_id=166165)
+- [Riften of Reverie SE - 8K - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/65596/?tab=files&file_id=308586)
+- [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529/?tab=files&file_id=297355)
+- [Security Overhaul SKSE - Some More Locks](https://www.nexusmods.com/skyrimspecialedition/mods/59961/?tab=files&file_id=254858)
+- [Shadow of Skyrim - Nemesis and Alternative Death System](https://www.nexusmods.com/skyrimspecialedition/mods/65136/?tab=files&file_id=320534)
+- [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245/?tab=files&file_id=305037)
+- [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=286465)
+- [Simple Pistol Shooting Animation by Loop(Include standalone pistol and crossbow) - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/44201/?tab=files&file_id=236588)
+- [Simplest Horses (and other mounts)](https://www.nexusmods.com/skyrimspecialedition/mods/54225/?tab=files&file_id=308946)
+- [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=303789)
+- [Skyrim's Paraglider Anniversary Edition Update](https://www.nexusmods.com/skyrimspecialedition/mods/71123/?tab=files&file_id=305096)
+- [Sleeping Expanded - Animations and NPC reactions](https://www.nexusmods.com/skyrimspecialedition/mods/59250/?tab=files&file_id=302582)
+- [Sneak Tools SE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1863/?tab=files&file_id=302465)
+- [Soaking Wet - Character Wetness Effect](https://www.nexusmods.com/skyrimspecialedition/mods/68025/?tab=files&file_id=290493)
+- [Soul-Cairn Objects Secured](https://www.nexusmods.com/skyrimspecialedition/mods/59741/?tab=files&file_id=281270)
+- [Stagger Direction Fix - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69291/?tab=files&file_id=298265)
+- [Starting In Classes](https://www.nexusmods.com/skyrimspecialedition/mods/72410/?tab=files&file_id=311930)
+- [Stations of Sorcerers - Arcane Enchanters Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59228/?tab=files&file_id=289731)
+- [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374/?tab=files&file_id=305812)
+- [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138/?tab=files&file_id=291896)
+- [Thieves' Night On the Town -- Tnott](https://www.nexusmods.com/skyrimspecialedition/mods/42069/?tab=files&file_id=310756)
+- [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=303929)
+- [TrueHUD - HUD Additions](https://www.nexusmods.com/skyrimspecialedition/mods/62775/?tab=files&file_id=304461)
+- [Unofficial Skyrim Modder's Patch - USMP SE](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=302734)
+- [Vibrant weapons - Fire Frost Shock](https://www.nexusmods.com/skyrimspecialedition/mods/40087/?tab=files&file_id=306612)
+- [Vitrium - Spells and Tools Pack](https://www.nexusmods.com/skyrimspecialedition/mods/57242/?tab=files&file_id=299367)
+- [Windhelm Brazier Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/43146/?tab=files&file_id=292475)
+- [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688/?tab=files&file_id=286674)
+- [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=304790)
+- [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=309695)
+
+### Removals
+
+- [(SJG) Dual Wield Parrying Reimplementation for SSE (Works for Spell Blades as well)](https://www.nexusmods.com/skyrimspecialedition/mods/18264/?tab=files&file_id=58573)
+- [Animated Armoury Vigilant Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22964/?tab=files&file_id=100735)
+- [Animated Potions](https://www.nexusmods.com/skyrimspecialedition/mods/73819/?tab=files&file_id=313092)
+- [Armors of the Velothi Pt. I](https://www.nexusmods.com/skyrimspecialedition/mods/62752/?tab=files&file_id=262699)
+- [Ash Pilgrim's Garments](https://www.nexusmods.com/skyrimspecialedition/mods/53683/?tab=files&file_id=251347)
+- [Attack Behavior Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/45378/?tab=files&file_id=194367)
+- [Auto Toggle Menu Screenshot](https://www.nexusmods.com/skyrimspecialedition/mods/50682/?tab=files&file_id=206723)
+- [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202/?tab=files&file_id=213912)
+- [Cast Spells Through Voice](https://www.nexusmods.com/skyrimspecialedition/mods/65398/?tab=files&file_id=273237)
+- [Cheese Wheel Maker - Logical Cheese Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/66661/?tab=files&file_id=277731)
+- [Creation Club Integration - Armours](https://www.nexusmods.com/skyrimspecialedition/mods/29020/?tab=files&file_id=270275)
+- [Draw 2 - Dual Weapon Equip-Unequip Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45579/?tab=files&file_id=245663)
+- [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=289433)
+- [Dynamic Casting Animations](https://www.nexusmods.com/skyrimspecialedition/mods/54219/?tab=files&file_id=222546)
+- [Edgemaster Animations for Attack Behavior Revamp (ABR)](https://www.nexusmods.com/skyrimspecialedition/mods/56562/?tab=files&file_id=234554)
+- [Elder Souls - Sweep Attacks Standalone SE](https://www.nexusmods.com/skyrimspecialedition/mods/47395/?tab=files&file_id=192986)
+- [Extra Drawing Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37804/?tab=files&file_id=148011)
+- [FileAccess Interface for Skyrim SE Scripts - FISSES](https://www.nexusmods.com/skyrimspecialedition/mods/13956/?tab=files&file_id=255218)
+- [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915/?tab=files&file_id=256051)
+- [Flute Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69609/?tab=files&file_id=291228)
+- [Forgotten Magic Redone - Ordinator Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/16669/?tab=files&file_id=60142)
+- [Forsworn Fashions- More Variety for forsworn (Armor Pack- CBBE 3BA and HIMBO)](https://www.nexusmods.com/skyrimspecialedition/mods/66673/?tab=files&file_id=277785)
+- [Gambling Additions](https://www.nexusmods.com/skyrimspecialedition/mods/69757/?tab=files&file_id=291571)
+- [Glenmoril and Unslaad xVASynth Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/65959/?tab=files&file_id=275044)
+- [HD Vigilant Project - Jyggalag](https://www.nexusmods.com/skyrimspecialedition/mods/51753/?tab=files&file_id=211621)
+- [HD Vigilant Project - Pelinal](https://www.nexusmods.com/skyrimspecialedition/mods/51866/?tab=files&file_id=212164)
+- [Know Your Enemy Redux - Armors](https://www.nexusmods.com/skyrimspecialedition/mods/55203/?tab=files&file_id=259014)
+- [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045/?tab=files&file_id=259030)
+- [Majestic Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/41857/?tab=files&file_id=167825)
+- [Ordii REDUX](https://www.nexusmods.com/skyrimspecialedition/mods/55200/?tab=files&file_id=227653)
+- [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137/?tab=files&file_id=195799)
+- [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137/?tab=files&file_id=238199)
+- [Ordinator - Scrambled Bugs compatibility (and other minor fixes)](https://www.nexusmods.com/skyrimspecialedition/mods/51965/?tab=files&file_id=212678)
+- [Potions and Lockpicks Limiter](https://www.nexusmods.com/skyrimspecialedition/mods/42703/?tab=files&file_id=171351)
+- [Really Simple Gambling](https://www.nexusmods.com/skyrimspecialedition/mods/61453/?tab=files&file_id=254662)
+- [Reordinated](https://www.nexusmods.com/skyrimspecialedition/mods/69958/?tab=files&file_id=295539)
+- [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856/?tab=files&file_id=221525)
+- [Sharpen Other Swords](https://www.nexusmods.com/skyrimspecialedition/mods/52723/?tab=files&file_id=216135)
+- [Shield Of Stamina - Blocking Redux](https://www.nexusmods.com/skyrimspecialedition/mods/62137/?tab=files&file_id=265716)
+- [Skyrim 3D Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/18247/?tab=files&file_id=143008)
+- [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138/?tab=files&file_id=238976)
+- [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=291389)
+- [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748/?tab=files&file_id=251721)
+- [Smooth Combat non Combat Animation](https://www.nexusmods.com/skyrimspecialedition/mods/52145/?tab=files&file_id=256265)
+- [Sovngarde Beckons - Third Person Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64128/?tab=files&file_id=267348)
+- [Stagger Direction Fix - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69291/?tab=files&file_id=289578)
+- [Static Skill Leveling (Experience Mod Add-on)](https://www.nexusmods.com/skyrimspecialedition/mods/30410/?tab=files&file_id=284817)
+- [Static Skill Leveling alternative levelup menu](https://www.nexusmods.com/skyrimspecialedition/mods/62027/?tab=files&file_id=294356)
+- [TUDM_-_The_Ultimate_Dodge_Mod_v4_x64.rar](https://drive.google.com/uc?id=0B2VgBVA9jE6RTjJiYnRTTE9qRUE&export=download)
+- [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138/?tab=files&file_id=246596)
+- [The Ultimate Dodge Mod - Script Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/54953/?tab=files&file_id=257436)
+- [The Ultimate Dodge Mod Attack Cancel](https://www.nexusmods.com/skyrimspecialedition/mods/40313/?tab=files&file_id=165557)
+- [True Directional Movement - Unslaad Boss Bars ini](https://www.nexusmods.com/skyrimspecialedition/mods/54400/?tab=files&file_id=223279)
+- [True Directional Movement - Vigilant Boss Bars ini](https://www.nexusmods.com/skyrimspecialedition/mods/53708/?tab=files&file_id=220684)
+- [UNSLAAD - Delayed Start](https://www.nexusmods.com/skyrimspecialedition/mods/57966/?tab=files&file_id=264086)
+- [UNSLAAD Voiced - English Addon](https://www.nexusmods.com/skyrimspecialedition/mods/11896/?tab=files&file_id=228185)
+- [Unofficial CBE Nemesis Compatibility Patch SE](https://www.nexusmods.com/skyrimspecialedition/mods/43614/?tab=files&file_id=175888)
+- [Unofficial Character Behaviors Enhanced Patch SE](https://www.nexusmods.com/skyrimspecialedition/mods/40417/?tab=files&file_id=160475)
+- [Unslaad Animated Armoury and Icons](https://www.nexusmods.com/skyrimspecialedition/mods/66485/?tab=files&file_id=276913)
+- [Unslaad CBBE (3BA) Bodyslide](https://www.nexusmods.com/skyrimspecialedition/mods/56076/?tab=files&file_id=231964)
+- [Unslaad SE](https://www.nexusmods.com/skyrimspecialedition/mods/11789/?tab=files&file_id=188164)
+- [Unslaad Weapons and Armors Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/68526/?tab=files&file_id=285939)
+- [VIGILANT - Delayed Start](https://www.nexusmods.com/skyrimspecialedition/mods/57961/?tab=files&file_id=264078)
+- [VIGILANT Animated Armoury Mesh Fix for Ebony Twinblade (3RD PERSON)](https://www.nexusmods.com/skyrimspecialedition/mods/49401/?tab=files&file_id=201457)
+- [VIGILANT SE - Adjustments and Addons](https://www.nexusmods.com/skyrimspecialedition/mods/69400/?tab=files&file_id=289985)
+- [VIGILANT SE](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=178564)
+- [VIGILANT Voiced - English Addon](https://www.nexusmods.com/skyrimspecialedition/mods/11894/?tab=files&file_id=224693)
+- [Vigilant - Greymarch Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/58390/?tab=files&file_id=241038)
+- [Vigilant - NPC Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22146/?tab=files&file_id=274993)
+- [Vigilant Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/45735/?tab=files&file_id=231555)
+- [Vigilant CBBE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43676/?tab=files&file_id=274635)
+- [Vigilant DeadPile Flesh re-texture](https://www.nexusmods.com/skyrimspecialedition/mods/56089/?tab=files&file_id=230533)
+- [XP Gain for Failed Pickpocket Attempts](https://www.nexusmods.com/skyrimspecialedition/mods/59909/?tab=files&file_id=255750)
+- [Zartar's Character Behaviors Enhanced Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62101/?tab=files&file_id=257845)
+- [Zdo Immersive Death](https://www.nexusmods.com/skyrimspecialedition/mods/35517/?tab=files&file_id=140186)
+
+### Additions
+
+- [ADXP I  MCO Animation Skyrim Martial Arts - Kick Boxing](https://www.nexusmods.com/skyrimspecialedition/mods/69201/?tab=files&file_id=289252)
+- [ADXP I MCO AC Valhalla Nordic Animation Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/71600/?tab=files&file_id=302331)
+- [ADXP I MCO ER Twinblades (SCAR Precision)](https://www.nexusmods.com/skyrimspecialedition/mods/71864/?tab=files&file_id=302527)
+- [ADXP I MCO elden rim moveset collection  (SCAR)](https://www.nexusmods.com/skyrimspecialedition/mods/72220/?tab=files&file_id=302611)
+- [ADXP l MCO  Nordic Animation Complete Pack](https://www.nexusmods.com/skyrimspecialedition/mods/72966/?tab=files&file_id=305853)
+- [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
+- [Alternative Fire FX](https://www.nexusmods.com/skyrimspecialedition/mods/74074/?tab=files&file_id=310422)
+- [Angelic Halos and Demonic Horns](https://www.nexusmods.com/skyrimspecialedition/mods/1971/?tab=files&file_id=2329)
+- [Animated Potions](https://www.nexusmods.com/skyrimspecialedition/mods/73819/?tab=files&file_id=312606)
+- [Arcanum - A New Age of Magic (Fixed)](https://www.nexusmods.com/skyrimspecialedition/mods/65221/?tab=files&file_id=271320)
+- [Armor Rating Rescaled SKSE Remake](https://www.nexusmods.com/skyrimspecialedition/mods/35296/?tab=files&file_id=246382)
+- [Attack speed to damage conversion for MCO-ADXP](https://www.nexusmods.com/skyrimspecialedition/mods/73220/?tab=files&file_id=306873)
+- [Bard Magic Overhaul - Cast Like a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/72487/?tab=files&file_id=305355)
+- [Better Chests](https://www.nexusmods.com/skyrimspecialedition/mods/71680/?tab=files&file_id=305630)
+- [Better Combat Escape - NG](https://www.nexusmods.com/skyrimspecialedition/mods/72901/?tab=files&file_id=305570)
+- [Better Combat Escape - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/43936/?tab=files&file_id=177684)
+- [Better Floating Damage preset](https://www.nexusmods.com/skyrimspecialedition/mods/47523/?tab=files&file_id=195419)
+- [Bloodskal Tweaks and Enhancements - Horizontal Strike for MCO and SKYSA](https://www.nexusmods.com/skyrimspecialedition/mods/70563/?tab=files&file_id=295440)
+- [Cancelable large stagger](https://www.nexusmods.com/skyrimspecialedition/mods/51029/?tab=files&file_id=236377)
+- [ChakraSSE Armor Pack 1 (CSSE)](https://www.nexusmods.com/skyrimspecialedition/mods/53855/?tab=files&file_id=221271)
+- [Classic Scythe SPID](https://www.nexusmods.com/skyrimspecialedition/mods/70042/?tab=files&file_id=292864)
+- [Classic Scythe SSE](https://www.nexusmods.com/skyrimspecialedition/mods/5338/?tab=files&file_id=291244)
+- [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=304103)
+- [Compass Navigation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=312343)
+- [Compass Navigation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=312344)
+- [Complementary Grass Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/71562/?tab=files&file_id=308959)
+- [Console Commands Extender - Anniversary Edition Update](https://www.nexusmods.com/skyrimspecialedition/mods/74390/?tab=files&file_id=311921)
+- [Custom Craftable Pickaxes](https://www.nexusmods.com/skyrimspecialedition/mods/50979/?tab=files&file_id=208536)
+- [Dave's Lilypads SE](https://www.nexusmods.com/skyrimspecialedition/mods/26747/?tab=files&file_id=102993)
+- [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057/?tab=files&file_id=264598)
+- [Draugr Magic Loop Casting Animation](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=309682)
+- [Draugr Spear Animation (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/72794/?tab=files&file_id=304981)
+- [Dylbills Papyrus Functions](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=308549)
+- [Dynamic Animation Casting - NG](https://www.nexusmods.com/skyrimspecialedition/mods/73293/?tab=files&file_id=307161)
+- [Dynamic Animation Casting](https://www.nexusmods.com/skyrimspecialedition/mods/65512/?tab=files&file_id=276289)
+- [E.V.C. ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743/?tab=files&file_id=305264)
+- [ENB AO Toggler](https://www.nexusmods.com/skyrimspecialedition/mods/72353/?tab=files&file_id=303237)
+- [ER Dual Wield AXE  (MCO)](https://www.nexusmods.com/skyrimspecialedition/mods/71704/?tab=files&file_id=300395)
+- [ER Dual Wield Sword   (MCO)](https://www.nexusmods.com/skyrimspecialedition/mods/71775/?tab=files&file_id=300644)
+- [Edgemaster Animations for ADXP - MCO](https://www.nexusmods.com/skyrimspecialedition/mods/72256/?tab=files&file_id=303788)
+- [Elden Counter](https://www.nexusmods.com/skyrimspecialedition/mods/65579/?tab=files&file_id=279662)
+- [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711/?tab=files&file_id=293221)
+- [Elder Creed- Dual Wield Dagger Moveset](https://www.nexusmods.com/skyrimspecialedition/mods/70232/?tab=files&file_id=294074)
+- [Environs - The Greenwood Shack](https://www.nexusmods.com/skyrimspecialedition/mods/73732/?tab=files&file_id=309272)
+- [Environs - The Ruined Tundra Farmhouse](https://www.nexusmods.com/skyrimspecialedition/mods/72981/?tab=files&file_id=307666)
+- [Eskyrim MCO Installer 1.1.7z](https://www.patreon.com/file?h=65532242&i=10998255)
+- [Extended Vanilla Menus](https://www.nexusmods.com/skyrimspecialedition/mods/67946/?tab=files&file_id=308827)
+- [Feral - Dragon - Avatar (Weredragon)](https://www.nexusmods.com/skyrimspecialedition/mods/71453/?tab=files&file_id=309148)
+- [Fire Hurts NG](https://www.nexusmods.com/skyrimspecialedition/mods/74064/?tab=files&file_id=310680)
+- [Fires Hurt RE](https://www.nexusmods.com/skyrimspecialedition/mods/67473/?tab=files&file_id=292386)
+- [Food Heals You More SSEEdit script](https://www.nexusmods.com/skyrimspecialedition/mods/74534/?tab=files&file_id=312601)
+- [For Honor in Skyrim I Gryphon](https://www.nexusmods.com/skyrimspecialedition/mods/73106/?tab=files&file_id=306494)
+- [For Honor in Skyrim I Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/73964/?tab=files&file_id=310016)
+- [For Honor in Skyrim I Warden](https://www.nexusmods.com/skyrimspecialedition/mods/70537/?tab=files&file_id=303953)
+- [Glamoril - Reference Errors Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/61871/?tab=files&file_id=256652)
+- [Glamoril - The Maze of Labyrinthian](https://www.nexusmods.com/skyrimspecialedition/mods/43477/?tab=files&file_id=186981)
+- [Glow be Gone SKSE GhostFX Workaround](https://www.nexusmods.com/skyrimspecialedition/mods/36112/?tab=files&file_id=308381)
+- [HD Local Map](https://www.nexusmods.com/skyrimspecialedition/mods/74722/?tab=files&file_id=313598)
+- [HORNY](https://www.nexusmods.com/skyrimspecialedition/mods/34322/?tab=files&file_id=132293)
+- [HelpExtender](https://www.nexusmods.com/skyrimspecialedition/mods/74376/?tab=files&file_id=311869)
+- [Hogwarts in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/70654/?tab=files&file_id=295890)
+- [Horns Aplenty - A RaceMenu Slider Mod](https://www.nexusmods.com/skyrimspecialedition/mods/41022/?tab=files&file_id=167304)
+- [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547/?tab=files&file_id=302371)
+- [Hyperborean Snow SE - 8K](https://www.nexusmods.com/skyrimspecialedition/mods/29283/?tab=files&file_id=115188)
+- [IFrame Generator - NG](https://www.nexusmods.com/skyrimspecialedition/mods/72878/?tab=files&file_id=306574)
+- [Infinity UI](https://www.nexusmods.com/skyrimspecialedition/mods/74483/?tab=files&file_id=312340)
+- [Ini File Editor MCM](https://www.nexusmods.com/skyrimspecialedition/mods/73595/?tab=files&file_id=308600)
+- [Katana.zip](https://github.com/annakins/Katana/releases/download/0.61/Katana.zip)
+- [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620/?tab=files&file_id=35845)
+- [Kezyma's Plugin Finder for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/59869/?tab=files&file_id=250523)
+- [Lion's mane](https://www.nexusmods.com/skyrimspecialedition/mods/72166/?tab=files&file_id=302388)
+- [Locked Chests Have Keys - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/74718/?tab=files&file_id=313588)
+- [Locked Chests Have Keys](https://www.nexusmods.com/skyrimspecialedition/mods/74565/?tab=files&file_id=313627)
+- [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip)
+- [More to do in the Bards College - The Shadow Song](https://www.nexusmods.com/skyrimspecialedition/mods/73537/?tab=files&file_id=308597)
+- [NL_MCM - A Modular MCM Framework](https://www.nexusmods.com/skyrimspecialedition/mods/49127/?tab=files&file_id=296291)
+- [NORDIC UI - Compass Markers Restored](https://www.nexusmods.com/skyrimspecialedition/mods/64249/?tab=files&file_id=312642)
+- [NPCs React To Necromancy (And More)](https://www.nexusmods.com/skyrimspecialedition/mods/70428/?tab=files&file_id=308989)
+- [Nchuanthumz Papyrus Load Fix](https://www.nexusmods.com/skyrimspecialedition/mods/73820/?tab=files&file_id=309459)
+- [New Draugr Unarmed Attack Animation](https://www.nexusmods.com/skyrimspecialedition/mods/66345/?tab=files&file_id=276337)
+- [Nicos Twinblades SE](https://www.nexusmods.com/skyrimspecialedition/mods/71811/?tab=files&file_id=300780)
+- [No Follower Attack Collision](https://www.nexusmods.com/skyrimspecialedition/mods/65037/?tab=files&file_id=275183)
+- [Nordic Alert - a Custom Detection Meter Preset](https://www.nexusmods.com/skyrimspecialedition/mods/63442/?tab=files&file_id=266809)
+- [Northern Shores SE - 8K](https://www.nexusmods.com/skyrimspecialedition/mods/27041/?tab=files&file_id=123911)
+- [Onikiri and Ubadachi (SKYSA MCO)](https://www.nexusmods.com/skyrimspecialedition/mods/70094/?tab=files&file_id=293092)
+- [Papyrus Ini Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=290136)
+- [Paraglider Fix](https://www.nexusmods.com/skyrimspecialedition/mods/72650/?tab=files&file_id=304476)
+- [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347/?tab=files&file_id=308232)
+- [Pretty Combat Animations SSE](https://www.nexusmods.com/skyrimspecialedition/mods/3761/?tab=files&file_id=304105)
+- [Random Main Menu Music](https://www.nexusmods.com/skyrimspecialedition/mods/73437/?tab=files&file_id=307816)
+- [Raven's Awareness - AC-Valhalla inspired TrueHud color preset](https://www.nexusmods.com/skyrimspecialedition/mods/63946/?tab=files&file_id=265491)
+- [Realistic Combat AI](https://www.nexusmods.com/skyrimspecialedition/mods/60469/?tab=files&file_id=250773)
+- [Reaper Scythes](https://www.nexusmods.com/skyrimspecialedition/mods/46840/?tab=files&file_id=205760)
+- [Regional Save Names](https://www.nexusmods.com/skyrimspecialedition/mods/49698/?tab=files&file_id=245500)
+- [Resistances and Weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/45253/?tab=files&file_id=233309)
+- [Rum Induced Mountains SE - 8K - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/32554/?tab=files&file_id=123568)
+- [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=308222)
+- [SCAR Stamina Limitation Patch](https://www.nexusmods.com/skyrimspecialedition/mods/72451/?tab=files&file_id=303632)
+- [Scythe Of The Crow Mother Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/46969/?tab=files&file_id=191331)
+- [Septentrional Landscapes SE - 8K](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=129365)
+- [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184/?tab=files&file_id=104568)
+- [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133/?tab=files&file_id=307306)
+- [Shadow Diffusion](https://www.nexusmods.com/skyrimspecialedition/mods/74632/?tab=files&file_id=313095)
+- [Shadow of Skyrim - Nemesis Markers](https://www.nexusmods.com/skyrimspecialedition/mods/72846/?tab=files&file_id=305688)
+- [Shadow of Skyrim - Nemesis and Alternative Death System](https://www.nexusmods.com/skyrimspecialedition/mods/65136/?tab=files&file_id=309644)
+- [Show Animation Command](https://www.nexusmods.com/skyrimspecialedition/mods/74034/?tab=files&file_id=310289)
+- [Simple Draugr Stagger Animation](https://www.nexusmods.com/skyrimspecialedition/mods/64684/?tab=files&file_id=268830)
+- [Simple Pistol Shooting Animation by Loop(Include standalone pistol and crossbow) - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/44201/?tab=files&file_id=190642)
+- [Skyrim SafeSave System Overhaul 2 - Auto Save manager with optional Safety Check Rotating system  Hardcore mode](https://www.nexusmods.com/skyrimspecialedition/mods/70179/?tab=files&file_id=300376)
+- [Skyrim Survival Mode Remove Visual Effects](https://www.nexusmods.com/skyrimspecialedition/mods/70817/?tab=files&file_id=296511)
+- [Skyshards Offer Skills - Boss Containers Grant EXP](https://www.nexusmods.com/skyrimspecialedition/mods/63013/?tab=files&file_id=305052)
+- [Smooth Bow Animation - Sniper Stance](https://www.nexusmods.com/skyrimspecialedition/mods/67752/?tab=files&file_id=282449)
+- [Smooth Moveset](https://www.nexusmods.com/skyrimspecialedition/mods/70531/?tab=files&file_id=296352)
+- [Smooth TK Dodge Attack](https://www.nexusmods.com/skyrimspecialedition/mods/63215/?tab=files&file_id=262607)
+- [SpellSword Moveset](https://www.nexusmods.com/skyrimspecialedition/mods/69736/?tab=files&file_id=291512)
+- [Spellsiphon - Immersive Combat](https://www.nexusmods.com/skyrimspecialedition/mods/26627/?tab=files&file_id=305465)
+- [Splashes of Storms](https://www.nexusmods.com/skyrimspecialedition/mods/72115/?tab=files&file_id=305735)
+- [Starting In Classes](https://www.nexusmods.com/skyrimspecialedition/mods/72410/?tab=files&file_id=303547)
+- [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456/?tab=files&file_id=275145)
+- [Stylish Dwemer Blades](https://www.nexusmods.com/skyrimspecialedition/mods/13721/?tab=files&file_id=64708)
+- [Swiftly Order Squad - Follower Commands UI](https://www.nexusmods.com/skyrimspecialedition/mods/63259/?tab=files&file_id=298038)
+- [Synergy - Skills and Perks Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/72352/?tab=files&file_id=306770)
+- [TK Dodge RE - Script Free](https://www.nexusmods.com/skyrimspecialedition/mods/56956/?tab=files&file_id=299308)
+- [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309/?tab=files&file_id=114159)
+- [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=303028)
+- [Target Focus](https://www.nexusmods.com/skyrimspecialedition/mods/67996/?tab=files&file_id=303675)
+- [Terrain Fixes for CC Mods](https://www.nexusmods.com/skyrimspecialedition/mods/61777/?tab=files&file_id=302084)
+- [Texture Overhaul ( Clutter )](https://www.nexusmods.com/skyrimspecialedition/mods/8784/?tab=files&file_id=22065)
+- [The Elder Scrolls V Rewritten - Arvak SE](https://www.nexusmods.com/skyrimspecialedition/mods/11999/?tab=files&file_id=33193)
+- [The Sinister Seven Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/62234/?tab=files&file_id=272494)
+- [Tools not weapons DAR animations](https://www.nexusmods.com/skyrimspecialedition/mods/70117/?tab=files&file_id=310837)
+- [Twinblades of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/69701/?tab=files&file_id=304444)
+- [UI-Integrated Hotkeys System](https://www.nexusmods.com/skyrimspecialedition/mods/73972/?tab=files&file_id=310691)
+- [UNDERDOG - Animations](https://www.nexusmods.com/skyrimspecialedition/mods/51811/?tab=files&file_id=215158)
+- [Valhalla Combat - Race Addons](https://www.nexusmods.com/skyrimspecialedition/mods/73963/?tab=files&file_id=310017)
+- [Valhalla Combat Execution Compatibility patches](https://www.nexusmods.com/skyrimspecialedition/mods/73677/?tab=files&file_id=308859)
+- [Valhalla Combat RLE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73691/?tab=files&file_id=308933)
+- [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741/?tab=files&file_id=308803)
+- [Valvalis Combat - Visceral Tactics](https://www.nexusmods.com/skyrimspecialedition/mods/73836/?tab=files&file_id=311108)
+- [Varied Chests SE](https://www.nexusmods.com/skyrimspecialedition/mods/44447/?tab=files&file_id=180316)
+- [Vine Maple Redone](https://www.nexusmods.com/skyrimspecialedition/mods/69403/?tab=files&file_id=308444)
+- [Vision](https://www.nexusmods.com/skyrimspecialedition/mods/49943/?tab=files&file_id=217066)
+- [YS Horns Pack](https://www.nexusmods.com/skyrimspecialedition/mods/72002/?tab=files&file_id=301635)
+- [[MCO] Claws Normal And Power Combo.7z](https://www.patreon.com/file?h=67067747&i=11190129)
+- [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944/?tab=files&file_id=292793)
+- [xSHADOWMANx's Dll Loader](https://www.nexusmods.com/skyrimspecialedition/mods/3619/?tab=files&file_id=35843)
+
 ## Version 2.5.0.0
 - **Update is NOT save safe**
 
@@ -13,7 +395,7 @@
 - Download Size change: -11.9GB (Total: 81.7GB)
 - Install Size change: -25.6GB (Total: 128.5GB)
 
-# Updates
+### Updates
 
 - [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=300944)
 - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=298591)
@@ -71,7 +453,7 @@
 - [Vigilants of Stendarr Templar Armor](https://www.nexusmods.com/skyrimspecialedition/mods/63536/?tab=files&file_id=264474)
   
 
-# Removals
+### Removals
 
 
 - [A Mysterious Place (AMP) ENB](https://www.nexusmods.com/skyrimspecialedition/mods/60977/?tab=files&file_id=253456)
@@ -134,7 +516,7 @@
 - [XPMSSE Weapon Styles Uncloaked](https://www.nexusmods.com/skyrimspecialedition/mods/54720/?tab=files&file_id=224496)
 - [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160/?tab=files&file_id=244151)
 
-# Additions
+### Additions
 
 - [(DAR)Death animation variation SE](https://www.nexusmods.com/skyrimspecialedition/mods/63919/?tab=files&file_id=265401)
 - [(SJG) Dual Wield Parrying Reimplementation for SSE (Works for Spell Blades as well)](https://www.nexusmods.com/skyrimspecialedition/mods/18264/?tab=files&file_id=58573)
@@ -557,7 +939,7 @@
 - [Wait Your Turn - Enemy Circling Behaviour](https://www.nexusmods.com/skyrimspecialedition/mods/65091/?tab=files&file_id=271030)
 - [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=276783)
 
-## Version 2.0.0
+## Version 2.0.0.0
 **Update is NOT save safe** 
 
 **Changelog was created automatically and might not be complete**
@@ -765,37 +1147,38 @@
 - Updated [sztkUtil](https://www.nexusmods.com/skyrimspecialedition/mods/57863/?tab=files&file_id=269613)
 
 
-Version 1.0.2 \
+## Version 1.0.2.0
 **Update is save safe**
 
-Fixes:
+### Fixes
 - Distribution of Spider Touch (spell and scrolls)
 - added new Seperator "Optional Mods"
 
 
-Updated:
+### Updated
 - [PPB](https://www.nexusmods.com/skyrimspecialedition/mods/51046?tab=files)
 - [Rebalancing Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition/mods/61004?tab=files)
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
 - [True Hud](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
 
-Added:
+### Added
 - [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057)
 - [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166) as optional plugin to tick. By default it's not activated
 
-Removed:
+### Removed
 
-Version 1.0.1 \
+
+## Version 1.0.1.0
 **Update is save safe**
 
-Fixes:
+### Fixes
 - Engine Fixes.toml in case someone encounters the false save corruption bug
 - Enabled TDM - Gamepad (shouldn't be needed but now it's there)
 - Hid the last few Rogue Crafting Recipes for completion's sake
 - Added Seperator on top of MO2 to see the version number
 
 
-Added:
+### Added
 - [Enchanted Weapon Charge Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62314)
 - [Unique Map Weather Framework](https://www.nexusmods.com/skyrimspecialedition/mods/59919?tab=files)
 
@@ -803,8 +1186,8 @@ Added:
 - [Map Markers Complete](https://www.nexusmods.com/skyrimspecialedition/mods/4138?tab=posts)
 
 
-Updated:
+### Updated
 - [Unique Markarth Doors](https://www.nexusmods.com/skyrimspecialedition/mods/62969?tab=files)
 
-Removed:
+### Removed
 - [Dialogue Movement Enabler](https://www.nexusmods.com/skyrimspecialedition/mods/43708) due to not playing nice with Alternate Conversation Camera.

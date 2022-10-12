@@ -1,7 +1,7 @@
 # Beta Releases
 
 Every once in a while I might release a beta version of the updates for the list to test for stability of the main release. You will know about these betas from the support channel in the Discord server.
-To install the Beta version head over to the [Release page](https://github.com/chri3i/Ruvaak-Readme/releases/tag/v2.1.0)
+To install the Beta version head over to the [Release page](https://github.com/chri3i/Ruvaak-Readme/releases/tag/v3.0.0)
 
 1. Download the latest Beta release
 2. remember the download location of the file, you need it once it's finished

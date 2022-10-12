@@ -12,17 +12,27 @@
 Feel free to explore the starting area however you see fit, and when you're ready, choose a crystal to go to your desired starting location.
 A word of advice: Ruvaak's combat is harder than anything in the base game! Only choose enemy filled starting areas if you know what you are doing.
 
+In your inventory you find a scroll named ``Choose your Destiny``, with it, you can basically choose your starting class.
+
 ### MCM Settings
 Change any settings to your liking, they come pre-configured to my likings.
 
 ## Gameplay
 
+### Perks and Skills
+
+> "From Zero to Hero!
+
+You will start out as a weak nobody unable to do anything without perking into the skills. That's thanks to [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352), which makes the first perk of a skill probably the most most important one. Without the first perk you can't use crafting furniture like ``Forges or Armor Tables`` and your magic requires an absurd amount of magicka, to name a few examples.
+It also disables EXP gain on the perks you don't have put any perk points into. 
+You start with 3 perk points free to choose. I recommend using the perk points right away on 3 skills you plan to use as after level 1, you also need to meet certain conditions to put a perk point into the skill trees. Most skills require you to have a skill book of said perk in your inventory, to make that bit simpler, boss chests have a small chance to contain one of the skill books.
+
 ### Combat
 > "Being prepared means having your offense and your defense balanced. Do not be afraid to run away to fight another day! Skyrim has many tombs and you don't want the next one to be your burial site. Be aware of vampires, these foul undead fear only silver and a stake through their hearts."
 
-You will notice that combat is very different from the Skyrim you know. This is due to [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) changing how movement is done, giving you the ability to attack in any direction. Through the addition of [ABR](https://www.nexusmods.com/skyrimspecialedition/mods/45378) combat animations will require you to commit to your attacks and have many more combinations for chained attacks. You can also cancel your attacks at any time with blocking due to [Combat Behavior Improved](https://www.nexusmods.com/skyrimspecialedition/mods/3568).
+You will notice that combat is very different from the Skyrim you know. This is due to [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) changing how movement is done, giving you the ability to attack in any direction. Through the addition of [ADXP/MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) combat animations will require you to commit to your attacks and have many more combinations for chained attacks. Also you have a separate power attack key thanks to [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711). The key is LB on controller (``G`` on keyboard by default). You can also cancel your attacks at any time with blocking due to [Combat Behavior Improved](https://www.nexusmods.com/skyrimspecialedition/mods/3568) or by dodging out of it thanks to [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956).
 
-Enemies are now also much smarter and sport different resistances via the inclusion of [Know your Enemy - Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045) & [Know your Enemy - Armor Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55203). Add to this new enemy types courtesy of [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) and [Heritage 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989) and your travels have just become a whole lot more dangerous.
+Enemies are now also much smarter and sport different resistances via the inclusion of [Resistances and Weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/45253). Add to this new enemy types courtesy of [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) and [Heritage 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989) and your travels have just become a whole lot more dangerous.
 
 Reactive combat has the issue that spells are nearly impossible to dodge. Well, no more, thanks to [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611). It slows down arrows and spells alike without changing their reach.
 
@@ -30,8 +40,13 @@ Reactive combat has the issue that spells are nearly impossible to dodge. Well, 
 
 > "Learing spells is no easy task, it requires some wits and knowledge."
 
-Magic has been overhauled by the use of [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275). Learning spell now has a chance to fail entirely, based on your training in the magic skills. However, via the use of [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000) which improves the magic system alongside staves and scrolls, [ScrollScribe](https://www.nexusmods.com/skyrimspecialedition/mods/32439) also allows you to create new scrolls without needing to have the levels of aptitude to join the College in Winterhold.
+Magic has been overhauled by the use of [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275). Learning spell requires now multiple attempts and steps, based on your training in the magic skills. However, via the use of [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000) which improves the magic system alongside staves and scrolls, [ScrollScribe](https://www.nexusmods.com/skyrimspecialedition/mods/32439) also allows you to create new scrolls without needing to have the levels of aptitude to join the College in Winterhold.
 But those who really want to become a powerful mage, need to look into [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711), it provides the possibility to level up your spells to new heights!
+[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/65221) provides a great variety of spells as well for those who want to further specialise.
+
+Being an aspiring mage is hard. You have to overcome the difficulties of learning new spells while also keeping your natural resources in mind
+
+*I recommend any mage to dive at least into 3 schools of magic and only tackle advanced questlines if you got at least 2 or 3 different types of damaging spells*
 
 ### Leveling, Crafting & Alchemy
 
@@ -39,15 +54,14 @@ One of the biggest changes Ruvaak makes is completely decoupling the levelling s
 
 ![experience levels](https://github.com/Althro/Tinvaak2/blob/main/.github/Experience%20Levelling.png?raw=true)
 
-[Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) allows you to allocate points into skills instead of training them. That lets you focus more on the build you want to play instead of limiting yourself only to use certain tools to not accidentally level up other things.
-
 [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487) makes small but meaningful changes to encounter zones but with the addition of [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872), there's still a chance that you will encounter enemies out of your level range. 
 
 > "Sometimes, running is your best and only option! Don't be afraid to use it."
 
 Another large change that Ruvaak makes is changing crafting so that you need forging manuals to craft new items. [Heim -Smithing Tweaks and Lightweight overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) also makes some more tweaks to make smithing more rewarding. For those not wanting to invest in crafting, you will find forgemasters across Skyrim ready to [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) for the right price. 
 
-Alchemy can do more than providing fancy potions and  [Badass Alchemist's Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) shows you how powerful alchemy can be.
+Alchemy can do more than providing fancy potions and  [Badass Alchemist's Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) shows you how powerful alchemy can be. Besides new alchemical items, [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) makes poisons a force to be reckoned with, but note that also your enemies can use poisons against you thanks to [NPCs Use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489). It's wise to always keep one or two ``Cure Poison`` potions with you.
+Some Alchemists might think that eating ingredients is a good way to learn the effects of them, I would advice against that as some effects might permanently affect you till you cure it. [Player Stats](https://www.nexusmods.com/skyrimspecialedition/mods/67622) will show you the effects if you ignore that advice. You can open the menu with ``NumPad Enter``
 
 > BOOOOM "That sounds like a very effective method to come by a pig demon in the wild"
 
@@ -65,7 +79,23 @@ Alchemy can do more than providing fancy potions and  [Badass Alchemist's Arsena
 
 5. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433). Still not enough corgi in your Skyrim? Well, then you'll want to take this loveable and magical pup on the road with you! A unique combat-oriented corgi follower that will be sure to set your enemies ablaze with glee!
 
+6. [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is a fairly new mod but already my favourite follower. She has a unique combat style, a unique mount and doesn't feel the need to tell me every 30 seconds how much she likes me. Check her out and do her quest.
+
 > "Always look at the shadows and don't get greedy if you plan to survive."
+
+## Exploration
+
+> "Skyrim's a beautiful land, waiting to be discovered fully. Many tried before me, and many will try after me."
+
+Ruvaak's main premise is exploration. We don't have many quest mods and the likes cause there is enough to discover in Skyrim.
+[Ice Claws](https://www.nexusmods.com/skyrimspecialedition/mods/53219) adds some magical shrooms for you to find, [Hammet's Dungeons](https://www.nexusmods.com/skyrimspecialedition/users/3591326) adds a variety of dungeons to Skyrim's main land with [unique rewards](https://www.nexusmods.com/skyrimspecialedition/mods/64089). Bandits are everywhere so keep an eye out for them to either avoid them or try to get their stolen treasures, they even inhabit new areas like [Skybound Underhang](https://www.nexusmods.com/skyrimspecialedition/mods/54993) or [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994). Those who have a special eye for detail, will find some forgotten weapons with instructions to craft them and some potions that contain great knowledge. Treasures can be everywhere, might be worth it to explore underwater areas as well.
+The Dwemer have also left some interesting things behind in [Blackreach](https://www.nexusmods.com/skyrimspecialedition/mods/435)
+
+## New Locations
+
+> "Visit strange lands undiscovered before and explore them like a true adventurer would!"
+
+Explore [The Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/70963) and discover the many mysterious locations it has to offer. Defeat powerful enemies and collect unique armor sets and weapons as you journey into this unforgiving land. Recent discoveries also lead to a new, desolated land, [the island of Pharos](https://www.nexusmods.com/skyrimspecialedition/mods/10423) is ready to be explored by visiting an old shipwreck in the north of Skyrim. 
 
 If you need more informations or just want learn more about the mods in use, visit the mod pages linked here or in the [Changes to gameplay document](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md)
 
