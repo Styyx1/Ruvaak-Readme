@@ -167,6 +167,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - **Problematic Files**:
 	- [NFAC - AE](https://drive.google.com/u/0/uc?id=1C-Hdm1eoA_Tsj1Tik7VZxXFN3fbwXVEi&export=download)
 	- [Eskyrim MCO installer](https://www.patreon.com/file?h=65532242&i=10998255)
+	- [Claw Power Combo](https://www.patreon.com/file?h=67067747&i=11190129)
 
 ## Post-Installation
 
