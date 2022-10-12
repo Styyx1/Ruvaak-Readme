@@ -193,7 +193,15 @@ Make sure the dropdown box on the right is set to `Play Ruvaak` and press the ru
 
 ### In-Game MCM options
 
-Almost all of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak the MCMs to your liking:
+Almost all of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. 
+**Failing to do so will cause quite a few issues later on and will require you to start a new save.** 
+
+Note that all keybinding are set to my liking for a **Gamepad**. I do not know the keyboard and mouse settings as I don't use it for playing. 
+There are a few ini files you want to check for keybinds like: 
+- TK Dodge RE
+- Elden Power Attack
+
+You can tweak the MCMs to your liking like:
 
 - Animated Potions
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
@@ -205,7 +213,7 @@ Almost all of the MCM options are automatically configured for you already. Wait
 - SkyUI
 - Precision
 - Swiftly Order Squad (hotkey is set for gamepad so you need to change that for kb&m; D-Pad right is the default key on Gamepad)
-- I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
+- I recommend to look at 'Breakable Equipment' to flag any lantern as unbreakable
 
 Afterwards, activate ``Shadow of Skyrim`` in its MCM by **clicking into the general tab** and adjust to your liking.
 ![SOS General Page](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/ShadowOfSkyrimGeneralPage.png)
