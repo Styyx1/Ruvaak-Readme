@@ -54,6 +54,7 @@ Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversa
     - [TK Dodge Keybinds](#tk-dodge-keybinds)
     - [Power Attacks](#power-attacks)
     - [Can't open Locks](#help-i-cant-open-locks)
+    - [Can't use Crafting Stations](#cant-use-crafting-stations)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
     - [Modifications](#modifications)
@@ -302,11 +303,15 @@ TK Dodge use an ini file to determine the dodge key. The ini file can be found w
 
 ### Power Attacks
 
-Power Attacks are performed with the help of [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711) and the keybinds for it are set in the Elden.ini in said mod. By default it uses the ``G`` key for kb&m and the ``LB`` key for gamepad
+Power Attacks are performed with the help of [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711) and the keybinds for it are set in the Elden.ini in said mod. By default it uses the ``Shift`` key for kb&m and the ``LB`` key for gamepad
 
 ### Help I can't open locks 
 
 Check out your Lockpicking perk tree. The perk mod is designed that way so you better spec into Lockpicking to get all the loot.
+
+### Can't use Crafting Stations
+
+Check out the perk mod as it restricts usuage for every crafting station and way more. Open the Skill menu and browse through the perks to see for yourself.
 
 ### Tweaking the Game Settings
 
