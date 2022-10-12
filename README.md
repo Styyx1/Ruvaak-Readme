@@ -207,7 +207,11 @@ Almost all of the MCM options are automatically configured for you already. Wait
 - Swiftly Order Squad (hotkey is set for gamepad so you need to change that for kb&m; D-Pad right is the default key on Gamepad)
 - I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
 
-Afterwards, activate ``Shadow of Skyrim`` in its MCM by **clicking into the general tab** and adjust to your liking. I highly recommend turning off ``Nemesis uses Gear`` in order to not get your stuff taken away by a despawning enemy.
+Afterwards, activate ``Shadow of Skyrim`` in its MCM by **clicking into the general tab** and adjust to your liking.
+![SOS General Page](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/ShadowOfSkyrimGeneralPage.png)
+
+I highly recommend turning off ``Nemesis uses Gear`` in order to not get your stuff taken away by a despawning enemy.
+![SOS Defeat Page](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/ShadowOfSkyrimDefeatPage.png)
 
 Ruvaak also makes use of a few GUI menus:
 
