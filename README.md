@@ -344,6 +344,8 @@ Ruvaak ships with an ENB setup that is configured to match the look of the list.
 
 ##### Turning off settings for FPS
 
+First for more FPS, try turning on ``AO Enabler`` below the 'Input' settings in the ENB menu. It turns AO on and off based on your framerate
+
 If you are struggling for frames but want the colour correction and realism, turn off the following items.
 
 - DetailedShadows
@@ -384,6 +386,10 @@ Go to the GitHub [Issues](https://github.com/chri3i/Ruvaak-Readme/issues) page a
 
 For see what changes happened in each version please refer to the [Changelog](https://github.com/chri3i/Ruvaak-Readme/blob/main/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
 
+## I want to support your work!
+
+I have a [Patreon](https://www.patreon.com/Styyx) but please, consider donating to [Wabbajack](https://www.patreon.com/user/overview?u=11907933) too!
+
 
 ## Credits and Thanks
 
@@ -398,4 +404,7 @@ For see what changes happened in each version please refer to the [Changelog](ht
 - The Animonculory Dev Team.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
+
+
+
 

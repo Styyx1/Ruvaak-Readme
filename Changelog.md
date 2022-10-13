@@ -1,32 +1,36 @@
 # Changelog
 - [Changelog](#changelog)
-  - [Version 3.0.0.0](#version-3000)
+  - [Version 3.0.1.0](#version-3010)
     - [Short Description](#short-description)
-    - [Updates](#updates)
-    - [Removals](#removals)
     - [Additions](#additions)
-  - [Version 2.5.0.0](#version-2500)
+    - [Removals](#removals)
+  - [Version 3.0.0.0](#version-3000)
     - [Short Description](#short-description-1)
-    - [Updates](#updates-1)
+    - [Updates](#updates)
     - [Removals](#removals-1)
     - [Additions](#additions-1)
-  - [Version 2.3.0.0](#version-2300)
+  - [Version 2.5.0.0](#version-2500)
     - [Short Description](#short-description-2)
+    - [Updates](#updates-1)
+    - [Removals](#removals-2)
+    - [Additions](#additions-2)
+  - [Version 2.3.0.0](#version-2300)
+    - [Short Description](#short-description-3)
     - [Added](#added)
     - [Removed](#removed)
     - [Updated](#updated)
   - [Version 2.1.2.0](#version-2120)
-    - [Short Description:](#short-description-3)
+    - [Short Description:](#short-description-4)
     - [Added](#added-1)
     - [Removed](#removed-1)
     - [Updated](#updated-1)
   - [Version 2.1.1.0](#version-2110)
-    - [Short Description:](#short-description-4)
+    - [Short Description:](#short-description-5)
     - [Added](#added-2)
     - [Removed](#removed-2)
     - [Updated](#updated-2)
   - [Version 2.1.0.0](#version-2100)
-    - [Short Description:](#short-description-5)
+    - [Short Description:](#short-description-6)
     - [Added](#added-3)
     - [Removed](#removed-3)
     - [Updated](#updated-3)
@@ -45,6 +49,35 @@
     - [Added](#added-6)
     - [Updated](#updated-6)
     - [Removed](#removed-6)
+
+
+## Version 3.0.1.0
+**Update is potentially NOT save safe**
+
+**It could be safe if you are below level 10(ish)**
+
+### Short Description
+
+- nerfed some effects of a few enemies (looking at you Flesh Colossus)
+- nerfed Spriggans, heavily. stupid tree people
+- adjusted some weapon stats
+- HDT-SMP added for hair and some armors (**Only use those if your CPU can manage it and if you notice wild performance drops change the hair again via ``showracemenu`` in the console**)
+- Fixed Serana
+- Changed Sinister Seven Vampires to Sinister Seven due to ridiculous spawn issues
+- Fixed Steed Stone's false description (effect matches description now)
+- Changed Default ENB settings
+- Changed HUD colors of TrueHUD
+
+### Additions
+
+- [Anima Nera - Serana Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57698)
+- [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
+- [KS Hairdos SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
+
+### Removals
+
+- [Dragonborn Waifus - Serana Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/58521)
+- [Sinister Seven Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/62234)
 
 
 ## Version 3.0.0.0
