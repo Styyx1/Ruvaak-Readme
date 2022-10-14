@@ -1,17 +1,20 @@
 # Changelog
 - [Changelog](#changelog)
+  - [Version 3.0.1.1](#version-3011)
+  - [Short Descriptsion](#short-descriptsion)
+    - [Updates](#updates)
   - [Version 3.0.1.0](#version-3010)
     - [Short Description](#short-description)
     - [Additions](#additions)
     - [Removals](#removals)
   - [Version 3.0.0.0](#version-3000)
     - [Short Description](#short-description-1)
-    - [Updates](#updates)
+    - [Updates](#updates-1)
     - [Removals](#removals-1)
     - [Additions](#additions-1)
   - [Version 2.5.0.0](#version-2500)
     - [Short Description](#short-description-2)
-    - [Updates](#updates-1)
+    - [Updates](#updates-2)
     - [Removals](#removals-2)
     - [Additions](#additions-2)
   - [Version 2.3.0.0](#version-2300)
@@ -49,6 +52,20 @@
     - [Added](#added-6)
     - [Updated](#updated-6)
     - [Removed](#removed-6)
+
+
+## Version 3.0.1.1
+**Update IS save safe**
+
+## Short Descriptsion
+
+- Fixed crash due to outdated dll mod
+- updated Survival mode improved
+  
+### Updates
+
+- [Dynamic Collision Adjustment](https://www.nexusmods.com/skyrimspecialedition/mods/76783)
+- [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374)
 
 
 ## Version 3.0.1.0
