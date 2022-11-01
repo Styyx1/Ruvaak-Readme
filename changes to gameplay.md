@@ -28,7 +28,7 @@ Various other gameplay mods used include:
 
 10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
 
-11. [Feral - Dragon - Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/71453) Introduces a new shout into the game that let's you transform into a weredragon. You can choose the type of dragon you want to become, Silver, Black, Blue, Red, etc, each type comes with advantages and disadvantages. It also includes a custom Perk Tree.
+11. [Vampyrium - Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/39749) completely overhauls the vampire gameplay. It introduces different vampire strains and clans, new perks and a new skill system for vampires. 
 
 ## Magic Mods
 

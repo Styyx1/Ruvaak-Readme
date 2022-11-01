@@ -56,6 +56,7 @@ Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversa
     - [Can't open Locks](#help-i-cant-open-locks)
     - [Can't use Crafting Stations](#cant-use-crafting-stations)
     - [failed to create download folder](#failed-to-create-download-folder)
+    - [can't become a vampire lord](#cant-become-a-vampire-lord)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
     - [Modifications](#modifications)
@@ -202,8 +203,8 @@ Almost all of the MCM options are automatically configured for you already. Wait
 
 Note that all keybinding are set to my liking for a **Gamepad**. I do not know the keyboard and mouse settings as I don't use it for playing. 
 There are a few ini files you want to check for keybinds like: 
-- TK Dodge RE
-- Elden Power Attack
+- TK Dodge RE (Default is ``left alt`` if you activate ``TK Dodge - Settings`` in the Gamepad separator)
+- Elden Power Attack (Default is ``G``)
 
 You can tweak the MCMs to your liking like:
 
@@ -264,7 +265,6 @@ You need to be level 5 and open the crafting kit to use this. Check out the [mod
 
 Controller compatibility is turned on by default as Ruvaak uses a neat SKSE plugin called [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309) and therefor it won't interfere for anyone using keyboard and mouse for controls.
 If you use a gamepad, however, you should make yourself familiar with the changed controls. Ruvaak uses [TUCS](https://www.nexusmods.com/skyrimspecialedition/mods/29381). If you don't like the control layout you can disable the mods under *Gamepad support* at any time/
-Also if you use a gamepad, activate the mod 'Gamepad MCM' in the 'Gamepad' section in MO2. This ensures to load a profile for TUDM for controller compatibility.
 
 ### Ultrawide Options
 
@@ -319,6 +319,10 @@ Check out the perk mod as it restricts usuage for every crafting station and way
 ### failed to create download folder
 
 Upon opening MO2 you may get a error warning like this: ``“failed to create E:/ Ruvaak Downloads / downloads your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=E:/Ruvaak Downloads/downloads`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``
+
+### can't become a vampire lord
+
+That's because you decided to be one of the vampire strains most likely. You can't become a vampire lord with some of them. **THIS IS NOT A BUG**
 
 ### Tweaking the Game Settings
 
