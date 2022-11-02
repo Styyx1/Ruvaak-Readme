@@ -12,9 +12,9 @@ I tried to always match the install order with the load order. That means mod A 
 Move every addition you make **above** the Synthesis esps.
 
 Things like standalone armors/weapons (craftable), texture replacers or most skse plugins won't cause any issues but there are still things to consider:
-- Armors/weapons: I integrated almost everything to use [Heim's](https://www.nexusmods.com/skyrimspecialedition/mods/54207) crafting system. If you don't care about consistency then standalone armors are easy to add right in. I would advise to run Synthesis for the armors/weapons. Disable the paper maps, Dyndolod and the Synthesis plugins except the first one and run one group at a time, closing Synthesis in between.
+- Armors/weapons: I integrated almost everything to use [Heim's](https://www.nexusmods.com/skyrimspecialedition/mods/54207) crafting system. If you don't care about consistency then standalone armors are easy to add right in. I would advise to run Synthesis for the armors/weapons. Disable Dyndolod and the Synthesis plugins except the first one and run one group at a time, closing Synthesis in between.
 - Texture replacers: should not cause any harm and won't require any steps other than placing them above ``Ruvaak xLodGen Output`` on the left pane in MO2
-- SKSE Plugins: **You need to use plugins that are made for Skyrim version 1.6.xx**. This is mandatory and if your desired plugin does not exist for 1.6.xx (commonly refered as AE), then you can't use it.
+- SKSE Plugins: **You need to use plugins that are made for Skyrim version 1.6.353**. This is mandatory and if your desired plugin does not exist for 1.6.353 (commonly refered as AE), then you can't use it.
 
 ### Enemy, Encounter and NPC Mods
 
