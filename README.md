@@ -195,6 +195,8 @@ Open the installation folder and double click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Play Ruvaak` and press the run button.
 
+Another reminder to check out the [changes to gameplay](changes%20to%20gameplay.md) and the Ruvaak [beginners guide](Ruvaak%20Beginners%20guide.md)
+
 
 ### In-Game MCM options
 

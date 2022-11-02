@@ -1,5 +1,6 @@
 # Changelog
 - [Changelog](#changelog)
+  - [Version 3.1.0.1](#version-3101)
   - [Version 3.1.0.0](#version-3100)
   - [Short Description](#short-description)
     - [Added](#added)
@@ -22,6 +23,12 @@
     - [Updates](#updates-2)
     - [Removals](#removals-2)
     - [Additions](#additions-2)
+
+## Version 3.1.0.1
+**update is SAVE safe**
+
+- Removed Faster HDT-SMP - CUDA to not cause issues with AMD cards
+
 
 ## Version 3.1.0.0
 **This Update is NOT save safe**
