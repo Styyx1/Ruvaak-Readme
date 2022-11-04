@@ -2,6 +2,8 @@
 
 Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversary Edition DLC** by Styyx
 
+This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md)
+
 ![Ruvaak-banner](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakTitleResized.png)
 
 <table stlyle="border: none;">
