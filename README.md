@@ -2,7 +2,7 @@
 
 Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversary Edition DLC** by Styyx
 
-This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md)
+This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
 
 ![Ruvaak-banner](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakTitleResized.png)
 
@@ -27,12 +27,10 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
 - [Ruvaak](#ruvaak)
   - [Contents](#contents)
   - [Preamble](#preamble)
-- [**Ruvaak requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**](#ruvaak-requires-the-full-ae-upgrade-which-means-you-must-purchase-the-ae-edition-of-the-game-for-the-list-to-function)
   - [System Requirements](#system-requirements)
     - [1080p (my specs)](#1080p-my-specs)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
-- [Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files](#step-3-and-4-are-only-necessary-if-you-modded-the-game-without-stock-game-and-cleaned-the-master-files)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Ruvaak](#downloading-and-installing-ruvaak)
@@ -50,24 +48,24 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
     - [Immersive Equipment Display Presets](#immersive-equipment-display-presets)
   - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
-    - [BA Alchemist Arsenal](#ba-alchemist-arsenal)
+    - [Failed to create download folder](#failed-to-create-download-folder)
     - [Controller Setup](#controller-setup)
     - [Ultrawide Options](#ultrawide-options)
+    - [BA Alchemist Arsenal](#ba-alchemist-arsenal)
     - [Overpowered Enemies](#overpowered-enemies)
     - [OP Loot](#op-loot)
     - [Survival Mode](#survival-mode)
     - [Equipment is too weak](#equipment-is-too-weak)
-    - [Help, my gear broke](#help-my-gear-broke)
     - [TK Dodge Keybinds](#tk-dodge-keybinds)
     - [Power Attacks](#power-attacks)
     - [Help I can't open locks](#help-i-cant-open-locks)
     - [Can't use Crafting Stations](#cant-use-crafting-stations)
-    - [failed to create download folder](#failed-to-create-download-folder)
-    - [can't become a vampire lord](#cant-become-a-vampire-lord)
+    - [Can't become a vampire lord](#i-cant-become-a-vampire-lord)
+    - [Help, my gear broke](#help-my-gear-broke)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
       - [BethINI](#bethini)
-      - [ENB](#enb-1)
-        - [Removing the letterbox (in general as the default ENB doesn't have that effect enabled)](#removing-the-letterbox-in-general-as-the-default-enb-doesnt-have-that-effect-enabled)
+      - [ENB](#enb)
+        - [Removing the letterbox](#removing-the-letterbox-in-general-as-the-default-enb-doesnt-have-that-effect-enabled)
         - [Turning off settings for FPS](#turning-off-settings-for-fps)
     - [Zoomed in Display](#zoomed-in-display)
     - [Modifications](#modifications)
@@ -89,13 +87,13 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 
 Mods to familiarize yourself while with the downloads are running:
 - [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352), which makes the first perk of a skill probably the most most important one. Without the first perk you can't use crafting furniture like ``Forges or Armor Tables`` and your magic requires an absurd amount of magicka, to name a few examples.
-It also disables EXP gain on the perks you don't have put any perk points into. More info in the [Beginner's Guide](Ruvaak%20Beginners%20guide.md)
+It also disables EXP gain on the perks you don't have put any perk points into. More info in the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
 - [ADXP/MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) combat animations will require you to commit to your attacks and have many more combinations for chained attacks.
 - [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) This mod spawns some creepy and some pretty powerful enemies alongside --or instead of-- vanilla enemies to spice up the gameplay a bit. Don't shy away from fleeing if some enemies are a bit too much. The mod does more than just spawning enemies, as well. You'll see a few powers in your character's magic menu after starting the game. One of them is trap crafting. Explore it as you might need it later on.
 - For player homes please refer to [the list of player homes](https://github.com/chri3i/Ruvaak-Readme/blob/main/Ruvaak%20Player%20Homes.md)
-- Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167) and [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435)
-- The full list of mods in Ruvaak can be viewed [here](https://loadorderlibrary.com/lists/ruvaak-1)
-- This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md)
+- Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167) and [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435).
+- The full list of mods in Ruvaak can be viewed [here](https://loadorderlibrary.com/lists/ruvaak-1).
+- This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -115,7 +113,7 @@ It will prob run good on lower specs as well but I recommend at least 6GB VRAM (
 **I can only answer performance questions about my specs as I don't have different systems flying around to check!**
 
 Space required: 
-- Approx 190GB (Downloads included) + 20-30GB space for temp files
+- Approx 190GB (Downloads included) + 20-30GB space for temp files.
  
 Size without downloads and space for temp files: 
 - Approx 112GB
@@ -128,15 +126,14 @@ Installing Ruvaak is relatively easy and, if you have Nexus Premium, will be a s
 
 Prior to installing Ruvaak, please complete the following steps.
 
-1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside /Documents/My Games/.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like C:\Games is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-6. You also need to start the game to the main menu in order to download all the creations
+6. You also need to start the game to the main menu in order to download all the creations.
 
 # Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files
-
 
 ### Wabbajack Installation
 
@@ -155,6 +152,8 @@ Downloading and installing Ruvaak can take a while depending on your internet co
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+
+***
 
 #### Beta Install
 
@@ -185,22 +184,25 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Gameplay Changes
 
-This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md)
+This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
 
 ### Game Folder
 
 Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
-
-
 ### ENB
 
-Ruvaak comes already set up with [Ebony ENB](https://www.nexusmods.com/skyrimspecialedition/mods/83598). \
+Ruvaak comes already set up with [Ebony ENB](https://www.nexusmods.com/skyrimspecialedition/mods/83598).
+
 In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with a few options. Depending on your PC you might want to check them out. If you want to install your own ENB put them into a separate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.
-Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information. \
-ENB is enabled by default, if you want to remove it, disable all mods under the ``ENB`` separator in MO2
+
+Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
+
+ENB is enabled by default, if you want to remove it, disable all mods under the ``ENB`` separator in MO2.
 
 **NOTE: To fully remove ENB, you need to disable all mods under the ENB separator and turn it off in ENB Organiser**
+
+***
 
 ### Optional Mods
 
@@ -215,8 +217,9 @@ Open the installation folder and double click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Play Ruvaak` and press the run button.
 
-Another reminder to check out the [changes to gameplay](changes%20to%20gameplay.md) and the Ruvaak [beginners guide](Ruvaak%20Beginners%20guide.md)
+Another reminder to check out the [changes to gameplay](changes%20to%20gameplay.md) and the Ruvaak [beginners guide](Ruvaak%20Beginners%20guide.md).
 
+***
 
 ### In-Game MCM options
 
@@ -243,11 +246,13 @@ You can tweak the MCMs to your liking like:
 
 Ruvaak also makes use of a few GUI menus:
 
-- [CatHub](https://www.nexusmods.com/skyrimspecialedition/mods/65958) allows you to customize kill moves and chances for kill moves. Key ``ctrl + NumPad . (, for German keyboards)``
-- [Immersive Equipment Distplay](https://www.nexusmods.com/skyrimspecialedition/mods/62001) allows you to show equipment on your character. Key ``left ctrl + Backspace``
+- [CatHub](https://www.nexusmods.com/skyrimspecialedition/mods/65958) allows you to customize kill moves and chances for kill moves. Key ``ctrl + NumPad . (, for German keyboards)``.
+- [Immersive Equipment Distplay](https://www.nexusmods.com/skyrimspecialedition/mods/62001) allows you to show equipment on your character. Key ``left ctrl + Backspace``.
 - [QUI](https://www.nexusmods.com/skyrimspecialedition/mods/65343?tab=files) is basically AddItem Menu. I don't suggest using it unless you know which items are definitely safe to take. Key ``F11``
-- ENB to adjust visuals and many effects. Only use it when you know what you're doing. Key ``shift + enter``
+- ENB to adjust visuals and many effects. Only use it when you know what you're doing. Key ``shift + enter``.
 - [PlayerStats](https://www.nexusmods.com/skyrimspecialedition/mods/67622) allows you to see Actor Values, such as Negative Resistances gained from eating alchemical ingredients, Attributes (current and max), etc using the ``NumPad Enter`` key. 
+
+***
 
 ### Starting the Game
 
@@ -263,7 +268,6 @@ Once you've done all that, click ``left CTRL + Backspace`` and IED's UI shall ap
 
 **Note that there will most likely still be clipping but adjust positions as you like it.**
 
-
 ## Updating the modlist
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
@@ -272,19 +276,28 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-### BA Alchemist Arsenal
-
-You need to be level 5 and open the crafting kit to use this. Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/42030) for more infos
-
 ### Controller Setup
 
 Controller compatibility is turned on by default as Ruvaak uses a neat SKSE plugin called [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309) and therefor it won't interfere for anyone using keyboard and mouse for controls.
-If you use a gamepad, however, you should make yourself familiar with the changed controls. Ruvaak uses [TUCS](https://www.nexusmods.com/skyrimspecialedition/mods/29381) with a small change so that the tween menu is ``RB + Start`` instead of ``LB + Start``. If you don't like the control layout you can disable the mods under *Gamepad support* at any time/
+If you use a gamepad, however, you should make yourself familiar with the changed controls. Ruvaak uses [TUCS](https://www.nexusmods.com/skyrimspecialedition/mods/29381) with a small change so that the tween menu is ``RB + Start`` instead of ``LB + Start``. If you don't like the control layout you can disable the mods under *Gamepad support* at any time.
 
 ### Ultrawide Options
 
 I personally do not own an Ultrawide, so I cannot offer support. If you can set it up with the mods present in the list, please tell me how or make a pull request for this part of the readme and write it in here.
 
+#### Althro's recommendations
+
+Download [Dear Diary dark mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837) and in the installer make sure to select 21x9. Place it above New Horizons UI. Horizon's UI will see the 21x9 data and patch it accordingly. Other tweaks may be needed, but this will fix the stretched UI.
+
+### Failed to create download folder
+
+Upon opening MO2 you may get a error warning like this: ``“failed to create E:/ Ruvaak Downloads / downloads your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=E:/Ruvaak Downloads/downloads`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``.
+
+***
+
+### BA Alchemist Arsenal
+
+You need to be level 5 and open the crafting kit to use this. Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/42030) for more info.
 
 ### Overpowered Enemies
 
@@ -302,18 +315,15 @@ While the list is made with Survival enabled by default, you can disabled it in 
 
 Make sure you meet the requirements for the equipment you want to use. By default Ruvaak restricts certain equipments to specific skill levels.
 
-### Help, my gear broke
-
-If your equipment got damaged or destroyed, visit a blacksmith to temper it, or temper it yourself at the right crafting station for your equipment type.
-Feel free to set the rate of your equipment degradation as high/low as you like it in the ``Breakable Equipment MCM``
-
 ### TK Dodge Keybinds
 
-TK Dodge use an ini file to determine the dodge key. The ini file can be found within the mod ``TK Dodge - Gamepad`` and the available keys can be found [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes). It also uses the Sprint Key to dodge, in order to sprint, you need to press the key for longer than **0.3 seconds**
+TK Dodge use an ini file to determine the dodge key. The ini file can be found within the mod ``TK Dodge - Gamepad`` and the available keys can be found [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes). It also uses the Sprint Key to dodge, in order to sprint, you need to press the key for longer than **0.3 seconds**.
 
 ### Power Attacks
 
-Power Attacks are performed with the help of [One Click Power Attack - OCPA](https://www.nexusmods.com/skyrimspecialedition/mods/60878) and the keybinds for it are set in its MCM. By default it uses the ``M4`` and ``M5`` key for kb&m and the ``LT (block)`` key for gamepad when mid attack. Check out the MCM to see the modifier keys to start your combo with power attacks
+Power Attacks are performed with the help of [One Click Power Attack - OCPA](https://www.nexusmods.com/skyrimspecialedition/mods/60878) and the keybinds for it are set in its MCM. By default it uses the ``M4`` and ``M5`` key for kb&m and the ``LT (block)`` key for gamepad when mid attack. Check out the MCM to see the modifier keys to start your combo with power attacks.
+
+***
 
 ### Help I can't open locks 
 
@@ -323,19 +333,23 @@ Check out your Lockpicking perk tree. The perk mod is designed that way so you b
 
 Check out the perk mod as it restricts usuage for every crafting station and way more. Open the Skill menu and browse through the perks to see for yourself.
 
-### failed to create download folder
+### I can't become a vampire lord
 
-Upon opening MO2 you may get a error warning like this: ``“failed to create E:/ Ruvaak Downloads / downloads your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=E:/Ruvaak Downloads/downloads`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``
+That's because you decided to be one of the vampire strains most likely. You can't become a vampire lord with some of them. **THIS IS NOT A BUG**.
 
-### can't become a vampire lord
+### Help, my gear broke
 
-That's because you decided to be one of the vampire strains most likely. You can't become a vampire lord with some of them. **THIS IS NOT A BUG**
+If your equipment got damaged or destroyed, visit a blacksmith to temper it, or temper it yourself at the right crafting station for your equipment type.
+
+Feel free to set the rate of your equipment degradation as high/low as you like it in the ``Breakable Equipment MCM``.
+
+***
 
 ### Tweaking the Game Settings
 
 #### BethINI
 
-To get some more FPS, tweak the following value in the detail section in BethINI. You find BethINI inside the tools folder within the list installation folder
+To get some more FPS, tweak the following value in the detail section in BethINI. You find BethINI inside the tools folder within the list installation folder.
 
 - `Shadow Resolution`: 2048
 - `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
@@ -369,12 +383,14 @@ If you really cannot handle the ENB, uncheck `useEffect` and try out the ReShade
 ### Zoomed in Display
 
 This is caused by Windows display scaling feature. To fix this you can do either of the following.
-- Set display scaling back to 100% in Windows screen resolution settings
+- Set display scaling back to 100% in Windows screen resolution settings.
 - Edit SSE Display Tweaks ini file under Render
 	- Fullscreen: `True`
 	- Borderless: `False`
 	
-For further changes of the ENB please refer to [Anna's ENB Guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) but note, you are on your own with that cause neither I, nor Anna can provide any support for everyone who changes values in their ENBs
+For further changes of the ENB please refer to [Anna's ENB Guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) but note, you are on your own with that cause neither I, nor Anna can provide any support for everyone who changes values in their ENBs.
+
+***
     
 ### Modifications
 **Can I add? Is X compatible?**
@@ -395,7 +411,6 @@ Go to the GitHub [Issues](https://github.com/chri3i/Ruvaak-Readme/issues) page a
 
 For see what changes happened in each version please refer to the [Changelog](https://github.com/Styyx1/Ruvaak-Readme/blob/Update-4.0/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
 
-
 ## Credits and Thanks
 
 - _YOU_ for reading this.
@@ -409,7 +424,3 @@ For see what changes happened in each version please refer to the [Changelog](ht
 - The Animonculory Dev Team.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
-
-
-
-
