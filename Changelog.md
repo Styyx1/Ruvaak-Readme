@@ -56,7 +56,6 @@
 - fixed Aranea's hair (she got the hair for a wrong race)
 - added some swag to Nazeem
 - changed default ENB to Ebony ENB
-- new dragon models (GoT)
 - Updated to 1.6.640 (for now only compatible with steam version of the game. Might change in the future)
 - **completely new way of leveling.** Read the [Beginner's Guide](Ruvaak%20Beginners%20guide.md). Seriously, do it!
 
