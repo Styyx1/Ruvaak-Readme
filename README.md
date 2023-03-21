@@ -82,9 +82,7 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 
 [![Ruvaak Showcase](https://img.youtube.com/vi/KY1qEnkNpzM/0.jpg)](https://www.youtube.com/watch?v=KY1qEnkNpzM)
 
-<font size="50">
-Ruvaak requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.
-</font> 
+<font size="50">Ruvaak requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.</font> 
 
 Mods to familiarize yourself while with the downloads are running:
 - [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352), which makes the first perk of a skill probably the most most important one. Without the first perk you can't use crafting furniture like ``Forges or Armor Tables`` and your magic requires an absurd amount of magicka, to name a few examples.
