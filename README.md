@@ -75,7 +75,6 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
   - [Known Issues](#known-issues)
   - [I found a bug](#i-found-a-bug)
   - [Changelog](#changelog)
-  - [I want to support your work!](#i-want-to-support-your-work)
   - [Credits and Thanks](#credits-and-thanks)
 
 ## Preamble
@@ -202,6 +201,8 @@ In the executables drop down menu in MO2, you will find an ENB Organizer that pr
 Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information. \
 ENB is enabled by default, if you want to remove it, disable all mods under the ``ENB`` separator in MO2
 
+**NOTE: To fully remove ENB, you need to disable all mods under the ENB separator and turn it off in ENB Organiser**
+
 ### Optional Mods
 
 In your MO2 window you will find a separator called 'Optional Mods' mods within this separator are save to activate mid game unless stated otherwise. Removal of them is not advised mid game.
@@ -313,7 +314,7 @@ TK Dodge use an ini file to determine the dodge key. The ini file can be found w
 
 ### Power Attacks
 
-Power Attacks are performed with the help of [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711) and the keybinds for it are set in the Elden.ini in said mod. By default it uses the ``Shift`` key for kb&m and the ``LB`` key for gamepad
+Power Attacks are performed with the help of [One Click Power Attack - OCPA](https://www.nexusmods.com/skyrimspecialedition/mods/60878) and the keybinds for it are set in its MCM. By default it uses the ``M4`` and ``M5`` key for kb&m and the ``LT (block)`` key for gamepad when mid attack. Check out the MCM to see the modifier keys to start your combo with power attacks
 
 ### Help I can't open locks 
 
@@ -393,11 +394,7 @@ Go to the GitHub [Issues](https://github.com/chri3i/Ruvaak-Readme/issues) page a
 
 ## Changelog
 
-For see what changes happened in each version please refer to the [Changelog](https://github.com/chri3i/Ruvaak-Readme/blob/main/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
-
-## I want to support your work!
-
-I have a [Patreon](https://www.patreon.com/Styyx) but please, consider donating to [Wabbajack](https://www.patreon.com/user/overview?u=11907933) too!
+For see what changes happened in each version please refer to the [Changelog](https://github.com/Styyx1/Ruvaak-Readme/blob/Update-4.0/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
 
 
 ## Credits and Thanks

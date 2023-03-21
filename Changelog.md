@@ -65,7 +65,6 @@
 - Superior Stones (Standing stone models remain from Menhir)
 - New LODs
 - Spell Thief (allows you to use enemy spells)
-- No Jump in Combat (does what the name suggests) (not fully decided yet)
 - Synergy Crafting Enablers
 - Open College
 - Spider Imbuing Integration
@@ -77,28 +76,31 @@
 - Wyrmstooth + Integration of it
 - some magic mods
 - Folkvangr + Summer Tundra addon
+- Xelzaz and Remiel as new follower options
 
 ### Removed Mods
 - Shadow of Meresis quest was broken + the disco ship didn't look good either
 - Glamoril - The Maze of Labyrinthian. Great idea in theory but the removal of it fixed the random explosions...
 - Breakable Equipment System. I didn't like it after having it activated for 2 playthroughs
 - Post hit kill move got replaced by Kaputt
-- Jumping attacks
+- Jumping attacks (honestly, I never used it)
 - Twinblades (their moveset was simply too OP)
-- Horn Sliders (doesn't work with HDT-SMP)
+- Horn Sliders (didn't work with HDT, might test it again)
 - Shadow of Skyrim (too many small issues that add up)
 - Lucifer
 - Kaldus
 - Action Based Projectilse (got replaced with Projectile Sense)
 - Pistols (Rifles are good enough)
-- Claws and Whips
-- Hogwarts in Skyrim
+- Claws and Whips (claws are annoying, whips are broken)
+- Hogwarts in Skyrim (too strong)
 
 ### Updated mods (only mentioned if they fixed things)
 - MCO
 - SCAR
 - Precision
 - many, many, many other mods
+- even more mods 
+- and even more. so many updates.
 
 </details>
 
