@@ -83,7 +83,7 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 [![Ruvaak Showcase](https://img.youtube.com/vi/KY1qEnkNpzM/0.jpg)](https://www.youtube.com/watch?v=KY1qEnkNpzM)
 
 
-> **__Ruvaak requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.__**
+# ❗ **__Ruvaak requires the *full* AE upgrade, which means you must ❗      ❗ *purchase* the AE edition of the game for the list to function.__**  ❗
 
 
 
