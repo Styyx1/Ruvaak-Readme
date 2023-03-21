@@ -40,7 +40,7 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
         - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Gameplay Changes](#gameplay-changes)
-    - [Root Builder](#root-builder)
+    - [Game Folder](#game-folder)
     - [ENB](#enb)
     - [Optional Mods](#optional-mods)
   - [Playing the List](#playing-the-list)
@@ -187,10 +187,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md)
 
-### Root Builder
+### Game Folder
 
-To enable compatability with the GOG versions of Skyrim, Ruvaak uses a tool known as Root Builder. For more details regarding it, please view [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and our [guide to it](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md).
-**If you made your own stock game, don't forget to change the managed game in MO2's settings**
+Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
 
 
