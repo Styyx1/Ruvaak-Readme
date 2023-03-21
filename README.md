@@ -24,25 +24,31 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Contents
+- [Ruvaak](#ruvaak)
+  - [Contents](#contents)
   - [Preamble](#preamble)
+- [**Ruvaak requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**](#ruvaak-requires-the-full-ae-upgrade-which-means-you-must-purchase-the-ae-edition-of-the-game-for-the-list-to-function)
   - [System Requirements](#system-requirements)
+    - [1080p (my specs)](#1080p-my-specs)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
+- [Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files](#step-3-and-4-are-only-necessary-if-you-modded-the-game-without-stock-game-and-cleaned-the-master-files)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Ruvaak](#downloading-and-installing-ruvaak)
       - [Beta Install](#beta-install)
-      - [Problems with installation](#problems-with-installation)
+        - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
-    - [Game Folder](#game-folder)
-    - [BethINI](#bethini)
+    - [Gameplay Changes](#gameplay-changes)
+    - [Root Builder](#root-builder)
     - [ENB](#enb)
-    - [Optional Mods](#Optional-mods)
+    - [Optional Mods](#optional-mods)
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
-    - [In Game MCM Options](#in-game-mcm-options)
+    - [In-Game MCM options](#in-game-mcm-options)
     - [Starting the Game](#starting-the-game)
-  - [Updating Ruvaak](#updating-the-modlist)
+    - [Immersive Equipment Display Presets](#immersive-equipment-display-presets)
+  - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
     - [BA Alchemist Arsenal](#ba-alchemist-arsenal)
     - [Controller Setup](#controller-setup)
@@ -55,18 +61,23 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
     - [Help, my gear broke](#help-my-gear-broke)
     - [TK Dodge Keybinds](#tk-dodge-keybinds)
     - [Power Attacks](#power-attacks)
-    - [Can't open Locks](#help-i-cant-open-locks)
+    - [Help I can't open locks](#help-i-cant-open-locks)
     - [Can't use Crafting Stations](#cant-use-crafting-stations)
     - [failed to create download folder](#failed-to-create-download-folder)
     - [can't become a vampire lord](#cant-become-a-vampire-lord)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
+      - [BethINI](#bethini)
+      - [ENB](#enb-1)
+        - [Removing the letterbox (in general as the default ENB doesn't have that effect enabled)](#removing-the-letterbox-in-general-as-the-default-enb-doesnt-have-that-effect-enabled)
+        - [Turning off settings for FPS](#turning-off-settings-for-fps)
     - [Zoomed in Display](#zoomed-in-display)
     - [Modifications](#modifications)
-   - [Removing the modlist](#removing-the-modlist)
-  - [Credits and Thanks](#credits-and-thanks)
+  - [Removing the Modlist](#removing-the-modlist)
   - [Known Issues](#known-issues)
-  - [Found a bug](#I-found-a-bug)
-  - [Changelog](#Changelog)
+  - [I found a bug](#i-found-a-bug)
+  - [Changelog](#changelog)
+  - [I want to support your work!](#i-want-to-support-your-work)
+  - [Credits and Thanks](#credits-and-thanks)
 
 ## Preamble
 
@@ -80,7 +91,7 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 
 Mods to familiarize yourself while with the downloads are running:
 - [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352), which makes the first perk of a skill probably the most most important one. Without the first perk you can't use crafting furniture like ``Forges or Armor Tables`` and your magic requires an absurd amount of magicka, to name a few examples.
-It also disables EXP gain on the perks you don't have put any perk points into. 
+It also disables EXP gain on the perks you don't have put any perk points into. More info in the [Beginner's Guide](Ruvaak%20Beginners%20guide.md)
 - [ADXP/MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) combat animations will require you to commit to your attacks and have many more combinations for chained attacks.
 - [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) This mod spawns some creepy and some pretty powerful enemies alongside --or instead of-- vanilla enemies to spice up the gameplay a bit. Don't shy away from fleeing if some enemies are a bit too much. The mod does more than just spawning enemies, as well. You'll see a few powers in your character's magic menu after starting the game. One of them is trap crafting. Explore it as you might need it later on.
 - For player homes please refer to [the list of player homes](https://github.com/chri3i/Ruvaak-Readme/blob/main/Ruvaak%20Player%20Homes.md)
@@ -179,15 +190,18 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md)
 
-### Game Folder
+### Root Builder
 
-Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
+To enable compatability with the GOG versions of Skyrim, Ruvaak uses a tool known as Root Builder. For more details regarding it, please view [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and our [guide to it](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md).
+**If you made your own stock game, don't forget to change the managed game in MO2's settings**
+
 
 
 ### ENB
 
-Ruvaak comes already set up with [E.V.C. ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743) for Aequinoctium Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **a few** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for, except the new default one. If you want to install your own ENB put them into a separate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
-Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
+Ruvaak comes already set up with [Ebony ENB](https://www.nexusmods.com/skyrimspecialedition/mods/83598). \
+To change the ENB, simply download your preferred preset, install it in MO2 making sure it's in a folder called ``Root``. Activate your ENB preset and then you now have a new ENB preset. \
+ENB is enabled by default, if you want to remove it, disable all mods under the ``ENB`` separator in MO2
 
 ### Optional Mods
 

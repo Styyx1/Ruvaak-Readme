@@ -3,6 +3,7 @@
 ## Abstract
 > "The nights are frightening and cruel. Every corner can hide something horrible. I feel like someone's watching me all the time. Let me give you one word of advice: You need to be prepared, always! Running away does not make one a coward, it makes one a survivor!"
 - *Note: The details given below are not exhaustive and many other components exist in the list which we recommend you discover.*
+- *Another Note: This is NOT your typical vanilla game. Do not expect the main quest to be an early start. Think different, try new stuff. Don't belive me? Go to Bleakfalls Barrow and tell me how far you got!*
 
 ## Initial Setup
 
@@ -34,7 +35,6 @@ You will notice that combat is very different from the Skyrim you know. This is 
 
 Enemies are now also much smarter and sport different resistances via the inclusion of [Resistances and Weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/45253). Add to this new enemy types courtesy of [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) and [Heritage 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989) and your travels have just become a whole lot more dangerous.
 
-Reactive combat has the issue that spells are nearly impossible to dodge. Well, no more, thanks to [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611). It slows down arrows and spells alike without changing their reach.
 
 ### Magic
 
@@ -43,6 +43,7 @@ Reactive combat has the issue that spells are nearly impossible to dodge. Well, 
 Magic has been overhauled by the use of [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275). Learning spell requires now multiple attempts and steps, based on your training in the magic skills. However, via the use of [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000) which improves the magic system alongside staves and scrolls, [ScrollScribe](https://www.nexusmods.com/skyrimspecialedition/mods/32439) also allows you to create new scrolls without needing to have the levels of aptitude to join the College in Winterhold.
 But those who really want to become a powerful mage, need to look into [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711), it provides the possibility to level up your spells to new heights!
 [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/65221) provides a great variety of spells as well for those who want to further specialise.
+And if that isn't enough for your magical needs, simply use the spells of your enemies via [Spell Thief](https://www.nexusmods.com/skyrimspecialedition/mods/31000)
 
 Being an aspiring mage is hard. You have to overcome the difficulties of learning new spells while also keeping your natural resources in mind
 
@@ -50,9 +51,12 @@ Being an aspiring mage is hard. You have to overcome the difficulties of learnin
 
 ### Leveling, Crafting & Alchemy
 
-One of the biggest changes Ruvaak makes is completely decoupling the levelling system from your character. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes the game so that you gain experience from exploring the world, killing enemies and completing quests. Skills are **LEVEL CAPPED** to the following:
+One of the biggest changes Ruvaak makes is completely decoupling the levelling system from your character. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) makes it so your skills do not effect the character level, [Insightful Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/79951) gives 'Experience Potions' to various enemies and chests. Drops are semi-random but most boss chests will contain some potions of insight. You now basically level with exploration and combat. [Crystalized Knowledge potions](https://www.nexusmods.com/skyrimspecialedition/mods/74888) are your main source of perk points as you don't get any with level ups except every 4th level, so keep your eye open for them. They also appear as random drops but much less frequent. 
 
-![experience levels](https://github.com/Althro/Tinvaak2/blob/main/.github/Experience%20Levelling.png?raw=true)
+**Basically Leveling comes down to this:**
+- Character Level Ups: Exploration, quests and combat
+- Skill level Ups: quests and enemy drops 
+- Perk Points: every 4 levels + exploration and enemy drops
 
 [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487) makes small but meaningful changes to encounter zones but with the addition of [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872), there's still a chance that you will encounter enemies out of your level range. 
 
@@ -98,5 +102,19 @@ The Dwemer have also left some interesting things behind in [Blackreach](https:/
 Explore [The Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/70963) and discover the many mysterious locations it has to offer. Defeat powerful enemies and collect unique armor sets and weapons as you journey into this unforgiving land. Recent discoveries also lead to a new, desolated land, [the island of Pharos](https://www.nexusmods.com/skyrimspecialedition/mods/10423) is ready to be explored by visiting an old shipwreck in the north of Skyrim. 
 
 If you need more informations or just want learn more about the mods in use, visit the mod pages linked here or in the [Changes to gameplay document](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md)
+
+## Keybinds
+
+- for Gamepad users it's as easy as looking at [TUCS](https://www.nexusmods.com/skyrimspecialedition/mods/29381). 
+- changed the ``tween menu`` to be ``LB + Start`` to not accidentally dodge off a cliff anymore.
+
+- Additionally to TUCS:
+  - D-Pad Left = opens a follower menu that allows you various QOL features. works on modded followers
+  - LB = Power attack **MODIFIER** hold the key and use LT/RT for power attacks. 
+  
+     **does only work as long as the modifier key is helt**
+
+- for Keyboard users:
+  - will be expanded once someone tells me the keys cause i don't play with kb&m
 
 

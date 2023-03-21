@@ -1,8 +1,20 @@
 # Changelog
+
+## Versions
+
+<details>
+<summary> Versions: Click to expand </summary>
+
 - [Changelog](#changelog)
+  - [Versions](#versions)
+  - [Version 3.2.0.0](#version-3200)
+    - [Short Descrioption](#short-descrioption)
+    - [New Mods](#new-mods)
+    - [Removed Mods](#removed-mods)
+    - [Updated mods (only mentioned if they fixed things)](#updated-mods-only-mentioned-if-they-fixed-things)
   - [Version 3.1.0.1](#version-3101)
   - [Version 3.1.0.0](#version-3100)
-  - [Short Description](#short-description)
+    - [Short Description](#short-description)
     - [Added](#added)
     - [Removed](#removed)
     - [Updated](#updated)
@@ -24,16 +36,91 @@
     - [Removals](#removals-2)
     - [Additions](#additions-2)
 
+</details>
+
+## Version 3.2.0.0
+**Update is NOT save safe**
+<details>
+<summary> Click to expand </summary>
+
+### Short Descrioption
+
+- fixed Realm of Lorkhan boon, thanks Goat
+- fixed ridiculous absorption swirl effect
+- fixed random explosions in dungeons
+- Loot adjustments
+- Enemy adjustments - more buffs than nerfs :)
+- Fixed some clipping with carriages
+- fixed crash with a Glemoril witch spawn
+- directional power attacks enabled by default. directional power attacks use the vanilla animations!
+- fixed Aranea's hair (she got the hair for a wrong race)
+- added some swag to Nazeem
+- changed default ENB to Ebony ENB
+- new dragon models (GoT)
+- Updated to 1.6.640 (for now only compatible with steam version of the game. Might change in the future)
+- **completely new way of leveling.** Read the [Beginner's Guide](Ruvaak%20Beginners%20guide.md). Seriously, do it!
+
+### New Mods
+- Survival Mode Improved - SKSE (replaces various Survival mode mods)
+- Ryn's Bleakfalls Barrow + Tower
+- Superior Stones (Standing stone models remain from Menhir)
+- New LODs
+- Spell Thief (allows you to use enemy spells)
+- No Jump in Combat (does what the name suggests) (not fully decided yet)
+- Synergy Crafting Enablers
+- Open College
+- Spider Imbuing Integration
+- Ammo Enchanting
+- insightful Leveling
+- Skill Uncapper
+- Elemental Destruction Magic (replaces Arcanum)
+- Spaghetti's City Mods
+- Wyrmstooth + Integration of it
+- some magic mods
+- Folkvangr + Summer Tundra addon
+
+### Removed Mods
+- Shadow of Meresis quest was broken + the disco ship didn't look good either
+- Glamoril - The Maze of Labyrinthian. Great idea in theory but the removal of it fixed the random explosions...
+- Breakable Equipment System. I didn't like it after having it activated for 2 playthroughs
+- Post hit kill move got replaced by Kaputt
+- Jumping attacks
+- Twinblades (their moveset was simply too OP)
+- Horn Sliders (doesn't work with HDT-SMP)
+- Shadow of Skyrim (too many small issues that add up)
+- Lucifer
+- Kaldus
+- Action Based Projectilse (got replaced with Projectile Sense)
+- Pistols (Rifles are good enough)
+- Claws and Whips
+- Hogwarts in Skyrim
+
+### Updated mods (only mentioned if they fixed things)
+- MCO
+- SCAR
+- Precision
+- many, many, many other mods
+
+</details>
+
 ## Version 3.1.0.1
 **update is SAVE safe**
 
+<details>
+
+<summary> Click to expand </summary>
+
 - Removed Faster HDT-SMP - CUDA to not cause issues with AMD cards
 
+</details>
 
 ## Version 3.1.0.0
 **This Update is NOT save safe**
 
-## Short Description
+<details>
+<summary> Click to expand </summary>
+
+### Short Description
 
 - new bandit mod
 - easier NCGD settings as option
@@ -81,8 +168,14 @@
 - [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975)
 - **+ a ton of other mods**
 
+</details>
+
+
 ## Version 3.0.1.1
 **Update IS save safe**
+
+<details>
+<summary> Click to expand </summary>
 
 ## Short Descriptsion
 
@@ -94,11 +187,15 @@
 - [Dynamic Collision Adjustment](https://www.nexusmods.com/skyrimspecialedition/mods/76783)
 - [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374)
 
+</details>
 
 ## Version 3.0.1.0
 **Update is potentially NOT save safe**
 
 **It could be safe if you are below level 10(ish)**
+
+<details>
+<summary> Click to expand </summary>
 
 ### Short Description
 
@@ -123,10 +220,14 @@
 - [Dragonborn Waifus - Serana Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/58521)
 - [Sinister Seven Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/62234)
 
+</details>
 
 ## Version 3.0.0.0
 **This update is everything but save safe**
 **don't even try it, it will corrupt your save**
+
+<details>
+<summary> Click to expand </summary>
 
 **Info**:
 - Download Size: Total: 78.2GB
@@ -457,8 +558,13 @@
 - [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944/?tab=files&file_id=292793)
 - [xSHADOWMANx's Dll Loader](https://www.nexusmods.com/skyrimspecialedition/mods/3619/?tab=files&file_id=35843)
 
+</details>
+
 ## Version 2.5.0.0
 - **Update is NOT save safe**
+
+<details>
+<summary> Click to expand </summary>
 
 ### Short Description
 - Remade the entire list's conflict patching
@@ -722,3 +828,5 @@
 - [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_1898e8aa-827b-4242-9a29-3094a8bbb98e/)
 - [iBeasts - Argonian and Khajiit hairs and replacer for Interesting Npcs (3dNPCs)](https://www.nexusmods.com/skyrimspecialedition/mods/50355/?tab=files&file_id=289795)
 - [lilebonymace's patches xEdit scripts and stuff](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=281820)
+
+</details>

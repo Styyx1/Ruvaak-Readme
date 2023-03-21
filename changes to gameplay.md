@@ -10,25 +10,23 @@ Ruvaak uses [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352)
 
 Various other gameplay mods used include:
 
-1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing enemies.
+1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than getting experience on skill level ups, you now gain experience level for completing quests and killing enemies.
 
-3. [Phylogeny - Races of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/44371) removes most racial powers in favor of new passives. Passives apply to npcs as well as the player.
+2. [Phylogeny - Races of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/44371) removes most racial powers in favor of new passives. Passives apply to npcs as well as the player.
 
-4. [Nightmare Night - Renaissance of Werebeasts](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
+3. [Nightmare Night - Renaissance of Werebeasts](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
 
-5. [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086) and [Vampyrium-Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/39749) to completely change the vampire gameplay. Feeding is now only a chance to heal yourself and you get special perk by joining different vampire clans. I highly recommend checking out both mods' description if you plan on playing a vampire character.
+4. [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086) and [Vampyrium-Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/39749) to completely change the vampire gameplay. Feeding is now only a chance to heal yourself and you get special perk by joining different vampire clans. I highly recommend checking out both mods' description if you plan on playing a vampire character.
 
-6. [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) provides an overhaul to smithing with minimal edits to ensure compatibility. You will need to find forging manuals in order to unlock each respective category in the forge menu.
+5. [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) provides an overhaul to smithing with minimal edits to ensure compatibility. You will need to find forging manuals in order to unlock each respective category in the forge menu.
 
-7. [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) changes loot and encounter zones to provide an open world and immersive experience, letting the player have a sense of progression as well as obtaining believable and balanced loots throughout your adventure and exploration. 
+6. [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) changes loot and encounter zones to provide an open world and immersive experience, letting the player have a sense of progression as well as obtaining believable and balanced loots throughout your adventure and exploration. 
 
-8. [Menhir - Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/59927) greatly changes the effects and appearance of the standing stones.
+7. [Menhir - Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/59927) greatly changes the effects and appearance of the standing stones.
 
-9. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) changes dragons so that they feel like a true boss fight, with a range of new attacks and abilities. Expect dragons to offer a true battle to remember.
+8. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) changes dragons so that they feel like a true boss fight, with a range of new attacks and abilities. Expect dragons to offer a true battle to remember.
 
-10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
-
-11. [Vampyrium - Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/39749) completely overhauls the vampire gameplay. It introduces different vampire strains and clans, new perks and a new skill system for vampires. 
+9.  [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
 
 ## Magic Mods
 
@@ -46,11 +44,13 @@ Ruvaak doesn't come with huge magic overhauls, but those in the list, have a hug
 
 6. [The Path of Transcendence - Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/25654)  is a light-weight lichdom mod designed to compliment many other Necromancy themed Mods such as Ordinator's necromancy
 
-7. [Styyx: Magic of Shadows](https://github.com/chri3i/Styyx-Shadow-Spells) is a spell mod i made for Ruvaak. It is not fully finished yet and might need some adjustments but it gives you some great spells for Alteration and Illusion.
+7. [Spell Thief](https://www.nexusmods.com/skyrimspecialedition/mods/31000) allows you to steal enemy spells and use them as if they were your own.
 
 8. [Hemomancy](https://www.nexusmods.com/skyrimspecialedition/mods/74968) has bloodmagic-themed spells for Vampires and those who like a darker theme of their spells. It comes with its own perk tree option and does not level destruction.
 
-9. [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) is a highly adjustable mod for spell learning. Select conditions and method for learning. Keep or destroy the book. Unlearn already known spell and more. Check out the mod page and the MCM of it to learn more
+9.  [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) is a highly adjustable mod for spell learning. Select conditions and method for learning. Keep or destroy the book. Unlearn already known spell and more. Check out the mod page and the MCM of it to learn more
+
+10. [Natura](https://www.nexusmods.com/skyrimspecialedition/mods/77826), [Necrom](https://www.nexusmods.com/skyrimspecialedition/mods/86292), [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852) and [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) are themed spell packs for a variety of builds.
 
 
 ## Combat Mods
