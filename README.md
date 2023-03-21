@@ -48,9 +48,10 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
     - [Immersive Equipment Display Presets](#immersive-equipment-display-presets)
   - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
-    - [Failed to create download folder](#failed-to-create-download-folder)
     - [Controller Setup](#controller-setup)
     - [Ultrawide Options](#ultrawide-options)
+      - [Althro's recommendations](#althros-recommendations)
+    - [Failed to create download folder](#failed-to-create-download-folder)
     - [BA Alchemist Arsenal](#ba-alchemist-arsenal)
     - [Overpowered Enemies](#overpowered-enemies)
     - [OP Loot](#op-loot)
@@ -60,12 +61,10 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
     - [Power Attacks](#power-attacks)
     - [Help I can't open locks](#help-i-cant-open-locks)
     - [Can't use Crafting Stations](#cant-use-crafting-stations)
-    - [Can't become a vampire lord](#i-cant-become-a-vampire-lord)
-    - [Help, my gear broke](#help-my-gear-broke)
+    - [I can't become a vampire lord](#i-cant-become-a-vampire-lord)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
       - [BethINI](#bethini)
-      - [ENB](#enb)
-        - [Removing the letterbox](#removing-the-letterbox-in-general-as-the-default-enb-doesnt-have-that-effect-enabled)
+      - [ENB](#enb-1)
         - [Turning off settings for FPS](#turning-off-settings-for-fps)
     - [Zoomed in Display](#zoomed-in-display)
     - [Modifications](#modifications)
@@ -83,7 +82,9 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 
 [![Ruvaak Showcase](https://img.youtube.com/vi/KY1qEnkNpzM/0.jpg)](https://www.youtube.com/watch?v=KY1qEnkNpzM)
 
-# <ins>**Ruvaak requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**</ins>
+<font size="50">
+Ruvaak requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.
+</font> 
 
 Mods to familiarize yourself while with the downloads are running:
 - [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352), which makes the first perk of a skill probably the most most important one. Without the first perk you can't use crafting furniture like ``Forges or Armor Tables`` and your magic requires an absurd amount of magicka, to name a few examples.
@@ -133,7 +134,7 @@ Prior to installing Ruvaak, please complete the following steps.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 6. You also need to start the game to the main menu in order to download all the creations.
 
-# Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files
+<font size="30"> Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files </font>
 
 ### Wabbajack Installation
 
@@ -337,11 +338,6 @@ Check out the perk mod as it restricts usuage for every crafting station and way
 
 That's because you decided to be one of the vampire strains most likely. You can't become a vampire lord with some of them. **THIS IS NOT A BUG**.
 
-### Help, my gear broke
-
-If your equipment got damaged or destroyed, visit a blacksmith to temper it, or temper it yourself at the right crafting station for your equipment type.
-
-Feel free to set the rate of your equipment degradation as high/low as you like it in the ``Breakable Equipment MCM``.
 
 ***
 
@@ -359,13 +355,6 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 
 Ruvaak ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
 
-##### Removing the letterbox (in general as the default ENB doesn't have that effect enabled)
-
-1. Press [Shift+Enter] to open the ENB menu.
-2. In the tab called Shader Parameters, select the `ENBPOSTPASS.FX` section. It will open once you click on it.
-3. Scroll down until you see letterbox and untick it.
-4. Press the save configuration button.
-5. Press [Shift+Enter] to return to the game.
 
 ##### Turning off settings for FPS
 
