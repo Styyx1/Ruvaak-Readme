@@ -56,7 +56,6 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
     - [Overpowered Enemies](#overpowered-enemies)
     - [OP Loot](#op-loot)
     - [Survival Mode](#survival-mode)
-    - [Can't hit friendly NPCs?](#cant-hit-friendly-npcs)
     - [Equipment is too weak](#equipment-is-too-weak)
     - [Help, my gear broke](#help-my-gear-broke)
     - [TK Dodge Keybinds](#tk-dodge-keybinds)
@@ -180,7 +179,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 - **Problematic Files**:
-	- [NFAC - AE](https://drive.google.com/u/0/uc?id=1C-Hdm1eoA_Tsj1Tik7VZxXFN3fbwXVEi&export=download)
 	- [Eskyrim MCO installer](https://www.patreon.com/file?h=65532242&i=10998255)
 	- [Claw Power Combo](https://www.patreon.com/file?h=67067747&i=11190129)
 
@@ -200,7 +198,8 @@ To enable compatability with the GOG versions of Skyrim, Ruvaak uses a tool know
 ### ENB
 
 Ruvaak comes already set up with [Ebony ENB](https://www.nexusmods.com/skyrimspecialedition/mods/83598). \
-To change the ENB, simply download your preferred preset, install it in MO2 making sure it's in a folder called ``Root``. Activate your ENB preset and then you now have a new ENB preset. \
+In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with a few options. Depending on your PC you might want to check them out. If you want to install your own ENB put them into a separate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.
+Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information. \
 ENB is enabled by default, if you want to remove it, disable all mods under the ``ENB`` separator in MO2
 
 ### Optional Mods
@@ -227,7 +226,7 @@ Almost all of the MCM options are automatically configured for you already. Wait
 Note that all keybinding are set to my liking for a **Gamepad**. I do not know the keyboard and mouse settings as I don't use it for playing. 
 There are a few ini files you want to check for keybinds like: 
 - TK Dodge RE (Default is ``left alt`` if you activate ``TK Dodge - Settings`` in the Gamepad separator)
-- Elden Power Attack (Default is ``G``)
+- Power Attacks are set to ``M4`` and ``M5`` (for controller it's the block key if used mid-attack)
 
 You can tweak the MCMs to your liking like:
 
@@ -241,13 +240,6 @@ You can tweak the MCMs to your liking like:
 - SkyUI
 - Precision
 - Swiftly Order Squad (hotkey is set for gamepad so you need to change that for kb&m; D-Pad right is the default key on Gamepad)
-- I recommend to look at 'Breakable Equipment' to flag any lantern as unbreakable
-
-Afterwards, activate ``Shadow of Skyrim`` in its MCM by **clicking into the general tab** and adjust to your liking.
-![SOS General Page](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/ShadowOfSkyrimGeneralPage.png)
-
-I highly recommend turning off ``Nemesis uses Gear`` in order to not get your stuff taken away by a despawning enemy.
-![SOS Defeat Page](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/ShadowOfSkyrimDefeatPage.png)
 
 Ruvaak also makes use of a few GUI menus:
 
@@ -287,7 +279,7 @@ You need to be level 5 and open the crafting kit to use this. Check out the [mod
 ### Controller Setup
 
 Controller compatibility is turned on by default as Ruvaak uses a neat SKSE plugin called [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309) and therefor it won't interfere for anyone using keyboard and mouse for controls.
-If you use a gamepad, however, you should make yourself familiar with the changed controls. Ruvaak uses [TUCS](https://www.nexusmods.com/skyrimspecialedition/mods/29381). If you don't like the control layout you can disable the mods under *Gamepad support* at any time/
+If you use a gamepad, however, you should make yourself familiar with the changed controls. Ruvaak uses [TUCS](https://www.nexusmods.com/skyrimspecialedition/mods/29381) with a small change so that the tween menu is ``RB + Start`` instead of ``LB + Start``. If you don't like the control layout you can disable the mods under *Gamepad support* at any time/
 
 ### Ultrawide Options
 
@@ -304,15 +296,7 @@ There are some extremely powerful items in most of the dungeon boss chests. Whil
 
 ### Survival Mode
 
-While the list is made with Survival mode in mind, you will probably sometimes need to disable it to fully utilize the mods in the list (Underwater combat for example as most of the new underwater creatures are in the north and you'll freeze to death there when you swim)
-It can be freely enabled and disabled in the settings menu whenever you want (just give it a few seconds to take effect) and don't rapid fire switch between Survival and non-Survival.
-
-### Can't hit friendly NPCs?
-
-The mod [No Follower Attack Collision](https://www.nexusmods.com/skyrimspecialedition/mods/65037) prevents you from hitting friendly NPCs and your followers. 
-Usually a great mod, but in some situations you need to hit NPCs (Vilkas at the companions quest, for example) to turn it off temporarily, hit the ``ins`` key.
-To change the hotkey for that change the key in the ``loki_NFAC.ini`` file. You get to this file by double-clicking the mod ``No Follower Attack Collisions``.
-You can find the keycodes for Skyrim [here](https://www.creationkit.com/index.php?title=Input_Script).
+While the list is made with Survival enabled by default, you can disabled it in the settings menu whenever you want (just give it a few seconds to take effect) and don't rapid fire switch between Survival and non-Survival.
 
 ### Equipment is too weak
 
@@ -371,8 +355,6 @@ Ruvaak ships with an ENB setup that is configured to match the look of the list.
 
 ##### Turning off settings for FPS
 
-First for more FPS, try turning on ``AO Enabler`` below the 'Input' settings in the ENB menu. It turns AO on and off based on your framerate
-
 If you are struggling for frames but want the colour correction and realism, turn off the following items.
 
 - DetailedShadows
@@ -382,7 +364,7 @@ If you are struggling for frames but want the colour correction and realism, tur
 - Complex Grass Collision
 - Complex Grass
 
-If you really cannot handle the ENB, uncheck `useEffect`.
+If you really cannot handle the ENB, uncheck `useEffect` and try out the ReShade preset in ENB Manager.
 
 ### Zoomed in Display
 
