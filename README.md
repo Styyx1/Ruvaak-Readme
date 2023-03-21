@@ -83,9 +83,8 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 [![Ruvaak Showcase](https://img.youtube.com/vi/KY1qEnkNpzM/0.jpg)](https://www.youtube.com/watch?v=KY1qEnkNpzM)
 
 
-<span style="font-size: 7vmax;">
-- Ruvaak requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.
-- </span>
+> **__Ruvaak requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.__**
+
 
 
 Mods to familiarize yourself while with the downloads are running:
@@ -136,7 +135,7 @@ Prior to installing Ruvaak, please complete the following steps.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 6. You also need to start the game to the main menu in order to download all the creations.
 
-<font size="30"> Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files </font>
+> **Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files**
 
 ### Wabbajack Installation
 
