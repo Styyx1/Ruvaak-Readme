@@ -75,15 +75,15 @@ Some Alchemists might think that eating ingredients is a good way to learn the e
 
 1. [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 
-2. [Lucifer](https://www.nexusmods.com/skyrimspecialedition/mods/44967) is a fully voiced argonian adventuring companion. Despite his unnatural voice for an Argonian, he is a skilled fighter. Gain his trust and he will share what he knows about himself as he doesn't know who he really is, even though he may disagree with some of your actions, he won't leave your side.
+2. [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893) is a Custom Fully Voiced Argonian Lawman of House Telvanni with ~5550 lines. He is on his way to Rivenspire in High Rock, having traveled all the way from Port Telvannis in Morrowind. Xelzaz has just arrived in Skyrim and is looking for a traveling companion. In return he will keep you company, cook you warm meals and brew powerful potions. 
 
 3. [Gladys the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164). Feel as though there's not enough dogs in Skyrim? Well, now you can have your own unique corgi which will happily bite the heels of your enemies!
 
-4. [Kaldus](https://www.nexusmods.com/skyrimspecialedition/mods/58358), a strange fella who's waiting for you near Flakreath. Discover him yourself it'll be worth it!
+4. [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874), is a Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore dwemer ruins in Skyrim, but she needs your help. While she's not much of a fighter, she boasts a knack for machinery and will reprogram a dwemer spider to fight alongside you both. 
+5. 
+6. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433). Still not enough corgi in your Skyrim? Well, then you'll want to take this loveable and magical pup on the road with you! A unique combat-oriented corgi follower that will be sure to set your enemies ablaze with glee!
 
-5. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433). Still not enough corgi in your Skyrim? Well, then you'll want to take this loveable and magical pup on the road with you! A unique combat-oriented corgi follower that will be sure to set your enemies ablaze with glee!
-
-6. [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is a fairly new mod but already my favourite follower. She has a unique combat style, a unique mount and doesn't feel the need to tell me every 30 seconds how much she likes me. Check her out and do her quest.
+7. [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is my favourite follower. She has a unique combat style, a unique mount and doesn't feel the need to tell me every 30 seconds how much she likes me. Check her out and do her quest.
 
 > "Always look at the shadows and don't get greedy if you plan to survive."
 

@@ -7,7 +7,7 @@
 
 - [Changelog](#changelog)
   - [Versions](#versions)
-  - [Version 3.2.0.0](#version-3200)
+  - [Version 4.0.0.0](#version-4000)
     - [Short Descrioption](#short-descrioption)
     - [New Mods](#new-mods)
     - [Removed Mods](#removed-mods)
@@ -38,7 +38,7 @@
 
 </details>
 
-## Version 3.2.0.0
+## Version 4.0.0.0
 **Update is NOT save safe**
 <details>
 <summary> Click to expand </summary>
