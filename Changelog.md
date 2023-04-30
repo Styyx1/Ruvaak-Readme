@@ -52,10 +52,8 @@
 - Enemy adjustments - more buffs than nerfs :)
 - Fixed some clipping with carriages
 - fixed crash with a Glemoril witch spawn
-- directional power attacks enabled by default. directional power attacks use the vanilla animations!
 - fixed Aranea's hair (she got the hair for a wrong race)
-- added some swag to Nazeem
-- changed default ENB to Ebony ENB
+- changed default ENB to E.V.C ENB
 - Updated to 1.6.640 (for now only compatible with steam version of the game. Might change in the future)
 - **completely new way of leveling.** Read the [Beginner's Guide](Ruvaak%20Beginners%20guide.md). Seriously, do it!
 
@@ -77,6 +75,8 @@
 - some magic mods
 - Folkvangr + Summer Tundra addon
 - Xelzaz and Remiel as new follower options
+- One Click Power Attack
+- Custom Skill Framework and mods that make use of it
 
 ### Removed Mods
 - Shadow of Meresis quest was broken + the disco ship didn't look good either
@@ -89,18 +89,13 @@
 - Shadow of Skyrim (too many small issues that add up)
 - Lucifer
 - Kaldus
-- Action Based Projectilse (got replaced with Projectile Sense)
+- Action Based Projectiles (arrows were too slow)
 - Pistols (Rifles are good enough)
 - Claws and Whips (claws are annoying, whips are broken)
 - Hogwarts in Skyrim (too strong)
 
-### Updated mods (only mentioned if they fixed things)
-- MCO
-- SCAR
-- Precision
-- many, many, many other mods
-- even more mods 
-- and even more. so many updates.
+### Updated mods
+- too many to list, basically the whole list got updated
 
 </details>
 

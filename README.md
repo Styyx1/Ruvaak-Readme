@@ -78,12 +78,12 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
 
 > "You are not alone. Remember this the next time you wander the harsh, frozen lands of Skyrim. Many have tried --and failed-- to discover what lurks out there, in the mists, and many will after you are gone. Tell me, do you have what it takes to survive?"
 
-Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [Changes to Gameplay](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md) article and DroppedIceCream's showcase below.
+Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [Changes to Gameplay](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md) article and biggie_boss' showcase below.
 
-[![Ruvaak Showcase](https://img.youtube.com/vi/KY1qEnkNpzM/0.jpg)](https://www.youtube.com/watch?v=KY1qEnkNpzM)
+[![Ruvaak Showcase](https://img.youtube.com/vi/dpUbcLK0zB4/hqdefault.jpg)](https://youtu.be/dpUbcLK0zB4?t)
 
 
-# ❗ **__Ruvaak requires the *full* AE upgrade, which means you must ❗      ❗ *purchase* the AE edition of the game for the list to function.__**  ❗
+#  **__Ruvaak requires the *full* AE upgrade, which means you must       *purchase* the AE edition of the game for the list to function.__**  
 
 
 
@@ -93,7 +93,7 @@ It also disables EXP gain on the perks you don't have put any perk points into. 
 - [ADXP/MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) combat animations will require you to commit to your attacks and have many more combinations for chained attacks.
 - [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) This mod spawns some creepy and some pretty powerful enemies alongside --or instead of-- vanilla enemies to spice up the gameplay a bit. Don't shy away from fleeing if some enemies are a bit too much. The mod does more than just spawning enemies, as well. You'll see a few powers in your character's magic menu after starting the game. One of them is trap crafting. Explore it as you might need it later on.
 - For player homes please refer to [the list of player homes](https://github.com/chri3i/Ruvaak-Readme/blob/main/Ruvaak%20Player%20Homes.md)
-- Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167) and [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435).
+- Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) and [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435).
 - The full list of mods in Ruvaak can be viewed [here](https://loadorderlibrary.com/lists/ruvaak-1).
 - This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
 
@@ -115,10 +115,10 @@ It will prob run good on lower specs as well but I recommend at least 6GB VRAM (
 **I can only answer performance questions about my specs as I don't have different systems flying around to check!**
 
 Space required: 
-- Approx 190GB (Downloads included) + 20-30GB space for temp files.
+- Approx 230GB (Downloads included) + 20-30GB space for temp files.
  
 Size without downloads and space for temp files: 
-- Approx 112GB
+- Approx 150GB
 
 ## Installation
 
@@ -180,7 +180,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - **Problematic Files**:
 	- [Eskyrim MCO installer](https://www.patreon.com/file?h=65532242&i=10998255)
-	- [Claw Power Combo](https://www.patreon.com/file?h=67067747&i=11190129)
 
 ## Post-Installation
 

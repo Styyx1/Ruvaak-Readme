@@ -31,7 +31,7 @@ You start with **3 perk points** free to choose. I recommend using the perk poin
 ### Combat
 > "Being prepared means having your offense and your defense balanced. Do not be afraid to run away to fight another day! Skyrim has many tombs and you don't want the next one to be your burial site. Be aware of vampires, these foul undead fear only silver and a stake through their hearts."
 
-You will notice that combat is very different from the Skyrim you know. This is due to [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) changing how movement is done, giving you the ability to attack in any direction. Through the addition of [ADXP/MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) combat animations will require you to commit to your attacks and have many more combinations for chained attacks. Also you have a separate power attack key thanks to [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711). The key is LB on controller (``G`` on keyboard by default). You can also cancel your attacks at any time with blocking due to [Combat Behavior Improved](https://www.nexusmods.com/skyrimspecialedition/mods/3568) or by dodging out of it thanks to [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956).
+You will notice that combat is very different from the Skyrim you know. This is due to [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) changing how movement is done, giving you the ability to attack in any direction. Through the addition of [ADXP/MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) combat animations will require you to commit to your attacks and have many more combinations for chained attacks. Also you have a separate power attack key thanks to [One Click Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/60878). The key is ``share`` on controller (``M4 and M5`` on mouse by default). You can also cancel your attacks at any time with blocking due to [Combat Behavior Improved](https://www.nexusmods.com/skyrimspecialedition/mods/3568) or by dodging out of it thanks to [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956).
 
 Enemies are now also much smarter and sport different resistances via the inclusion of [Resistances and Weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/45253). Add to this new enemy types courtesy of [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) and [Heritage 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989) and your travels have just become a whole lot more dangerous.
 
@@ -41,8 +41,6 @@ Enemies are now also much smarter and sport different resistances via the inclus
 > "Learing spells is no easy task, it requires some wits and knowledge."
 
 Magic has been overhauled by the use of [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275). Learning spell requires now multiple attempts and steps, based on your training in the magic skills. However, via the use of [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000) which improves the magic system alongside staves and scrolls, [ScrollScribe](https://www.nexusmods.com/skyrimspecialedition/mods/32439) also allows you to create new scrolls without needing to have the levels of aptitude to join the College in Winterhold.
-But those who really want to become a powerful mage, need to look into [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711), it provides the possibility to level up your spells to new heights!
-[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/65221) provides a great variety of spells as well for those who want to further specialise.
 And if that isn't enough for your magical needs, simply use the spells of your enemies via [Spell Thief](https://www.nexusmods.com/skyrimspecialedition/mods/31000)
 
 Being an aspiring mage is hard. You have to overcome the difficulties of learning new spells while also keeping your natural resources in mind
@@ -110,11 +108,12 @@ If you need more informations or just want learn more about the mods in use, vis
 
 - Additionally to TUCS:
   - D-Pad Left = opens a follower menu that allows you various QOL features. works on modded followers
-  - LB = Power attack **MODIFIER** hold the key and use LT/RT for power attacks. 
-  
-     **does only work as long as the modifier key is helt**
 
 - for Keyboard users:
   - will be expanded once someone tells me the keys cause i don't play with kb&m
+
+## Dungeon Guides
+
+- [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784) removes the back entrances of a lot of dungeons so you need to backtrack again and it spawns enemies on your way out and in combination with [Locked Chests have Keys](https://www.nexusmods.com/skyrimspecialedition/mods/74565) it locks the boss chests so you either need to find a key for them or you can pick the locks. For picking locks you need perks or [one of the utility perk potions](https://www.nexusmods.com/skyrimspecialedition/mods/79820) that allow you to pick locks for a limited amount of time.
 
 
