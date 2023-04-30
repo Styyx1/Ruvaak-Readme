@@ -48,16 +48,31 @@
 - fixed Realm of Lorkhan boon, thanks Goat
 - fixed ridiculous absorption swirl effect
 - fixed random explosions in dungeons
+- better visuals with basically the same performance
+- music enabled by default (didn't realise it was turned off in the settings)
+- new enemies and a lot more of them
+- Wyrmstooth added and integrated
+- Skooma is fun :)
+- Autobody
+- more 1st person friendly but it's neither the focus of the list, nor tested by me
+- overhauled (now working) animations, though pikes aren't as good as they could be till i finally find an animation mod for them
 - Loot adjustments
 - Enemy adjustments - more buffs than nerfs :)
 - Fixed some clipping with carriages
+- Fixed Clockwork NPCs missing heads
+- fixed mannequins not showing helmets
+- faster Dialogue skips
 - fixed crash with a Glemoril witch spawn
 - fixed Aranea's hair (she got the hair for a wrong race)
 - changed default ENB to E.V.C ENB
 - Updated to 1.6.640 (for now only compatible with steam version of the game. Might change in the future)
 - **completely new way of leveling.** Read the [Beginner's Guide](Ruvaak%20Beginners%20guide.md). Seriously, do it!
+- completely overhauled combat. combat is slower paced but more methodic if that makes sense
+- tons of new magic 
+- new UI mods
+- Survival mode enabled by default. use the settings menu (not MCM) to disable it
 
-### New Mods
+### New Mods (too many to list)
 - Survival Mode Improved - SKSE (replaces various Survival mode mods)
 - Ryn's Bleakfalls Barrow + Tower
 - Superior Stones (Standing stone models remain from Menhir)
@@ -69,16 +84,19 @@
 - Ammo Enchanting
 - insightful Leveling
 - Skill Uncapper
-- Elemental Destruction Magic (replaces Arcanum)
 - Spaghetti's City Mods
 - Wyrmstooth + Integration of it
-- some magic mods
+- some magic mods like Natura, Abyss, Bloodmoon
 - Folkvangr + Summer Tundra addon
 - Xelzaz and Remiel as new follower options
 - One Click Power Attack
 - Custom Skill Framework and mods that make use of it
+- Autobody
+- instantly Skip Dialogue NG
+- New Horizon UI
+- 
 
-### Removed Mods
+### Removed Mods (too many to list)
 - Shadow of Meresis quest was broken + the disco ship didn't look good either
 - Glamoril - The Maze of Labyrinthian. Great idea in theory but the removal of it fixed the random explosions...
 - Breakable Equipment System. I didn't like it after having it activated for 2 playthroughs
