@@ -94,7 +94,7 @@
 - Autobody
 - instantly Skip Dialogue NG
 - New Horizon UI
-- 
+- taunt your enemies and remote interactions
 
 ### Removed Mods (too many to list)
 - Shadow of Meresis quest was broken + the disco ship didn't look good either

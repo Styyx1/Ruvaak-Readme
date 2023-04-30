@@ -193,7 +193,7 @@ Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### ENB
 
-Ruvaak comes already set up with [Ebony ENB](https://www.nexusmods.com/skyrimspecialedition/mods/83598).
+Ruvaak comes already set up with [E.V.C. ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743).
 
 In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with a few options. Depending on your PC you might want to check them out. If you want to install your own ENB put them into a separate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.
 
@@ -236,7 +236,6 @@ You can tweak the MCMs to your liking like:
 
 - Animated Potions
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
-- Conner's Survival Mode
 - Dynamic Weather Detection
 - Dynamically Darker Dungeons
 - Extended Encounters
@@ -244,13 +243,14 @@ You can tweak the MCMs to your liking like:
 - SkyUI
 - Precision
 - Swiftly Order Squad (hotkey is set for gamepad so you need to change that for kb&m; D-Pad right is the default key on Gamepad)
+- Taunt your Enemies/Remote Interactions 
 
 Ruvaak also makes use of a few GUI menus:
 
 - [CatHub](https://www.nexusmods.com/skyrimspecialedition/mods/65958) allows you to customize kill moves and chances for kill moves. Key ``NumPad . (, for German keyboards)``.
 - [Immersive Equipment Distplay](https://www.nexusmods.com/skyrimspecialedition/mods/62001) allows you to show equipment on your character. Key ``left ctrl + Backspace``.
 - [QUI](https://www.nexusmods.com/skyrimspecialedition/mods/65343?tab=files) is basically AddItem Menu. I don't suggest using it unless you know which items are definitely safe to take. Key ``F11``
-- ENB to adjust visuals and many effects. Only use it when you know what you're doing. Key ``shift + enter``.
+- ENB to adjust visuals and many effects. Only use it when you know what you're doing. Key ``home``.
 - [PlayerStats](https://www.nexusmods.com/skyrimspecialedition/mods/67622) allows you to see Actor Values, such as Negative Resistances gained from eating alchemical ingredients, Attributes (current and max), etc using the ``NumPad Enter`` key. 
 
 ***

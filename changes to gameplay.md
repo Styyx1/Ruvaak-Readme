@@ -160,7 +160,7 @@ Ruvaak is by no means a heavily roleplaying focused list but there are some mods
 
 4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrimspecialedition/mods/76676) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow and Decay according to your playstyle independent of level or skills. You need to sleep to get rid of the accumulated stress for the attributes. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on).
 
-# Note: This mod disables the vanilla attribute gain so you can't level Health, Stamina or Magicka as usual!
+# Note: In Ruvaak you only get half the attribute points per level up, that is intentional
 
 5. [Potions of Obtainable Progress](https://www.nexusmods.com/skyrimspecialedition/mods/74888) is a mod that adds perk point potions hidden in the world if you ever feel like you need that one extra point for your build.
 

@@ -78,10 +78,10 @@ Some Alchemists might think that eating ingredients is a good way to learn the e
 3. [Gladys the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164). Feel as though there's not enough dogs in Skyrim? Well, now you can have your own unique corgi which will happily bite the heels of your enemies!
 
 4. [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874), is a Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore dwemer ruins in Skyrim, but she needs your help. While she's not much of a fighter, she boasts a knack for machinery and will reprogram a dwemer spider to fight alongside you both. 
-5. 
-6. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433). Still not enough corgi in your Skyrim? Well, then you'll want to take this loveable and magical pup on the road with you! A unique combat-oriented corgi follower that will be sure to set your enemies ablaze with glee!
+ 
+5. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433). Still not enough corgi in your Skyrim? Well, then you'll want to take this loveable and magical pup on the road with you! A unique combat-oriented corgi follower that will be sure to set your enemies ablaze with glee!
 
-7. [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is my favourite follower. She has a unique combat style, a unique mount and doesn't feel the need to tell me every 30 seconds how much she likes me. Check her out and do her quest.
+6. [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is my favourite follower. She has a unique combat style, a unique mount and doesn't feel the need to tell me every 30 seconds how much she likes me. Check her out and do her quest.
 
 > "Always look at the shadows and don't get greedy if you plan to survive."
 
@@ -115,5 +115,7 @@ If you need more informations or just want learn more about the mods in use, vis
 ## Dungeon Guides
 
 - [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784) removes the back entrances of a lot of dungeons so you need to backtrack again and it spawns enemies on your way out and in combination with [Locked Chests have Keys](https://www.nexusmods.com/skyrimspecialedition/mods/74565) it locks the boss chests so you either need to find a key for them or you can pick the locks. For picking locks you need perks or [one of the utility perk potions](https://www.nexusmods.com/skyrimspecialedition/mods/79820) that allow you to pick locks for a limited amount of time.
+- Take Followers with you early on. They can help in combat but more importantly, most of them can open simple locks for you.
+- Taunting enemies can give you a small benefit in combat, might be exactly what you need early on. 
 
 
