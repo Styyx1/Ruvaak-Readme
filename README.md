@@ -199,7 +199,7 @@ In the executables drop down menu in MO2, you will find an ENB Organizer that pr
 
 Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
-ENB is enabled by default, if you want to remove it, disable all mods under the ``ENB`` separator in MO2.
+ENB is disabled by default, if you want to enable it, activate all mods under the ``ENB`` separator in MO2.
 
 **NOTE: To fully remove ENB, you need to disable all mods under the ENB separator and turn it off in ENB Organiser**
 
