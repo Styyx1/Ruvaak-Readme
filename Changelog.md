@@ -45,6 +45,8 @@
 
 ### Short Descrioption
 
+**Almost a complete rebuild of the list. Now it uses community shaders and a reshade setup instead of ENB by default. Performance is way better than ever before!**
+
 - fixed Realm of Lorkhan boon, thanks Goat
 - fixed ridiculous absorption swirl effect
 - fixed random explosions in dungeons
@@ -78,7 +80,7 @@
 ### New Mods (too many to list)
 - Survival Mode Improved - SKSE (replaces various Survival mode mods)
 - Ryn's Bleakfalls Barrow + Tower
-- Superior Stones (Standing stone models remain from Menhir)
+- Doomstone - An Uncreative Standing Stone Overhaul (Standing stone models remain from Menhir)
 - New LODs
 - Spell Thief (allows you to use enemy spells)
 - Synergy Crafting Enablers
