@@ -71,6 +71,9 @@
 - tons of new magic 
 - new UI mods
 - Survival mode enabled by default. use the settings menu (not MCM) to disable it
+- removed guns as a whole
+- a lot of things changed for balancing reasons
+- magic is a tad harder early game, still powerful
 
 ### New Mods (too many to list)
 - Survival Mode Improved - SKSE (replaces various Survival mode mods)
@@ -108,7 +111,7 @@
 - Lucifer
 - Kaldus
 - Action Based Projectiles (arrows were too slow)
-- Pistols (Rifles are good enough)
+- Pistols and rifles
 - Claws and Whips (claws are annoying, whips are broken)
 - Hogwarts in Skyrim (too strong)
 
