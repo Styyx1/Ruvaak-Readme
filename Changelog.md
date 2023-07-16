@@ -7,6 +7,7 @@
 
 - [Changelog](#changelog)
   - [Versions](#versions)
+  - [Version 4.0.1.0](#version-4010) 
   - [Version 4.0.0.0](#version-4000)
     - [Short Descrioption](#short-descrioption)
     - [New Mods](#new-mods)
@@ -35,8 +36,40 @@
     - [Updates](#updates-2)
     - [Removals](#removals-2)
     - [Additions](#additions-2)
+</details>
+
+## Version 4.0.1.0
+**Update should be save safe but you need to save the game right after starting it**
+<details>
+<summary> Click to expand </summary>
+
+### Short Description:
+
+- Fixed unarmed animations
+- potentially fixed annoying block bug
+- changed dodge mod
+- fixed T-Posing after stagger for NPCs
+- changed ReShade Preset
+
+### New Mods:
+- TK Dodge RE
+- Fists of Fury
+- Brawl Lines Expansion and Fixes
+- Caught Red Handed
+- Heart of Dibella - Quest Expansion
+
+### Removed Mods:
+- DMCO
+- Cancelable Large Stagger
+- Poise Stagger animations
+- Blockrunner
+
+### Updated Mods:
+- JaySerpa's quest expansions
+- Vestige
 
 </details>
+
 
 ## Version 4.0.0.0
 **Update is NOT save safe**
