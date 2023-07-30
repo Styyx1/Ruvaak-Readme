@@ -24,11 +24,9 @@ Various other gameplay mods used include:
 
 7. [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) changes loot and encounter zones to provide an open world and immersive experience, letting the player have a sense of progression as well as obtaining believable and balanced loots throughout your adventure and exploration. 
 
-8. [Superior Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/64661)greatly changes the effects of the standing stones and their appearance comes from [Menhir - Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/64661).
+8. [Doomstones](https://www.nexusmods.com/skyrimspecialedition/mods/80180)greatly changes the effects of the standing stones and their appearance comes from [Menhir - Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/64661).
 
 9. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) changes dragons so that they feel like a true boss fight, with a range of new attacks and abilities. Expect dragons to offer a true battle to remember.
-
-10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
 
 ## Magic Mods
 
@@ -44,11 +42,9 @@ Ruvaak doesn't come with huge magic overhauls, but those in the list, have a hug
 
 5. [Spell Thief](https://www.nexusmods.com/skyrimspecialedition/mods/31000) allows you to steal enemy spells and use them as if they were your own.
 
-6. [Hemomancy](https://www.nexusmods.com/skyrimspecialedition/mods/74968) has bloodmagic-themed spells for Vampires and those who like a darker theme of their spells. It comes with its own perk tree option and does not level destruction.
+6.  [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) is a highly adjustable mod for spell learning. Select conditions and method for learning. Keep or destroy the book. Unlearn already known spell and more. Check out the mod page and the MCM of it to learn more
 
-7.  [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) is a highly adjustable mod for spell learning. Select conditions and method for learning. Keep or destroy the book. Unlearn already known spell and more. Check out the mod page and the MCM of it to learn more
-
-8.  [Natura](https://www.nexusmods.com/skyrimspecialedition/mods/77826), [Necrom](https://www.nexusmods.com/skyrimspecialedition/mods/86292), [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852), [Bloodmoon](https://www.nexusmods.com/skyrimspecialedition/mods/84304) and [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) are themed spell packs for a variety of builds.
+7.  [Natura](https://www.nexusmods.com/skyrimspecialedition/mods/77826), [Necrom](https://www.nexusmods.com/skyrimspecialedition/mods/86292), [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852), [Bloodmoon](https://www.nexusmods.com/skyrimspecialedition/mods/84304) and [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) are themed spell packs for a variety of builds.
 
 
 ## Combat Mods
@@ -136,17 +132,15 @@ Skyrim can be a lonely place, and the battles can be tough. Thankfully, there ar
 
 6. [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is a fairly new mod but already my favourite follower. She has a unique combat style, a unique mount and doesn't feel the need to tell me every 30 seconds how much she likes me. Check her out and do her quest.
 
-## Music and Weather
+## Music and Sound
 
 A modlist wouldn't be complete without a few new soundtracks and a weather upgrade. Ruvaak utilises a few mods to help achieve that whilst still keeping the iconic soundtrack that we all know and love.
 
-1. [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) is the weather mod of choice for Ruvaak. Pairing with the ENB perfectly, it provides the perfect backdrop for the list.
+1. [Personalized Music](https://www.nexusmods.com/skyrimspecialedition/mods/2572) + [Dark Era](https://www.nexusmods.com/skyrimspecialedition/mods/39746) provide the music to give the feeling i was going for with the list.
 
-2. [Personalized Music](https://www.nexusmods.com/skyrimspecialedition/mods/2572) + [Dark Era](https://www.nexusmods.com/skyrimspecialedition/mods/39746) provide the music to give the feeling i was going for with the list.
+2. [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) does what it pretty much says on the tin. Expect sounds to feel more relistic and, well, overhauled.
 
-3. [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) does what it pretty much says on the tin. Expect sounds to feel more relistic and, well, overhauled.
-
-4. [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) provides a dramatic and marked update to many of the sounds in the game. This is merged with AOS to create the perfect overhaul to the sounds in game.
+3. [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) provides a dramatic and marked update to many of the sounds in the game. This is merged with AOS to create the perfect overhaul to the sounds in game.
 
 ## Survival & Immersion
 
