@@ -5,7 +5,7 @@ Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversa
 
 This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
 
-![Ruvaak-banner](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakTitleResized.png)
+![Ruvaak-banner](https://github.com/Styyx1/Ruvaak-Readme/blob/main/.github/RuvaakTitleResized.png)
 
 <table stlyle="border: none;">
 <tr>
@@ -23,8 +23,10 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+***
+<details>
+<summary> <h1>Contents </summary>
 
-## Contents<!-- omit from toc -->
 - [Preamble](#preamble)
 - [System Requirements](#system-requirements)
   - [1080p (my specs)](#1080p-my-specs)
@@ -66,6 +68,10 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
 - [Changelog](#changelog)
 - [Credits and Thanks](#credits-and-thanks)
 
+</details>
+
+***
+
 ## Preamble
 
 > "You are not alone. Remember this the next time you wander the harsh, frozen lands of Skyrim. Many have tried --and failed-- to discover what lurks out there, in the mists, and many will after you are gone. Tell me, do you have what it takes to survive?"
@@ -76,9 +82,7 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 
 
 #  **__Ruvaak requires the *full* AE upgrade, which means you must       *purchase* the AE edition of the game for the list to function.__**  <!-- omit from toc -->
-
-
-
+***
 Mods to familiarize yourself while with the downloads are running:
 - [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352), which makes the first perk of a skill probably the most most important one. Without the first perk you can't use crafting furniture like ``Forges or Armor Tables`` and your magic requires an absurd amount of magicka, to name a few examples.
 It also disables EXP gain on the perks you don't have put any perk points into. More info in the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
@@ -87,11 +91,13 @@ It also disables EXP gain on the perks you don't have put any perk points into. 
 - For player homes please refer to [the list of player homes](https://github.com/chri3i/Ruvaak-Readme/blob/main/Ruvaak%20Player%20Homes.md)
 - Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) and [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435).
 - The full list of mods in Ruvaak can be viewed [here](https://loadorderlibrary.com/lists/ruvaak-1).
-- This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
 
+***
+- This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
+***
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
+***
 ## System Requirements
 
 Ruvaak is aimed at mid tier machines so a system like the following is advised:
@@ -111,7 +117,7 @@ Space required:
  
 Size without downloads and space for temp files: 
 - Approx 150GB
-
+***
 ## Installation
 
 Installing Ruvaak is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
@@ -172,7 +178,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - **Problematic Files**:
 	- [Eskyrim MCO installer](https://www.patreon.com/file?h=65532242&i=10998255)
-
+***
 ## Post-Installation
 
 ### Gameplay Changes<!-- omit from toc -->
