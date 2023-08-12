@@ -1,49 +1,50 @@
+<!-- omit from toc -->
 # Changelog
-
+<!-- omit from toc -->
 ## Versions
 
 <details>
 <summary> Versions: Click to expand </summary>
 
-- [Changelog](#changelog)
-  - [Versions](#versions)
-  - [Version 4.0.1.0](#version-4010) 
-  - [Version 4.0.0.0](#version-4000)
-    - [Short Descrioption](#short-descrioption)
-    - [New Mods](#new-mods)
-    - [Removed Mods](#removed-mods)
-    - [Updated mods (only mentioned if they fixed things)](#updated-mods-only-mentioned-if-they-fixed-things)
-  - [Version 3.1.0.1](#version-3101)
-  - [Version 3.1.0.0](#version-3100)
-    - [Short Description](#short-description)
-    - [Added](#added)
-    - [Removed](#removed)
-    - [Updated](#updated)
-  - [Version 3.0.1.1](#version-3011)
-  - [Short Descriptsion](#short-descriptsion)
-    - [Updates](#updates)
-  - [Version 3.0.1.0](#version-3010)
-    - [Short Description](#short-description-1)
-    - [Additions](#additions)
-    - [Removals](#removals)
-  - [Version 3.0.0.0](#version-3000)
-    - [Short Description](#short-description-2)
-    - [Updates](#updates-1)
-    - [Removals](#removals-1)
-    - [Additions](#additions-1)
-  - [Version 2.5.0.0](#version-2500)
-    - [Short Description](#short-description-3)
-    - [Updates](#updates-2)
-    - [Removals](#removals-2)
-    - [Additions](#additions-2)
+- [Version 4.1.0.0](#version-4100)
+- [Version 4.0.1.0](#version-4010)
+- [Version 4.0.0.0](#version-4000)
+- [Version 3.1.0.1](#version-3101)
+- [Version 3.1.0.0](#version-3100)
+- [Version 3.0.1.1](#version-3011)
+- [Version 3.0.1.0](#version-3010)
+- [Version 3.0.0.0](#version-3000)
+- [Version 2.5.0.0](#version-2500)
+
 </details>
+
+## Version 4.1.0.0
+**Update is potentially save safe**
+<details>
+<summary>Click to expand </Summary>
+
+### Short Description<!-- omit from toc -->
+
+- fixed Sin7 enemy speed
+- added Kreate preset
+- updated some mods
+- ReShade default preset changed
+
+**List will stay as is as long as there's no gamebreaking bugs**
+
+### New Mods<!-- omit from toc -->
+- [new ReShade Preset](https://www.nexusmods.com/skyrimspecialedition/mods/96415)
+- KreatE
+
+</details>
+
 
 ## Version 4.0.1.0
 **Update should be save safe but you need to save the game right after starting it**
 <details>
 <summary> Click to expand </summary>
 
-### Short Description:
+### Short Description:<!-- omit from toc -->
 
 - Fixed unarmed animations
 - potentially fixed annoying block bug
@@ -51,20 +52,20 @@
 - fixed T-Posing after stagger for NPCs
 - changed ReShade Preset
 
-### New Mods:
+### New Mods:<!-- omit from toc -->
 - TK Dodge RE
 - Fists of Fury
 - Brawl Lines Expansion and Fixes
 - Caught Red Handed
 - Heart of Dibella - Quest Expansion
 
-### Removed Mods:
+### Removed Mods:<!-- omit from toc -->
 - DMCO
 - Cancelable Large Stagger
 - Poise Stagger animations
 - Blockrunner
 
-### Updated Mods:
+### Updated Mods:<!-- omit from toc -->
 - JaySerpa's quest expansions
 - Vestige
 
@@ -76,7 +77,7 @@
 <details>
 <summary> Click to expand </summary>
 
-### Short Descrioption
+### Short Descrioption<!-- omit from toc -->
 
 **Almost a complete rebuild of the list. Now it uses community shaders and a reshade setup instead of ENB by default. Performance is way better than ever before!**
 
@@ -110,7 +111,7 @@
 - a lot of things changed for balancing reasons
 - magic is a tad harder early game, still powerful
 
-### New Mods (too many to list)
+### New Mods (too many to list)<!-- omit from toc -->
 - Survival Mode Improved - SKSE (replaces various Survival mode mods)
 - Ryn's Bleakfalls Barrow + Tower
 - Doomstone - An Uncreative Standing Stone Overhaul (Standing stone models remain from Menhir)
@@ -134,7 +135,7 @@
 - New Horizon UI
 - taunt your enemies and remote interactions
 
-### Removed Mods (too many to list)
+### Removed Mods (too many to list)<!-- omit from toc -->
 - Shadow of Meresis quest was broken + the disco ship didn't look good either
 - Glamoril - The Maze of Labyrinthian. Great idea in theory but the removal of it fixed the random explosions...
 - Breakable Equipment System. I didn't like it after having it activated for 2 playthroughs
@@ -150,7 +151,7 @@
 - Claws and Whips (claws are annoying, whips are broken)
 - Hogwarts in Skyrim (too strong)
 
-### Updated mods
+### Updated mods<!-- omit from toc -->
 - too many to list, basically the whole list got updated
 
 </details>
@@ -172,7 +173,7 @@
 <details>
 <summary> Click to expand </summary>
 
-### Short Description
+### Short Description<!-- omit from toc -->
 
 - new bandit mod
 - easier NCGD settings as option
@@ -183,7 +184,7 @@
 - Changelog with links is not complete and format of it will change in the future because the automatic changelog generation of Wabbajack doesn't work anymore
 - Removed Version 1.0 - 2.5 from the changelog
 
-### Added
+### Added<!-- omit from toc -->
 
 - [Completionist - Skyrim Completion Tracker (NG)](https://www.nexusmods.com/skyrimspecialedition/mods/46358)
 - [Creation Club Farming - Tweaks Enhancements and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029)
@@ -198,13 +199,13 @@
 - [Scythe Moveset for MCO](https://www.nexusmods.com/skyrimspecialedition/mods/76475)
 - **+ a few other mods**
 
-### Removed
+### Removed<!-- omit from toc -->
 
 - [INI Editor MCM](https://www.nexusmods.com/skyrimspecialedition/mods/73595)
 - [Staves Give XP](https://www.nexusmods.com/skyrimspecialedition/mods/34654/?tab=files&file_id=133812)
 - **+ a few other mods**
 
-### Updated
+### Updated<!-- omit from toc -->
 
 - [Better Floating Damage preset](https://www.nexusmods.com/skyrimspecialedition/mods/47523/?tab=files&file_id=195419)
 - [Compass Navigation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=313638)
@@ -229,12 +230,12 @@
 <details>
 <summary> Click to expand </summary>
 
-## Short Descriptsion
+## Short Description<!-- omit from toc -->
 
 - Fixed crash due to outdated dll mod
 - updated Survival mode improved
   
-### Updates
+### Updates<!-- omit from toc -->
 
 - [Dynamic Collision Adjustment](https://www.nexusmods.com/skyrimspecialedition/mods/76783)
 - [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374)
@@ -249,7 +250,7 @@
 <details>
 <summary> Click to expand </summary>
 
-### Short Description
+### Short Description<!-- omit from toc -->
 
 - nerfed some effects of a few enemies (looking at you Flesh Colossus)
 - nerfed Spriggans, heavily. stupid tree people
@@ -261,13 +262,13 @@
 - Changed Default ENB settings
 - Changed HUD colors of TrueHUD
 
-### Additions
+### Additions<!-- omit from toc -->
 
 - [Anima Nera - Serana Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57698)
 - [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
 - [KS Hairdos SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
 
-### Removals
+### Removals<!-- omit from toc -->
 
 - [Dragonborn Waifus - Serana Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/58521)
 - [Sinister Seven Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/62234)
@@ -285,7 +286,7 @@
 - Download Size: Total: 78.2GB
 - Install Size: Total: 111.8GB
 
-### Short Description
+### Short Description<!-- omit from toc -->
 - Complete overhaul of the list
 - new perk mods
 - new combat setup
@@ -297,7 +298,7 @@
 - New items and weapon types
 - overhauled loot
 
-### Updates
+### Updates<!-- omit from toc -->
 
 - [5LCat's Utils (CatHub)](https://www.nexusmods.com/skyrimspecialedition/mods/65958/?tab=files&file_id=277292)
 - [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=310719)
@@ -383,7 +384,7 @@
 - [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=304790)
 - [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=309695)
 
-### Removals
+### Removals<!-- omit from toc -->
 
 - [(SJG) Dual Wield Parrying Reimplementation for SSE (Works for Spell Blades as well)](https://www.nexusmods.com/skyrimspecialedition/mods/18264/?tab=files&file_id=58573)
 - [Animated Armoury Vigilant Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22964/?tab=files&file_id=100735)
@@ -461,7 +462,7 @@
 - [Zartar's Character Behaviors Enhanced Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62101/?tab=files&file_id=257845)
 - [Zdo Immersive Death](https://www.nexusmods.com/skyrimspecialedition/mods/35517/?tab=files&file_id=140186)
 
-### Additions
+### Additions<!-- omit from toc -->
 
 - [ADXP I  MCO Animation Skyrim Martial Arts - Kick Boxing](https://www.nexusmods.com/skyrimspecialedition/mods/69201/?tab=files&file_id=289252)
 - [ADXP I MCO AC Valhalla Nordic Animation Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/71600/?tab=files&file_id=302331)
@@ -618,7 +619,7 @@
 <details>
 <summary> Click to expand </summary>
 
-### Short Description
+### Short Description<!-- omit from toc -->
 - Remade the entire list's conflict patching
 - overhauled some textures
 - new tree setup
@@ -630,7 +631,7 @@
 - Download Size change: -11.9GB (Total: 81.7GB)
 - Install Size change: -25.6GB (Total: 128.5GB)
 
-### Updates
+### Updates<!-- omit from toc -->
 
 - [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=300944)
 - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=298591)
@@ -688,7 +689,7 @@
 - [Vigilants of Stendarr Templar Armor](https://www.nexusmods.com/skyrimspecialedition/mods/63536/?tab=files&file_id=264474)
   
 
-### Removals
+### Removals<!-- omit from toc -->
 
 
 - [A Mysterious Place (AMP) ENB](https://www.nexusmods.com/skyrimspecialedition/mods/60977/?tab=files&file_id=253456)
@@ -751,7 +752,7 @@
 - [XPMSSE Weapon Styles Uncloaked](https://www.nexusmods.com/skyrimspecialedition/mods/54720/?tab=files&file_id=224496)
 - [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160/?tab=files&file_id=244151)
 
-### Additions
+### Additions<!-- omit from toc -->
 
 - [(DAR)Death animation variation SE](https://www.nexusmods.com/skyrimspecialedition/mods/63919/?tab=files&file_id=265401)
 - [(SJG) Dual Wield Parrying Reimplementation for SSE (Works for Spell Blades as well)](https://www.nexusmods.com/skyrimspecialedition/mods/18264/?tab=files&file_id=58573)

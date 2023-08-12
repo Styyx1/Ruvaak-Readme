@@ -1,3 +1,4 @@
+<!-- omit from toc -->
 # Ruvaak
 
 Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversary Edition DLC** by Styyx
@@ -23,56 +24,47 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-## Contents
-- [Ruvaak](#ruvaak)
-  - [Contents](#contents)
-  - [Preamble](#preamble)
-  - [System Requirements](#system-requirements)
-    - [1080p (my specs)](#1080p-my-specs)
-  - [Installation](#installation)
-    - [Pre-Installation](#pre-installation)
-    - [Wabbajack Installation](#wabbajack-installation)
-      - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Ruvaak](#downloading-and-installing-ruvaak)
-      - [Beta Install](#beta-install)
-        - [Problems with installation](#problems-with-installation)
-  - [Post-Installation](#post-installation)
-    - [Gameplay Changes](#gameplay-changes)
-    - [Game Folder](#game-folder)
-    - [ENB](#enb)
-    - [Optional Mods](#optional-mods)
-  - [Playing the List](#playing-the-list)
-    - [Starting up the list](#starting-up-the-list)
-    - [In-Game MCM options](#in-game-mcm-options)
-    - [Starting the Game](#starting-the-game)
-    - [Immersive Equipment Display Presets](#immersive-equipment-display-presets)
-  - [Updating the modlist](#updating-the-modlist)
-  - [FAQ](#faq)
-    - [Controller Setup](#controller-setup)
-    - [Ultrawide Options](#ultrawide-options)
-      - [Althro's recommendations](#althros-recommendations)
-    - [Failed to create download folder](#failed-to-create-download-folder)
-    - [BA Alchemist Arsenal](#ba-alchemist-arsenal)
-    - [Overpowered Enemies](#overpowered-enemies)
-    - [OP Loot](#op-loot)
-    - [Survival Mode](#survival-mode)
-    - [Equipment is too weak](#equipment-is-too-weak)
-    - [TK Dodge Keybinds](#tk-dodge-keybinds)
-    - [Power Attacks](#power-attacks)
-    - [Help I can't open locks](#help-i-cant-open-locks)
-    - [Can't use Crafting Stations](#cant-use-crafting-stations)
-    - [I can't become a vampire lord](#i-cant-become-a-vampire-lord)
-    - [Tweaking the Game Settings](#tweaking-the-game-settings)
-      - [BethINI](#bethini)
-      - [ENB](#enb-1)
-        - [Turning off settings for FPS](#turning-off-settings-for-fps)
-    - [Zoomed in Display](#zoomed-in-display)
-    - [Modifications](#modifications)
-  - [Removing the Modlist](#removing-the-modlist)
-  - [Known Issues](#known-issues)
-  - [I found a bug](#i-found-a-bug)
-  - [Changelog](#changelog)
-  - [Credits and Thanks](#credits-and-thanks)
+## Contents<!-- omit from toc -->
+- [Preamble](#preamble)
+- [System Requirements](#system-requirements)
+  - [1080p (my specs)](#1080p-my-specs)
+- [Installation](#installation)
+  - [Pre-Installation](#pre-installation)
+  - [Wabbajack Installation](#wabbajack-installation)
+    - [Installing Wabbajack](#installing-wabbajack)
+    - [Downloading and Installing Ruvaak](#downloading-and-installing-ruvaak)
+      - [Problems with installation](#problems-with-installation)
+- [Post-Installation](#post-installation)
+- [Playing the List](#playing-the-list)
+  - [Starting up the list](#starting-up-the-list)
+  - [In-Game MCM options](#in-game-mcm-options)
+  - [Starting the Game](#starting-the-game)
+  - [Immersive Equipment Display Presets](#immersive-equipment-display-presets)
+- [Updating the modlist](#updating-the-modlist)
+- [FAQ](#faq)
+  - [Controller Setup](#controller-setup)
+  - [Ultrawide Options](#ultrawide-options)
+    - [Althro's recommendations](#althros-recommendations)
+  - [Failed to create download folder](#failed-to-create-download-folder)
+  - [BA Alchemist Arsenal](#ba-alchemist-arsenal)
+  - [Overpowered Enemies](#overpowered-enemies)
+  - [OP Loot](#op-loot)
+  - [Survival Mode](#survival-mode)
+  - [Equipment is too weak](#equipment-is-too-weak)
+  - [TK Dodge Keybinds](#tk-dodge-keybinds)
+  - [Power Attacks](#power-attacks)
+  - [Help I can't open locks](#help-i-cant-open-locks)
+  - [Can't use Crafting Stations](#cant-use-crafting-stations)
+  - [I can't become a vampire lord](#i-cant-become-a-vampire-lord)
+  - [Tweaking the Game Settings](#tweaking-the-game-settings)
+    - [BethINI](#bethini)
+  - [Zoomed in Display](#zoomed-in-display)
+  - [Modifications](#modifications)
+- [Removing the Modlist](#removing-the-modlist)
+- [Known Issues](#known-issues)
+- [I found a bug](#i-found-a-bug)
+- [Changelog](#changelog)
+- [Credits and Thanks](#credits-and-thanks)
 
 ## Preamble
 
@@ -83,7 +75,7 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 [![Ruvaak Showcase](https://img.youtube.com/vi/dpUbcLK0zB4/hqdefault.jpg)](https://youtu.be/dpUbcLK0zB4?t)
 
 
-#  **__Ruvaak requires the *full* AE upgrade, which means you must       *purchase* the AE edition of the game for the list to function.__**  
+#  **__Ruvaak requires the *full* AE upgrade, which means you must       *purchase* the AE edition of the game for the list to function.__**  <!-- omit from toc -->
 
 
 
@@ -157,7 +149,7 @@ Downloading and installing Ruvaak can take a while depending on your internet co
 
 ***
 
-#### Beta Install
+#### Beta Install<!-- omit from toc -->
 
 - To install a beta version of the list (I might publish updates as an open beta first to ensure stability with the main release) refer to the [beta install instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/Beta%20Release%20instructions.md)
 
@@ -183,34 +175,23 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation
 
-### Gameplay Changes
+### Gameplay Changes<!-- omit from toc -->
 
 This readme constsist of multiple parts. Check out the other parts like [Changes to gameplay](changes%20to%20gameplay.md) and the [Beginner's Guide](Ruvaak%20Beginners%20guide.md).
 
-### Game Folder
+### Game Folder<!-- omit from toc -->
 
 Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
-### ENB
-
-Ruvaak comes already set up with [E.V.C. ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743).
-
-In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with a few options. Depending on your PC you might want to check them out. If you want to install your own ENB put them into a separate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.
-
-Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
-
-ENB is disabled by default, if you want to enable it, activate all mods under the ``ENB`` separator in MO2.
-
-**NOTE: To fully remove ENB, you need to disable all mods under the ENB separator and turn it off in ENB Organiser**
-
 ***
 
-### Optional Mods
+### Optional Mods<!-- omit from toc -->
 
 In your MO2 window you will find a separator called 'Optional Mods' mods within this separator are save to activate mid game unless stated otherwise. Removal of them is not advised mid game.
 - A few music mods. They can be enabled/disabled at any time, feel free to try them.
+- There's also a sound fix mod at the end of the load order. Enable it only if you can't hear some sounds
 
-
+***
 ## Playing the List
 
 ### Starting up the list
@@ -348,26 +329,9 @@ That's because you decided to be one of the vampire strains most likely. You can
 To get some more FPS, tweak the following value in the detail section in BethINI. You find BethINI inside the tools folder within the list installation folder.
 
 - `Shadow Resolution`: 2048
-- `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must then you can.
 
-#### ENB
-
-Ruvaak ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
-
-
-##### Turning off settings for FPS
-
-If you are struggling for frames but want the colour correction and realism, turn off the following items.
-
-- DetailedShadows
-- ComplexFireLights
-- ComplexParticleLights – Disable Big Range
-- Reflection
-- Complex Grass Collision
-- Complex Grass
-
-If you really cannot handle the ENB, uncheck `useEffect` and try out the ReShade preset in ENB Manager.
+**Ruvaak uses Community Shaders and ReShade there's not much you can do besides the above mentioned settings to get more performance out of it.**
 
 ### Zoomed in Display
 
@@ -376,15 +340,13 @@ This is caused by Windows display scaling feature. To fix this you can do either
 - Edit SSE Display Tweaks ini file under Render
 	- Fullscreen: `True`
 	- Borderless: `False`
-	
-For further changes of the ENB please refer to [Anna's ENB Guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) but note, you are on your own with that cause neither I, nor Anna can provide any support for everyone who changes values in their ENBs.
 
 ***
     
 ### Modifications
 **Can I add? Is X compatible?**
 
-In case you have questions like these, refer to the [modification page](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/Ruvaak_Modifications.md).<br > Note that you need to know a bit about modding to successfully change stuff. We have a general modding channel in our support server where you can talk about modifications.
+In case you have questions like these, refer to the [modification page](https://github.com/Styyx1/Ruvaak-Readme/blob/main/.github/Ruvaak_Modifications.md).<br > Note that you need to know a bit about modding to successfully change stuff and I won't provide support for modified installs.
 
 ## Removing the Modlist
 Simply delete the folder and you have uninstalled it.
@@ -394,11 +356,11 @@ Simply delete the folder and you have uninstalled it.
 
 ## I found a bug
 
-Go to the GitHub [Issues](https://github.com/chri3i/Ruvaak-Readme/issues) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
+Go to the GitHub [Issues](https://github.com/Styyx1/Ruvaak-Readme/issues) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
 
 ## Changelog
 
-For see what changes happened in each version please refer to the [Changelog](https://github.com/Styyx1/Ruvaak-Readme/blob/Update-4.0/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
+For see what changes happened in each version please refer to the [Changelog](https://github.com/Styyx1/Ruvaak-Readme/blob/main/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
 
 ## Credits and Thanks
 
