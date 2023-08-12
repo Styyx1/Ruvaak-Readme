@@ -11,8 +11,8 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
 <tr>
 <td><img src="https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/WJIcon.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>    
-<td><img src="https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/GitHub.png" width="72px" /></td>
-<td><a href="https://discord.gg/DffHKcszfg">Support Discord</a></td>
+<td><img src="https://cdn.discordapp.com/icons/1132691434420576337/a84d3c6ed7807aec2a8b758e96e50acf.webp?size=128" width="72px" /></td>
+<td><a href="https://discord.gg/xRrHRsb5e9">Support Discord</a></td>
 </tr>
 </table>
 
