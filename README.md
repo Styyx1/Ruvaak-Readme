@@ -12,7 +12,7 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
 <td><img src="https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/WJIcon.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>    
 <td><img src="https://cdn.discordapp.com/icons/1132691434420576337/a84d3c6ed7807aec2a8b758e96e50acf.webp?size=128" width="72px" /></td>
-<td><a href="https://discord.gg/xRrHRsb5e9">Support Discord</a></td>
+<td><a href="https://discord.gg/aetherius-modding"><img alt="Discord" src="https://img.shields.io/discord/1132691434420576337?style=for-the-badge&label=Aetherius%20Modding"></a></td>
 </tr>
 </table>
 
