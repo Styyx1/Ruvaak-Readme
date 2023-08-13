@@ -6,6 +6,7 @@
 <details>
 <summary> Versions: Click to expand </summary>
 
+- [Version 4.1.1.0](#version-4110)
 - [Version 4.1.0.0](#version-4100)
 - [Version 4.0.1.0](#version-4010)
 - [Version 4.0.0.0](#version-4000)
@@ -17,6 +18,20 @@
 - [Version 2.5.0.0](#version-2500)
 
 </details>
+
+## Version 4.1.1.0
+**safe to update**
+<details>
+<summary>Click to expand</summary>
+
+### Short Description<!-- omit from toc -->
+
+- fixed startup crash
+- fixed block bug for real, thanks to zonquert for the fix.
+
+
+</details>
+
 
 ## Version 4.1.0.0
 **Update is potentially save safe**
