@@ -66,6 +66,7 @@ This readme constsist of multiple parts. Check out the other parts like [Changes
 - [Known Issues](#known-issues)
 - [I found a bug](#i-found-a-bug)
 - [Changelog](#changelog)
+- [Support](#support)
 - [Credits and Thanks](#credits-and-thanks)
 
 </details>
@@ -367,6 +368,10 @@ Go to the GitHub [Issues](https://github.com/Styyx1/Ruvaak-Readme/issues) page a
 ## Changelog
 
 For see what changes happened in each version please refer to the [Changelog](https://github.com/Styyx1/Ruvaak-Readme/blob/main/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
+
+## Support
+
+If you feel like I did a good job with the list and want to support my work, consider donating to my [ko-fi](https://ko-fi.com/styyx). 
 
 ## Credits and Thanks
 
