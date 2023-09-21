@@ -326,6 +326,10 @@ Check out the perk mod as it restricts usuage for every crafting station and way
 
 That's because you decided to be one of the vampire strains most likely. You can't become a vampire lord with some of them. **THIS IS NOT A BUG**.
 
+### Game is too dark
+
+Vanilla settings menu has a brightness slider. ``Settings --> Display``. Adjust as you see fit.
+
 
 ***
 
