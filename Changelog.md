@@ -6,6 +6,7 @@
 <details>
 <summary> Versions: Click to expand </summary>
 
+- [Version 4.2.0.0](#version-4200)
 - [Version 4.1.1.0](#version-4110)
 - [Version 4.1.0.0](#version-4100)
 - [Version 4.0.1.0](#version-4010)
@@ -18,6 +19,25 @@
 - [Version 2.5.0.0](#version-2500)
 
 </details>
+
+## Version 4.2.0.0
+**Version <ins>does require</ins> a new game**
+<details>
+<summary>Click to Expand</summary>
+
+### Changes<!-- omit from toc -->
+- Changed weather to Obsidian
+- removed Kreate + its dependency
+- fixed Dragonstone bug 
+- added Timed Lockpicking
+- Updated SMP/ made SMP - CUDA disabled by default
+- updated a bunch of mods
+- removed Corgie followers
+- better ReShade Preset
+- updated [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622), **check out the modpage for details to the update**
+
+</details>
+
 
 ## Version 4.1.1.0
 **safe to update**
