@@ -20,10 +20,12 @@
 
 </details>
 
-## Version 4.2.1.0
+## Version 4.2.2.0
 **Version <ins>does not require</ins> a new game and there's no need to update if you have the list installed already**
 
 Warnings about missing plugins can be safely ignored. Just make sure to make a save right after you loaded in.
+
+This is most likely the last version of the list using MCO
 
 <details>
 <summary>Click to Expand</summary>
