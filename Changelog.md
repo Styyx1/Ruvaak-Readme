@@ -20,6 +20,25 @@
 
 </details>
 
+## Version 4.2.1.0
+**Version <ins>does not require</ins> a new game and there's no need to update if you have the list installed already**
+
+Warnings about missing plugins can be safely ignored. Just make sure to make a save right after you loaded in.
+
+<details>
+<summary>Click to Expand</summary>
+
+### Changes<!-- omit from toc -->
+- Changed download links to make the list installable again
+- removed Distar's creature mod (not freely available anymore)
+- removed underwater combat (not freely available anymore)
+- updated MCO cause the version Ruvaak used is not available anymore
+
+</details>
+
+
+</details>
+
 ## Version 4.2.0.0
 **Version <ins>does require</ins> a new game**
 <details>
