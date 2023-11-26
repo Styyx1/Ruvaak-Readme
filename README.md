@@ -238,7 +238,6 @@ Ruvaak also makes use of a few GUI menus:
 - [CatHub](https://www.nexusmods.com/skyrimspecialedition/mods/65958) allows you to customize kill moves and chances for kill moves. Key ``NumPad . (, for German keyboards)``.
 - [Immersive Equipment Distplay](https://www.nexusmods.com/skyrimspecialedition/mods/62001) allows you to show equipment on your character. Key ``left ctrl + Backspace``.
 - [QUI](https://www.nexusmods.com/skyrimspecialedition/mods/65343?tab=files) is basically AddItem Menu. I don't suggest using it unless you know which items are definitely safe to take. Key ``F11``
-- ENB to adjust visuals and many effects. Only use it when you know what you're doing. Key ``home``.
 - [PlayerStats](https://www.nexusmods.com/skyrimspecialedition/mods/67622) allows you to see Actor Values, such as Negative Resistances gained from eating alchemical ingredients, Attributes (current and max), etc using the ``NumPad Enter`` key. 
 
 ***
